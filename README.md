@@ -56,6 +56,7 @@
 
 ## 📓 Guides
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
+- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guide on setting up dummy plugs and virtual displays for Sunshine on Windows hosts.
 
 
 ## Contribute
