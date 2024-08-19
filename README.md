@@ -8,6 +8,7 @@
 
 <div align="center">
 [
+  <a href="#-clients">Clients</a> •
   <a href="#%EF%B8%8F-tools">Tools</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
@@ -17,6 +18,21 @@
 ]
 </div>
 
+## 📺 Clients
+
+### ✳️ Official Moonlight Clients
+- [Android](https://github.com/moonlight-stream/moonlight-android) - Official Android client.
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Official ChromeOS client.
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Official iOS client.
+- [QT](https://github.com/moonlight-stream/moonlight-qt) - Official QT client.
+- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Official Embedded client.
+
+### ✴️ Third-Party Moonlight Clients
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch client.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
 ## 🛠️ Tools
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
@@ -27,7 +43,7 @@
 - [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
 
-### 📺 Frontends
+### 💠 Frontends
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
