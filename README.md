@@ -37,6 +37,7 @@
 ## 🛠️ Tools
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 
 ### 🎮 Game Stores
 - [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
