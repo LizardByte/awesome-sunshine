@@ -59,6 +59,9 @@
 - [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
+- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync
 
 ## 📓 Guides
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
