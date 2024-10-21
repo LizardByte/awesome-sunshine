@@ -57,10 +57,10 @@
 
 ## 📜 Scripts
 - [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automates turning off HDR on host if the Moonlight client is asking for an SDR stream.
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plug on Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
 - [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plug on Linux
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
