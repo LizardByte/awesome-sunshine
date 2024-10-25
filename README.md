@@ -64,6 +64,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.
 
 ## 📓 Guides
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
