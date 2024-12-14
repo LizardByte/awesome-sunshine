@@ -57,9 +57,9 @@
 ### 💻 虚拟显示
 
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 适用于VR、OBS、Sunshine和/或任何桌面共享软件。
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - 一个Windows虚拟显示驱动程序以添加多个虚拟显示器到您的 PC! Win10+。 适用于VR、obs、流媒体软件等。
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 适用于VR、OBS、Sunshine和/或任何桌面共享软件。 Win10+。 适用于VR、obs、流媒体软件等。
 
 ## 📜 脚本
 
@@ -80,6 +80,6 @@
 
 ## 贡献
 
-欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
+欢迎贡献！ 欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 。
