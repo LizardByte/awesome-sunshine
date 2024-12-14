@@ -2,84 +2,84 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Awesome Sunshine</h1>
-  <h4 align="center">A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software</h4>
+  <h1 align="center">Sol Incrível</h1>
+  <h4 align="center">Uma coleção de Sunshine Scripts, Ferramentas, Guias e Software de Companion Awesome</h4>
 </div>
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-clients">Clientes</a> •
+  <a href="#%EF%B8%8F-tools">Ferramentas</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
   <a href="#-scripts">Scripts</a> •
-  <a href="#-guides">Guides</a>
+  <a href="#-guides">Guias</a>
 ]
 </div>
 
-## 📺 Clients
+## 📺 Clientes
 
-### ✳️ Official Moonlight Clients
+### ✳️ Clientes oficiais do Moonlight
 
-- [Android](https://github.com/moonlight-stream/moonlight-android) - Official Android client.
-- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Official ChromeOS client.
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Official iOS client.
-- [QT](https://github.com/moonlight-stream/moonlight-qt) - Official QT client.
-- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Official Embedded client.
+- [Android](https://github.com/moonlight-stream/moonlight-android) - Cliente Android oficial.
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Cliente ChromeOS Oficial.
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Cliente oficial para iOS.
+- [QT](https://github.com/moonlight-stream/moonlight-qt) - Cliente QT Oficial.
+- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Cliente Embutido Oficial.
 
-### ✴️ Third-Party Moonlight Clients
+### ✴️ Clientes de terceiros luz Lunar
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch client.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Cliente UWP/Xbox (One/Series).
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - Cliente PS Vita.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Cliente Nintendo Switch.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - cliente LG webOS TV.
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
-- [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
-- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [GSMS](https://github.com/LizardByte/GSMS) - Migre jogos e aplicativos do GeForce Experience para Sunshine.
+- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adiciona jogos de caminhos comuns de instalação de jogos ao Sunshine.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para usar com o streaming de jogos Sunshine / Moonlight / Playnite.
 
-### 🎮 Game Stores
+### 🎮 Lojas de Jogos
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
-- [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [Epic Games](https://www.epicgames.com) - A Epic Games Store oferece jogos gratuitos todas as semanas.
+- [GOG](https://www.gog.com) - GOG é uma plataforma de distribuição digital que coloca os jogadores em primeiro lugar e respeita sua necessidade de possuir jogos.
+- [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
 ### 💠 Frontends
 
-- [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-- [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [LaunchBox](https://www.launchbox-app.com/) - Emule, organize e embeleze a sua coleção de jogos.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Gestor de bibliotecas de jogos de vídeo com suporte para uma vasta gama de bibliotecas de terceiros e suporte de emulação de jogos, fornecendo uma interface unificada para os seus jogos.
+- [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
 ### 💻 Virtual Displays
 
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Display Virtual Parsec Standalone
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adicione monitores virtuais ao seu dispositivo Windows 10/11! Funciona com VR, OBS, Sol e/ou qualquer software de compartilhamento de desktop.
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Uma ferramenta de GUI que pode se integrar com outros softwares, como Sunshine para uma manipulação eficiente de implementações do Indirect Display Driver (IddSample).
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Um driver de exibição virtual do Windows para adicionar vários monitores virtuais ao seu PC! Para Win10+. Funciona com VR, obs, software de streaming, etc.
 
 ## 📜 Scripts
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automates turning off HDR on host if the Moonlight client is asking for an SDR stream.
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plug on Linux.
+- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automatiza desligar o HDR no hospedeiro se o cliente Moonlight estiver pedindo um fluxo SDR.
+- [Automação Dummy Plug ](https://github.com/XenHat/dummy-plug-automation) - Automação para streaming remoto usando um plug fictício no Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
-- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - o alternador G-Sync da Nvidia.
+- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automatica trocar para um plug fictício quando estiver transmitindo.
+- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games para iniciar e terminar com Sunshine.
+- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiza a alteração da resolução de host para corresponder à resolução de cliente do Moonlight.
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - o alternar V-Sync da Nvidia.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações no ecrã do sistema, como a ativação de um ecrã virtual, o ajuste da resolução, a taxa de atualização, o HDR, o G-Sync e os limites de FPS para uma transmissão optimizada.
 
-## 📓 Guides
+## 📓 Guias
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guide on setting up dummy plugs and virtual displays for Sunshine on Windows hosts.
+- [Documentação LizardByte](https://docs.lizardbyte.dev/projects/sunshine) - Documentação oficial do Sunshine.
+- [Recomendações Dummy Plug Relet](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guia sobre configuração de plugs fictícios e telas virtuais para Sunshine em hosts Windows.
 
-## Contribute
+## Contribuir
 
-Contributions welcome! But, please follow the LizardByte
-[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
-when contributing to this project.
+Contribuições são bem-vindas! Mas, por favor, siga o LizardByte
+[Guia de Contribuições](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+ao contribuir para este projeto.

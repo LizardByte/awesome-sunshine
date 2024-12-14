@@ -21,7 +21,7 @@
 
 ## 📺 Kunden
 
-### :8 t-spoked_asterisk: Offizielle Mondlicht-Kunden
+### ✳️ Offizielle Moonlight-Kunden
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Offizielle Android-Client.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Offizielle ChromeOS-Client.
@@ -29,7 +29,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Offizielle QT-Client.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Offizielle Embedded Client.
 
-### :8 Punkte_star: Kunden von Drittanbietern Moonlight
+### ✴️ Moonlight-Kunden von Drittanbietern
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.

@@ -2,84 +2,84 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Awesome Sunshine</h1>
-  <h4 align="center">A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software</h4>
+  <h1 align="center">神奇的阳光</h1>
+  <h4 align="center">神奇的日光脚本集，工具、指南和伴侣软件</h4>
 </div>
 
 <div align="center">
 [
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#%EF%B8%8F-tools">工具</a> •
   <a href="#-game-stores">Game Stores</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Virtual Displays</a> •
-  <a href="#-scripts">Scripts</a> •
+  <a href="#-frontends">Fronades</a> •
+  <a href="#-virtual-displays">虚拟显示</a> •
+  <a href="#-scripts">Script</a> •
   <a href="#-guides">Guides</a>
 ]
 </div>
 
-## 📺 Clients
+## 📺 客户端
 
-### ✳️ Official Moonlight Clients
+### ✳️ 官方月光客户端
 
-- [Android](https://github.com/moonlight-stream/moonlight-android) - Official Android client.
-- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Official ChromeOS client.
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Official iOS client.
-- [QT](https://github.com/moonlight-stream/moonlight-qt) - Official QT client.
-- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Official Embedded client.
+- [Android](https://github.com/moonlight-stream/moonlight-android) - 官方安卓客户端。
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - 官方的 ChromeOS 客户端。
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - 官方iOS客户端。
+- [QT](https://github.com/moonlight-stream/moonlight-qt) - 官方的 QT 客户端。
+- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - 官方嵌入式客户端。
 
-### ✴️ Third-Party Moonlight Clients
+### ✴️ 第三方月光客户端
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch client.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) 客户端。
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita客户端。
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - 任天堂切换客户端。
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS 电视客户端。
 
-## 🛠️ Tools
+## 🛠️ 工具
 
-- [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
-- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 Geforce 经验迁移到 Sunshine 。
+- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加到Sunshine。
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于使用日光/月光/Playnite 游戏流的实用程序。
 
-### 🎮 Game Stores
+### 🎮 游戏商店
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
-- [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [史诗游戏](https://www.epicgames.com) - 史诗游戏商店每周提供免费游戏。
+- [GOG](https://www.gog.com) - GOG 是一个数字分发平台，它把玩家放在首位，尊重他们自己的游戏需要。
+- [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
-### 💠 Frontends
+### 💠 前端
 
-- [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-- [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify 你的游戏收藏集。
+- [Playnite](https://github.com/JosefNemec/Playnite)--视频游戏库管理器，支持大量第三方游戏库和游戏模拟，为你的游戏提供一个统一的界面。
+- [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
-### 💻 Virtual Displays
+### 💻 虚拟显示
 
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 适用于VR、OBS、Sunshine和/或任何桌面共享软件。
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - 一个Windows虚拟显示驱动程序以添加多个虚拟显示器到您的 PC! Win10+。 适用于VR、obs、流媒体软件等。
 
-## 📜 Scripts
+## 📜 脚本
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automates turning off HDR on host if the Moonlight client is asking for an SDR stream.
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plug on Linux.
-- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
-- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.
+- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - 如果月光客户端请求SDR流，自动在主机关闭HDR
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - 使用 Linux 上虚拟插件的远程流媒体自动化。
+- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia的帧速率限制器。
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia的切换G-Sync。
+- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - 在串流时自动交换到虚拟插槽。
+- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - 配置Steam/PlayNite Games来启动和终止Sunshine。
+- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - 自动更改主机分辨率以匹配月亮的客户端分辨率。
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia的切换V-Sync。
+- [Windows 显示自动化](https://github.com/fehbari/sunshine-scripts) - 自动进行系统显示更改，如启用虚拟显示器、调整分辨率、刷新率、HDR、G-Sync 和 FPS 限制，以优化流媒体。
 
-## 📓 Guides
+## 📓 参考线
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guide on setting up dummy plugs and virtual displays for Sunshine on Windows hosts.
+- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine的官方文件。
+- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - 关于设置虚拟外挂插件和在Windows主机上的 Sunshine 虚拟显示的指南。
 
-## Contribute
+## 贡献
 
-Contributions welcome! But, please follow the LizardByte
+欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
-when contributing to this project.
+。
