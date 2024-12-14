@@ -50,7 +50,7 @@
 
 ### 💠 Frontends
 
-- [LaunchBox] (https://www.launchbox-app.com/) - Emule, organize e embeleze a sua coleção de jogos.
+- [LaunchBox](https://www.launchbox-app.com/) - Emule, organize e embeleze a sua coleção de jogos.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Gestor de bibliotecas de jogos de vídeo com suporte para uma vasta gama de bibliotecas de terceiros e suporte de emulação de jogos, fornecendo uma interface unificada para os seus jogos.
 - [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
@@ -71,7 +71,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games para iniciar e terminar com Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiza a alteração da resolução de host para corresponder à resolução de cliente do Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - o alternar V-Sync da Nvidia.
-- [Windows Display Automation] (https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações no ecrã do sistema, como a ativação de um ecrã virtual, o ajuste da resolução, a taxa de atualização, o HDR, o G-Sync e os limites de FPS para uma transmissão optimizada.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações no ecrã do sistema, como a ativação de um ecrã virtual, o ajuste da resolução, a taxa de atualização, o HDR, o G-Sync e os limites de FPS para uma transmissão optimizada.
 
 ## 📓 Guias
 
