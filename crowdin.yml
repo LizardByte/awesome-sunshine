@@ -12,7 +12,7 @@
   {
     "source": "/*.md",
     "dest": "/%original_path%/%original_file_name%",
-    "translation": "/%original_path%/%file_name%_%two_letters_code%.%file_extension%",
+    "translation": "/locale/%two_letters_code%/%original_path%/%original_file_name%",
     "excluded_target_languages": [
       "en"
     ],
