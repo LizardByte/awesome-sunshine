@@ -57,9 +57,9 @@
 ### 💻 バーチャルディスプレイ
 
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、または任意のデスクトップ共有ソフトウェアで動作します。
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10+ の場合。 VR、obs、ストリーミングソフトウェアなどで動作します
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、または任意のデスクトップ共有ソフトウェアで動作します。 Win10+ の場合。 VR、obs、ストリーミングソフトウェアなどで動作します
 
 ## 📜 スクリプト
 
@@ -80,6 +80,6 @@
 
 ## 貢献
 
-コントリビューション歓迎！ しかし、このプロジェクトに貢献するときは、LizardByte
+コントリビューション歓迎！ コントリビューション歓迎！ しかし、このプロジェクトに貢献するときは、LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 に従ってください。
