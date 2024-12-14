@@ -13,9 +13,6 @@
     "source": "/*.md",
     "dest": "/%original_path%/%original_file_name%",
     "translation": "/locale/%two_letters_code%/%original_path%/%original_file_name%",
-    "excluded_target_languages": [
-      "en"
-    ],
     "languages_mapping": {
       "two_letters_code": {
         # map non-two letter codes here, left side is crowdin designation, right side is babel designation
