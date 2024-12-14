@@ -48,10 +48,10 @@
 - [GOG](https://www.gog.com) - GOG es una plataforma de distribución digital que pone a los jugadores en primer lugar y respeta su necesidad de disponer de juegos.
 - [Steam](https://store.steampowered.com) - Steam es el destino final para jugar, discutir y crear juegos.
 
-### :diamond_with_a_punto: Frontales
+### 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emular, Organizar y Beautificar tu colección de juegos.
-- om/JosefNemec/Playnite) - Administrador de videotecas con soporte para una amplia gama de bibliotecas de terceros y soporte para emulación de juegos. proporcionando una interfaz unificada para sus juegos.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Gestor de librerías de videojuegos con soporte para una amplia gama de librerías de terceros y soporte para emulación de juegos, proporcionando una interfaz unificada para tus juegos.
 - [Steam](https://store.steampowered.com) - Steam es el destino final para jugar, discutir y crear juegos.
 
 ### 💻 Pantallas virtuales
