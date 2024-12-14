@@ -20,7 +20,7 @@
 
 ## 📺 Clientes
 
-### :oito, falado_asterisk: Clientes Oficiais de Lua
+### ✳️ Clientes oficiais do Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Cliente Android oficial.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Cliente ChromeOS Oficial.
@@ -30,7 +30,7 @@
 
 ### ✴️ Clientes de terceiros luz Lunar
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixir Zammuto/moonlight-xbox) - Cliente UWP/Xbox (One/Series).
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Cliente UWP/Xbox (One/Series).
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - Cliente PS Vita.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Cliente Nintendo Switch.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
@@ -40,7 +40,7 @@
 
 - [GSMS](https://github.com/LizardByte/GSMS) - Migre jogos e aplicativos do GeForce Experience para Sunshine.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adiciona jogos de caminhos comuns de instalação de jogos ao Sunshine.
-- [sunshine_utils](https://github.com/designner-living/sunshine_utils) - Utilidades para uso na transmissão de jogos Sunshine / Moonlight / Playnite.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para usar com o streaming de jogos Sunshine / Moonlight / Playnite.
 
 ### 🎮 Lojas de Jogos
 
@@ -48,10 +48,10 @@
 - [GOG](https://www.gog.com) - GOG é uma plataforma de distribuição digital que coloca os jogadores em primeiro lugar e respeita sua necessidade de possuir jogos.
 - [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
-### :diamon_com_um_ponto: Frontends
+### 💠 Frontends
 
 - [LaunchBox] (https://www.launchbox-app.com/) - Emule, organize e embeleze a sua coleção de jogos.
-- [Playnite](https://github. om/JosefNemec/Playnite) - Gerenciador de bibliotecas de jogos de vídeo com suporte para uma ampla gama de bibliotecas de terceiros e suporte para emulação de jogos fornecendo uma interface unificada para seus jogos.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Gestor de bibliotecas de jogos de vídeo com suporte para uma vasta gama de bibliotecas de terceiros e suporte de emulação de jogos, fornecendo uma interface unificada para os seus jogos.
 - [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
 ### 💻 Virtual Displays
@@ -71,7 +71,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games para iniciar e terminar com Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiza a alteração da resolução de host para corresponder à resolução de cliente do Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - o alternar V-Sync da Nvidia.
-- [Windows Display Automation](https://github. om/fehbari/sunshine-scripts) - Automatiza as mudanças de exibição do sistema, como habilitar uma exibição virtual, ajuste a resolução de resolução, taxa de atualização, HDR, G-Sync e limites de FPS para streaming otimizado.
+- [Windows Display Automation] (https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações no ecrã do sistema, como a ativação de um ecrã virtual, o ajuste da resolução, a taxa de atualização, o HDR, o G-Sync e os limites de FPS para uma transmissão optimizada.
 
 ## 📓 Guias
 
