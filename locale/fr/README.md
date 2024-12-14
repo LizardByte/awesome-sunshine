@@ -8,12 +8,12 @@
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> -
-  <a href="#%EF%B8%8F-tools">Outils</a> -
-  <a href="#-game-stores">Magasins de jeux</a> -
-  <a href="#-frontends">Frontends</a> -
-  <a href="#-virtual-displays">Affichages virtuels</a> -
-  <a href="#-scripts">Scripts</a> -
+  <a href="#-clients">Clients</a> •
+  <a href="#%EF%B8%8F-tools">Outils</a> •
+  <a href="#-game-stores">Magasins de jeux</a> •
+  <a href="#-frontends">Frontends</a> •
+  <a href="#-virtual-displays">Affichages virtuels</a> •
+  <a href="#-scripts">Scripts</a> •
   <a href="#-guides">Guides</a>
 ]
 </div>
@@ -51,7 +51,7 @@
 ### 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Émuler, organiser et embellir votre collection de jeux.
-- om/JosefNemec/Playnite) - Gestionnaire de la bibliothèque de jeux vidéo avec support pour une large gamme de bibliothèques tierces et le support de l'émulation de jeux, en fournissant une interface unifiée pour vos jeux.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Gestionnaire de bibliothèque de jeux vidéo avec prise en charge d'un large éventail de bibliothèques tierces et d'émulations de jeux, offrant une interface unifiée pour vos jeux.
 - [Steam](https://store.steampowered.com) - Steam est la destination ultime pour jouer, discuter et créer des jeux.
 
 ### 💻 Affichages virtuels
