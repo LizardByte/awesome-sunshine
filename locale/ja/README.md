@@ -8,19 +8,19 @@
 
 <div align="center">
 [
-  <a href="#-clients">クライアント</a>-
-  <a href="#%EF%B8%8F-tools">ツール</a>-
-  <a href="#-game-stores">ゲームストア</a>-
-  <a href="#-frontends">フロントエンド</a>-
-  <a href="#-virtual-displays">バーチャルディスプレイ</a>-
-  <a href="#-scripts">スクリプト</a>-
+  <a href="#-clients">クライアント</a> •
+  <a href="#%EF%B8%8F-tools">ツール</a> •
+  <a href="#-game-stores">ゲームストア</a> •
+  <a href="#-frontends">フロントエンド</a> •
+  <a href="#-virtual-displays">バーチャルディスプレイ</a> •
+  <a href="#-scripts">スクリプト</a> •
   <a href="#-guides">ガイド</a>
-]<a href="#-scripts">。</a>
+]
 </div>
 
 ## 📺 クライアント
 
-### :eight_asterisk: オフィシャルムーンライトクライアント
+### ✳️ ムーンライト公式クライアント
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - 公式Androidクライアント。
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - 公式ChromeOSクライアント.
@@ -28,7 +28,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - 公式QTクライアント。
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - 公式埋め込みクライアント。
 
-### :eight pointed_star: サードパーティのムーンライトクライアント
+### ✴️ サードパーティのムーンライト・クライアント
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vitaクライアント.
@@ -51,13 +51,13 @@
 ### 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - ゲームコレクションをエミュレート、組織化、美化します。
-- [Playnite](https://github. om/JosefNemec/Playnite) - 幅広いサードパーティライブラリとゲームエミュレーションサポートをサポートするビデオゲームライブラリマネージャー ゲームに統一されたインターフェイスを提供しています
+- [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポート。
 - [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
 
 ### 💻 バーチャルディスプレイ
 
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
-- [Virtual-Display-Driver](https://github.com/itsmithetech/Virtual-Display-Driver) - Windows 10/11デバイスに仮想モニターを追加! VR、OBS、Sunshine、または任意のデスクトップ共有ソフトウェアで動作します。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、または任意のデスクトップ共有ソフトウェアで動作します。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10+ の場合。 VR、obs、ストリーミングソフトウェアなどで動作します
 
@@ -71,12 +71,12 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Sunshineで起動し終了するSteam/PlayNite Gamesを設定します。
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Moonlight のクライアント解像度に合わせてホスト解像度を変更します。
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - NvidiaのV-Syncの切り替え
-- format@@0(https://github) om/fehbari/sunshine-scripts) - 仮想ディスプレイの有効化、解像度の調整、HDR、G-Sync、FPSなどのシステムディスプレイの変更を自動化し、最適なストリーミングを実現します。
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 仮想ディスプレイの有効化、最適なストリーミングのための解像度、リフレッシュレート、HDR、G-Sync、FPS制限の調整など、システムディスプレイの変更を自動化します。
 
 ## 📓 ガイド
 
-- format@@0(https://docs.lizardbyte.dev/projects/sunshine) - Sunshineの公式ドキュメント
-- format@@0(https://github.com/Nonary/documentation/wiki/DummyPlugs) - WindowsホストでSunshine用のダミープラグと仮想ディスプレイのセットアップガイド。
+- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshineの公式ドキュメント。
+- [ダミープラグの推奨](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windowsホスト上のサンシャイン用のダミープラグとバーチャルディスプレイの設定ガイド。
 
 ## 貢献
 
