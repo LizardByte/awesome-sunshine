@@ -36,7 +36,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV-klient.
 
-## :hammer_and_skiftnyckel: Verktyg
+## 🛠️ Verktyg
 
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate-spel och appar från GeForce Experience till Sunshine.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Lägger till spel från vanliga spel installationsvägar till Sunshine.
@@ -51,7 +51,7 @@
 ### 💠 Framsidor
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-- [Playnite](https://github. om/JosefNemec/Playnite) - Video game library manager med stöd för ett brett utbud av 3: e parts bibliotek och spel emulering stöd, tillhandahålla ett enhetligt gränssnitt för dina spel.
+- [Playnite] (https://github.com/JosefNemec/Playnite) - Videospelsbibliotekshanterare med stöd för ett brett utbud av tredjepartsbibliotek och stöd för spelemulering, vilket ger ett enhetligt gränssnitt för dina spel.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
 ### 💻 Virtuella visningar
@@ -71,7 +71,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Konfigurera Steam/PlayNite spel för att starta och avsluta med Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiserar ändringen av värdupplösningen för att matcha klientupplösningen av Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidias toggle V-Sync.
-- [Windows Display Automation](https://github. om/fehbari/sunshine-scripts) - Automatiserar ändringar i systemets displayer, som möjliggör virtuell bildskärm, justering av upplösning, uppdateringshastighet, HDR, G-Sync och FPS gränser för optimal strömning.
+- [Windows Display Automation] (https://github.com/fehbari/sunshine-scripts) - Automatiserar ändringar i systemdisplayen, t.ex. aktivering av en virtuell display, justering av upplösning, uppdateringsfrekvens, HDR, G-Sync och FPS-gränser för optimal streaming.
 
 ## 📓 Guider
 
