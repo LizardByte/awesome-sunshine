@@ -51,7 +51,7 @@
 ### 💠 Framsidor
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
-- [Playnite] (https://github.com/JosefNemec/Playnite) - Videospelsbibliotekshanterare med stöd för ett brett utbud av tredjepartsbibliotek och stöd för spelemulering, vilket ger ett enhetligt gränssnitt för dina spel.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Videospelsbibliotekshanterare med stöd för ett brett utbud av tredjepartsbibliotek och stöd för spelemulering, vilket ger ett enhetligt gränssnitt för dina spel.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
 ### 💻 Virtuella visningar
@@ -71,7 +71,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Konfigurera Steam/PlayNite spel för att starta och avsluta med Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiserar ändringen av värdupplösningen för att matcha klientupplösningen av Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidias toggle V-Sync.
-- [Windows Display Automation] (https://github.com/fehbari/sunshine-scripts) - Automatiserar ändringar i systemdisplayen, t.ex. aktivering av en virtuell display, justering av upplösning, uppdateringsfrekvens, HDR, G-Sync och FPS-gränser för optimal streaming.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatiserar ändringar i systemdisplayen, t.ex. aktivering av en virtuell display, justering av upplösning, uppdateringsfrekvens, HDR, G-Sync och FPS-gränser för optimal streaming.
 
 ## 📓 Guider
 
