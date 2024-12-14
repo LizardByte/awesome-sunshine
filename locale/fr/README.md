@@ -8,12 +8,12 @@
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
-  <a href="#-game-stores">Game Stores</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Virtual Displays</a> •
-  <a href="#-scripts">Scripts</a> •
+  <a href="#-clients">Clients</a> -
+  <a href="#%EF%B8%8F-tools">Outils</a> -
+  <a href="#-game-stores">Magasins de jeux</a> -
+  <a href="#-frontends">Frontends</a> -
+  <a href="#-virtual-displays">Affichages virtuels</a> -
+  <a href="#-scripts">Scripts</a> -
   <a href="#-guides">Guides</a>
 ]
 </div>
@@ -45,13 +45,13 @@
 ### 🎮 Magasins de jeux
 
 - [Epic Games](https://www.epicgames.com) - La boutique Epic Games offre chaque semaine des jeux gratuits.
-- [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
+- [GOG](https://www.gog.com) - GOG est une plateforme de distribution numérique qui met les joueurs au premier plan et respecte leur besoin de posséder des jeux.
 - [Steam](https://store.steampowered.com) - Steam est la destination ultime pour jouer, discuter et créer des jeux.
 
 ### 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Émuler, organiser et embellir votre collection de jeux.
-- [Playnite](https://github. om/JosefNemec/Playnite) - Gestionnaire de la bibliothèque de jeux vidéo avec support pour une large gamme de bibliothèques tierces et le support de l'émulation de jeux, en fournissant une interface unifiée pour vos jeux.
+- om/JosefNemec/Playnite) - Gestionnaire de la bibliothèque de jeux vidéo avec support pour une large gamme de bibliothèques tierces et le support de l'émulation de jeux, en fournissant une interface unifiée pour vos jeux.
 - [Steam](https://store.steampowered.com) - Steam est la destination ultime pour jouer, discuter et créer des jeux.
 
 ### 💻 Affichages virtuels
@@ -80,6 +80,6 @@
 
 ## Contribuer
 
-Contributions bienvenues! But, please follow the LizardByte
+Contributions bienvenues! Cependant, veuillez suivre les LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
-when contributing to this project.
+lorsque vous contribuez à ce projet.
