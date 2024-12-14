@@ -64,7 +64,7 @@
 ## 📜 スクリプト
 
 - [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Moonlight クライアントがSDRストリームを要求している場合、ホストでHDRをオフにします。
-- format@@0(https://github.com/XenHat/dummy-plug-automation) - Linux上のダミープラグインを使用してリモートストリーミングするための自動化。
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linuxでダミープラグを使ったリモートストリーミングの自動化。
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidiaのフレームレートリミッター。
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
 - [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - ストリーミング時にダミープラグに切り替えを自動化します。
