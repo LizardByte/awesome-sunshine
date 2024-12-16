@@ -59,7 +59,7 @@
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Pantalla Virtual de Parsec independiente.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - ¡Añade monitoreos virtuales a tu dispositivo Windows 10/11! Funciona con VR, OBS, Sunshine, y/o cualquier software para compartir escritorio.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Una herramienta GUI que se puede integrar con otro software como Sunshine para una manipulación eficiente de las implementaciones Indirecta Display Driver Sample (IddSample).
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - ¡Un controlador de visualización virtual de Windows para añadir múltiples monitoreos virtuales a tu PC! Para Win10+. Funciona con VR, obs, software de streaming, etc.
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - ¡Un controlador de visualización virtual de Windows para añadir múltiples monitoreos virtuales a tu PC! Para Win10+. Funciona con realidad virtual, OBS, software de transmisión, etc.
 
 ## 📜 Scripts
 
