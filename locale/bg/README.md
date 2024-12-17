@@ -8,12 +8,12 @@
 
 <div align="center">
 [
-  <a href="#-clients">Клиенти</a> -
-  <a href="#%EF%B8%8F-tools">Инструменти</a> -
-  <a href="#-game-stores">Магазини за игри</a> -
-  <a href="#-frontends">Фронтендове</a> -
-  <a href="#-virtual-displays">Виртуални дисплеи</a> -
-  <a href="#-scripts">Скриптове</a> -
+  <a href="#-clients">Клиенти</a> •
+  <a href="#%EF%B8%8F-tools">Инструменти</a> •
+  <a href="#-game-stores">Магазини за игри</a> •
+  <a href="#-frontends">Фронтендове</a> •
+  <a href="#-virtual-displays">Виртуални дисплеи</a> •
+  <a href="#-scripts">Скриптове</a> •
   <a href="#-guides">Ръководства</a>
 ]
 </div>
