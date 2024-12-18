@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Grymt solsken</h1>
-  <h4 align="center">En samling av häftiga Sunshine skript, verktyg, guider och Companion programvara</h4>
+  <h1 align="center">Aweome Sunshine</h1>
+  <h4 align="center">En samling av häftiga Sunshine skript, verktyg, guider och kompanjonsprogramvara</h4>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 📺 Klienter
 
-### ✳️ Officiella Månljusklienter
+### ✳️ Officiella Moonlight klienter
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Officiell Android-klient.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Officiell ChromeOS-klient.
@@ -28,12 +28,12 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Officiell QT-klient.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Officiell inbäddad klient.
 
-### ✴️ Måndagsljusklienter från tredje part
+### Moonlight-klienter från tredje part
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) klient.
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita-klient.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch-klient.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV-klient.
 
 ## 🛠️ Verktyg
@@ -48,7 +48,7 @@
 - [GOG](https://www.gog.com) - GOG är en digital distributionsplattform som sätter spelare först och respekterar deras behov av egna spel.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
-### 💠 Framsidor
+### 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Videospelsbibliotekshanterare med stöd för ett brett utbud av tredjepartsbibliotek och stöd för spelemulering, vilket ger ett enhetligt gränssnitt för dina spel.
