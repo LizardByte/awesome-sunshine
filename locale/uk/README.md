@@ -63,7 +63,7 @@
 
 ## 📜 Сценарії
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Автоматизує вимкнення HDR на хості, якщо клієнт Moonlight робить запит про стримінг у форматі SDR.
+- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Автоматизує вимкнення HDR на хості, якщо клієнт Moonlight робить запит стримінгу у форматі SDR.
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Автоматизація віддаленого стримінгу використовуючи віртуальний штекер (dummy plug) у Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Обмежувач Частоти Кадрів від Nvidia.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Перемикач G-Sync від Nvidia.
@@ -76,7 +76,7 @@
 ## 📓 Посібники
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Офіційна документація до Sunshine.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Посібник з налаштування фіктивних роз'ємів і віртуальних дисплеїв для Sunshine на хостах з Windows.
+- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Посібник з налаштування віртуальних штекерів (dummy plugs) і віртуальних дисплеїв для Sunshine на хостах під ОС Windows.
 
 ## Зробити внесок
 
