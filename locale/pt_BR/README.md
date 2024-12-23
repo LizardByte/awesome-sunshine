@@ -9,12 +9,12 @@
 <div align="center">
 [
   <a href="#-clientes">Clientes</a> •
-  <a href="#%EF%B8%8F-tools">Ferramentas</a> •
-  <a href="#-game-stores">Lojas de jogos</a> •
-  <a href="#-frontends">Front-ends</a> •
-  <a href="#-virtual-displays">Monitores virtuais</a> •
+  <a href="#%EF%B8%8F-ferramentas">Ferramentas</a> •
+  <a href="#-lojas-de-jogos">Lojas de Jogos</a> •
+  <a href="#-front-ends">Front-ends</a> •
+  <a href="#-monitores-virtuais">Monitores virtuais</a> •
   <a href="#-scripts">Scripts</a> •
-  <a href="#-guides">Guias</a>
+  <a href="#-guias">Guias</a>
 ]
 </div>
 
@@ -42,7 +42,7 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adiciona jogos de caminhos comuns de instalação de jogos ao Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para uso com a transmissão de jogos Sunshine / Moonlight / Playnite.
 
-### Lojas de jogos
+### 🎮 Lojas de jogos
 
 - [Epic Games](https://www.epicgames.com) - A Epic Games Store oferece jogos gratuitos toda semana.
 - [GOG](https://www.gog.com) - A GOG é uma plataforma de distribuição digital que coloca os jogadores em primeiro lugar e respeita sua necessidade de possuir jogos.
@@ -54,7 +54,7 @@
 - [Playnite](https://github.com/JosefNemec/Playnite) - Gerenciador de biblioteca de videogames com suporte a uma ampla variedade de bibliotecas de terceiros e suporte a emulação de jogos, fornecendo uma interface unificada para seus jogos.
 - [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
-### Monitores virtuais
+### 💻 Monitores virtuais
 
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Tela virtual autônoma da Parsec.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adicione monitores virtuais ao seu dispositivo Windows 10/11! Funciona com VR, OBS, Sunshine e/ou qualquer software de compartilhamento de área de trabalho.
