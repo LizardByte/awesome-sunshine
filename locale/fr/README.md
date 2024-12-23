@@ -6,13 +6,12 @@
   <h4 align="center">Une collection de Scripts, d'Outils, de Guides et de Logiciels de Compagnon</h4>
 </div>
 
-<div align="center">
-[
+<div align="center">[
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Outils</a> •
-  <a href="#-game-stores">Magasins de jeux</a> •
+  <a href="#%EF%B8%8F-outils">Outils</a> •
+  <a href="#-magasins-de-jeux">Magasins de jeux</a> •
   <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Affichages virtuels</a> •
+  <a href="#-affichages-virtuels">Affichages virtuels</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-guides">Guides</a>
 ]
