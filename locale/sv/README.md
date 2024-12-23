@@ -8,13 +8,13 @@
 
 <div align="center">
 [
-  <a href="#-clients">Klienter</a> •
-  <a href="#%EF%B8%8F-tools">Verktyg</a> •
-  <a href="#-game-stores">Spelbutiker</a> •
+  <a href="#-klienter">Klienter</a> •
+  <a href="#%EF%B8%8F-verktyg">Verktyg</a> •
+  <a href="#-spelbutiker">Spelbutiker</a> •
   <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Virtuella skärmar</a> •
-  <a href="#-scripts">Skript</a> •
-  <a href="#-guides">Guider</a>
+  <a href="#-virtuella-skärmar">Virtuella skärmar</a> •
+  <a href="#-skript">Skript</a> •
+  <a href="#-guider">Guider</a>
 ]
 </div>
 
