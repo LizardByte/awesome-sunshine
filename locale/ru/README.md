@@ -6,15 +6,14 @@
   <h4 align="center">Коллекция замечательных Sunshine Scripts, инструментов, руководств и компаньонов</h4>
 </div>
 
-<div align="center">
-[
-  <a href="#-clients">Клиенты</a> •
-  <a href="#%EF%B8%8F-tools">Инструменты</a> •
-  <a href="#-game-stores">Game Stores</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Виртуальные дисплеи</a> •
-  <a href="#-scripts">Scripts</a> •
-  <a href="#-guides">Guides</a>
+<div align="center">[
+  <a href="#-Клиенты">Клиенты</a> •
+  <a href="#%EF%B8%8F-Инструменты">Инструменты</a> •
+  <a href="#-Игровые-магазины">Игровые магазины</a> •
+  <a href="#-фронты">фронты</a> •
+  <a href="#-Виртуальные-дисплеи">Виртуальные дисплеи</a> •
+  <a href="#-скрипты">скрипты</a> •
+  <a href="#-Руководства">Руководства</a>
 ]
 </div>
 
