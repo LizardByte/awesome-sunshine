@@ -2,19 +2,19 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Brilho do sol incrível</h1>
+  <h1 align="center">Awesome Sunshine</h1>
   <h4 align="center">Uma coleção de scripts, ferramentas, guias e softwares complementares incríveis do Sunshine</h4>
 </div>
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> -
-  <a href="#%EF%B8%8F-tools">Tools</a> -
-  <a href="#-game-stores">Game Stores</a> -
-  <a href="#-frontends">Frontends</a> -
-  <a href="#-virtual-displays">Virtual Displays</a> -
-  <a href="#-scripts">Scripts</a> -
-  <a href="#-guides">Guides</a>
+  <a href="#-clientes">Clientes</a> •
+  <a href="#%EF%B8%8F-tools">Ferramentas</a> •
+  <a href="#-game-stores">Lojas de jogos</a> •
+  <a href="#-frontends">Front-ends</a> •
+  <a href="#-virtual-displays">Monitores virtuais</a> •
+  <a href="#-scripts">Scripts</a> •
+  <a href="#-guides">Guias</a>
 ]
 </div>
 
