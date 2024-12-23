@@ -8,13 +8,13 @@
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">工具</a> •
-  <a href="#-game-stores">Game Stores</a> •
-  <a href="#-frontends">Fronades</a> •
-  <a href="#-virtual-displays">虚拟显示</a> •
-  <a href="#-scripts">Script</a> •
-  <a href="#-guides">Guides</a>
+  <a href="#-客户端">客户端</a> •
+  <a href="#%EF%B8%8F-工具">工具</a> •
+  <a href="#-游戏商店">游戏商店</a> •
+  <a href="#- 前端"> 前端</a> •
+  <a href="#-虚拟显示">虚拟显示</a> •
+  <a href="#-脚本">脚本</a> •
+  <a href="#-参考线">参考线</a>
 ]
 </div>
 

@@ -8,13 +8,13 @@
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> -
-  <a href="#%EF%B8%8F-tools">Tools</a> -
-  <a href="#-game-stores">Game Stores</a> -
-  <a href="#-frontends">Frontends</a> -
-  <a href="#-virtual-displays">Virtual Displays</a> -
-  <a href="#-scripts">Scripts</a> -
-  <a href="#-guides">Guides</a>
+  <a href="#-müşteriler">Müşteriler</a> •
+  <a href="#%EF%B8%8F-araçlar">Araçlar</a> •
+  <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
+  <a href="#-Ön-uçlar">Ön Uçlar</a> •
+  <a href="#-sanal-ekranlar">Sanal Ekranlar</a> •
+  <a href="#-komut-dosyaları">Komut Dosyaları</a> •
+  <a href="#-kılavuzlar">Kılavuzlar</a>
 ]
 </div>
 

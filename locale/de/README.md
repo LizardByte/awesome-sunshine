@@ -8,14 +8,13 @@
 
 <div align="center">
 [
-  <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
-  •  <a href="#-game-stores">Spielstände</a> •
+  <a href="#-kunden">Kunden</a> •
+  <a href="#%EF%B8%8F-werkzeuge">Werkzeuge</a> •
+  <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
-  • 
-  <a href="#-virtual-displays">Virtuelle Anzeigen</a> •
-  <a href="#-scripts">Skripte</a> •
-  <a href="#-guides">Anleitungen</a>
+  <a href="#-virtuelle-anzeige">Virtuelle Anzeige</a> •
+  <a href="#-skripte">Skripte</a> •
+  <a href="#-anleitungen">Anleitungen</a>
 ]
 </div>
 
