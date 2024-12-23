@@ -32,7 +32,7 @@
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Cliente UWP/Xbox (One/Series).
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - Cliente PS Vita.
-- [Nintendo Switch] (https://github.com/XITRIX/Moonlight-Switch) - Cliente Nintendo Switch.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Cliente Nintendo Switch.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Cliente do Nintendo Wii U.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Cliente LG webOS TV.
 
@@ -50,7 +50,7 @@
 
 ### 💠 Front-ends
 
-- [LaunchBox] (https://www.launchbox-app.com/) - Emule, organize e embeleze sua coleção de jogos.
+- [LaunchBox](https://www.launchbox-app.com/) - Emule, organize e embeleze sua coleção de jogos.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Gerenciador de biblioteca de videogames com suporte a uma ampla variedade de bibliotecas de terceiros e suporte a emulação de jogos, fornecendo uma interface unificada para seus jogos.
 - [Steam](https://store.steampowered.com) - O Steam é o destino final para jogar, discutir e criar jogos.
 
@@ -71,7 +71,7 @@
 - [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configura os jogos do Steam/PlayNite para serem iniciados e encerrados com o Sunshine.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiza a alteração da resolução do host para corresponder à resolução do cliente do Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - O V-Sync de alternância da Nvidia.
-- [Windows Display Automation] (https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações na tela do sistema, como a ativação de uma tela virtual, o ajuste da resolução, da taxa de atualização, do HDR, do G-Sync e dos limites de FPS para otimizar o streaming.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatiza as alterações na tela do sistema, como a ativação de uma tela virtual, o ajuste da resolução, da taxa de atualização, do HDR, do G-Sync e dos limites de FPS para otimizar o streaming.
 
 ## 📓 Guias
 
@@ -81,5 +81,5 @@
 ## Contribuir
 
 Contribuições são bem-vindas! No entanto, siga as Diretrizes de contribuição da LizardByte
-[Contributing Guidelines] (https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 ao contribuir para este projeto.
