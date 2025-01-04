@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Asombroso sol</h1>
-  <h4 align="center">Una colección de asombrosos scripts solares, herramientas, guías y software de Companion</h4>
+  <h1 align="center">Asombroso Sunshine</h1>
+  <h4 align="center">Una colección de asombrosos scripts de Sunshine, herramientas, guías y Companion Software</h4>
 </div>
 
 <div align="center">
@@ -20,20 +20,20 @@
 
 ## 📺 Clientes
 
-### ✳️ Clientes Oficiales de Luz de Luna
+### ✳️ Clientes Oficiales de Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Cliente oficial de Android.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Cliente oficial de ChromeOS.
 - [iOS](https://github.com/moonlight-stream/moonlight-ios) - Cliente oficial de iOS.
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Cliente oficial de QT.
-- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Cliente embebido oficial.
+- [Android](https://github.com/moonlight-stream/moonlight-embedded) - Cliente oficial de Android.
 
-### ✴️ Clientes Luna de Tercera Fiesta
+### ✴️ Clientes Terceros de Moonlight
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - cliente UWP/Xbox (One/Series).
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS cliente Vita.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Cliente de Nintendo Switch .
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Cliente de Nintendo Wii U.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - cliente de LG webOS TV.
 
 ## 🛠️ Herramientas
@@ -75,11 +75,11 @@
 
 ## 📓 Guías
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Documentación oficial para Sunshine.
+- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Documentación oficial de Sunshine.
 - [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guía sobre cómo configurar plugs y pantallas virtuales para Sunshine en Windows hosts.
 
 ## Contribuir
 
-¡Acogemos con satisfacción las contribuciones! Pero, por favor, siga las LizardByte
+¡Las contribuciones son bienvenidas! Pero, por favor, siga LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 cuando contribuya a este proyecto.
