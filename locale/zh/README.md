@@ -20,7 +20,7 @@
 
 ## 📺 客户端
 
-### ✳️ 官方月光客户端
+### ✳️ Moonlight官方客户端
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - 官方安卓客户端。
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - 官方的 ChromeOS 客户端。
@@ -28,7 +28,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - 官方的 QT 客户端。
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - 官方嵌入式客户端。
 
-### ✴️ 第三方月光客户端
+### ✴️ 第三方Moonlight客户端
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) 客户端。
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita客户端。
@@ -38,9 +38,9 @@
 
 ## 🛠️ 工具
 
-- [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 Geforce 经验迁移到 Sunshine 。
+- [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 GeForce Experience 迁移到 Sunshine 。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加到Sunshine。
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于使用日光/月光/Playnite 游戏流的实用程序。
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于 Sunshine / Moonlight / Playnite 游戏流的实用程序。
 
 ### 🎮 游戏商店
 
