@@ -8,13 +8,13 @@
 
 <div align="center">
 [
-  <a href="#-Клиенти">Клиенти</a> •
-  <a href="#%EF%B8%8F-Инструменти">Инструменти</a> •
-  <a href="#-Магазини-за-игри">Магазини за игри</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-Виртуални-дисплеи">Виртуални дисплеи</a> •
-  <a href="#-Скриптове">Скриптове</a> •
-  <a href="#-Ръководства">Ръководства</a>
+  <a href="#-clients">Клиенти</a> •
+  <a href="#%EF%B8%8F-tools">Инструменти</a> •
+  <a href="#-game-stores">Магазини за игри</a> •
+  <a href="#-frontends">Интерфейси</a> •
+  <a href="#-virtual-displays">Виртуални дисплеи</a> •
+  <a href="#-scripts">Скриптове</a> •
+  <a href="#-guides">Ръководства</a>
 ]
 </div>
 
@@ -22,10 +22,10 @@
 
 ### ✳️ Официални клиенти на Moonlight
 
-- [Android](https://github.com/moonlight-stream/moonlight-android) - Официален клиент за Android.
-- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Официален клиент за ChromeOS.
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Официален клиент за iOS.
-- [QT](https://github.com/moonlight-stream/moonlight-qt) - Официален клиент на QT.
+- [Android](https://github.com/moonlight-stream/moonlight-android) – Официален клиент за Android.
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) – Официален клиент за ChromeOS.
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) – Официален клиент за iOS.
+- [QT](https://github.com/moonlight-stream/moonlight-qt) – Официален клиент за компютър, реализиран чрез QT.
 - [Вграден](https://github.com/moonlight-stream/moonlight-embedded) - Официален вграден клиент.
 
 ### ✴️ Клиенти на Moonlight от трети страни
