@@ -39,6 +39,7 @@
 ## 🛠️ Araçlar
 
 - [GSMS](https://github.com/LizardByte/GSMS) - Oyunları ve uygulamaları GeForce Experience'tan Sunshine'a geçirin.
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB'den indirilen kapak resmine sahip oyunları ekleyin ve sıralayın.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ortak oyun yükleme yollarındaki oyunları Sunshine'a ekler.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
 
