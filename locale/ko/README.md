@@ -39,6 +39,7 @@
 ## 🛠️ 도구
 
 - [GSMS](https://github.com/LizardByte/GSMS) - 게임과 앱을 GeForce Experience에서 Sunshine으로 마이그레이션합니다.
+- [네온선샤인](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB에서 다운로드한 표지 아트가 있는 게임을 추가하고 정렬합니다.
 - [선샤인게임파인더](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 선샤인/문라이트/플레이나이트 게임 스트리밍에 사용하기 위한 유틸리티입니다.
 
