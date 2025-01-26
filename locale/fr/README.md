@@ -38,6 +38,7 @@
 ## 🛠️ Outils
 
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrer les jeux et les applications de GeForce Experience vers Sunshine.
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ajoute des jeux à partir des chemins communs d'installation du jeu à Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitaires à utiliser avec Sunshine / Moonlight / Playnite game streaming.
 
