@@ -39,6 +39,7 @@
 ## 🛠️ 工具
 
 - [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 GeForce Experience 迁移到 Sunshine 。
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - 从 SteamGridDB 添加和排序带有封面下载的游戏
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加到Sunshine。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于 Sunshine / Moonlight / Playnite 游戏流的实用程序。
 
