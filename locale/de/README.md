@@ -69,7 +69,7 @@
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidias G-Sync.
 - [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Beim Streamen wird ein Dummy-Plug automatisch ausgetauscht.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Konfiguriere Steam/PlayNite Spiele so, dass sie mit Sunshine gestartet und beendet werden.
+- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Konfiguriere Steam/PlayNite Spiele so, dass sie mit Sunshine gestartet werden können.
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatisiert das Ändern der Host-Auflösung auf die Client-Auflösung von Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidias Toggle V-Sync.
 - [Windows Display Automation](https://github. om/fehbari/sunshine-scripts) - Automatisiert Systemanzeigeänderungen wie z. B. virtuelle Displays, Anpassung der Auflösung, Aktualisierungsrate, HDR, G-Sync und FPS Limits für ein optimales Streaming.
