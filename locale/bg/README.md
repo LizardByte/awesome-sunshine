@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Страхотна слънчева светлина</h1>
-  <h4 align="center">Колекция от страхотни скриптове, инструменти, ръководства и съпътстващ софтуер за Sunshine</h4>
+  <h1 align="center">Awesome Sunshine</h1>
+  <h4 align="center">Колекция от невероятни скриптове, инструменти, ръководства и помощни програми за Sunshine</h4>
 </div>
 
 <div align="center">
@@ -28,20 +28,20 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) – Официален клиент за компютър, реализиран чрез QT.
 - [Вграден](https://github.com/moonlight-stream/moonlight-embedded) - Официален вграден клиент.
 
-### ✴️ Клиенти на Moonlight от трети страни
+### ✴️ Клиенти на Moonlight от други разработчици
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - клиент за UWP/Xbox (One/Series).
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - Клиент за PS Vita.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Клиент за Nintendo Switch.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Клиент за Nintendo Wii U.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Клиент на LG webOS TV.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) – Клиент за UWP/Xbox (One/Series).
+- [PS Vita](https://github.com/xyzz/vita-moonlight) – Клиент за PS Vita.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) – Клиент за Nintendo Switch.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) – Клиент за Nintendo Wii U.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) – Клиент за телевизори LG с webOS.
 
 ## 🛠️ Инструменти
 
-- [GSMS](https://github.com/LizardByte/GSMS) - Мигриране на игри и приложения от GeForce Experience към Sunshine.
+- [GSMS](https://github.com/LizardByte/GSMS) – Прехвърляне на игри и приложения от GeForce Experience към Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) – Добавяне и сортиране на игри с обложки, сваляни от SteamGridDB.
-- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Добавя игри от общите пътища за инсталиране на игри в Sunshine.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Помощни програми за използване със Sunshine / Moonlight / Playnite за поточно предаване на игри.
+- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) – Добавяне на игри от обичайните пътища за инсталиране на игри в Sunshine.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) – Помощни програми за използване със Sunshine / Moonlight / Playnite за поточно предаване на игри.
 
 ### 🎮 Магазини за игри
 
