@@ -57,6 +57,7 @@
 
 ### 💻 Virtuella skärmar
 
+- [evdi](https://github.com/DisplayLink/evdi) - Linuxkärnmodul som möjliggör hantering av flera skärmar. Det är i huvudsak en virtuell skärm som du kan lägga till, ta bort och ta emot skärmuppdateringar för.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Fristående Parsec Virtual Display.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Lägg till virtuella skärmar till din Windows 10/11-enhet! Fungerar med VR, OBS, Sunshine och / eller någon programvara för delning av skrivbord.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Ett GUI-verktyg som kan integreras med andra program som Sunshine för effektiv manipulering av Indirect Display Driver Sample (IddSample) implementationer.
