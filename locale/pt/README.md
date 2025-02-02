@@ -57,6 +57,7 @@
 
 ### 💻 Virtual Displays
 
+- [evdi](https://github.com/DisplayLink/evdi) - Módulo kernel Linux que permite o gerenciamento de várias telas. É essencialmente uma tela virtual que você pode adicionar, remover e receber atualizações de tela.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Display Virtual Parsec Standalone
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adicione monitores virtuais ao seu dispositivo Windows 10/11! Funciona com VR, OBS, Sol e/ou qualquer software de compartilhamento de desktop.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Uma ferramenta de GUI que pode se integrar com outros softwares, como Sunshine para uma manipulação eficiente de implementações do Indirect Display Driver (IddSample).
