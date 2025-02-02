@@ -57,6 +57,7 @@
 
 ### 💻 가상 디스플레이
 
+- [evdi](https://github.com/DisplayLink/evdi) - 여러 화면을 관리할 수 있는 Linux 커널 모듈입니다. 기본적으로 화면 업데이트를 추가, 제거 및 수신할 수 있는 가상 디스플레이입니다.
 - [파섹-VDD](https://github.com/nomi-san/parsec-vdd) - 독립형 파섹 가상 디스플레이.
 - [가상 디스플레이 드라이버](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 장치에 가상 모니터를 추가하세요! VR, OBS, Sunshine 및/또는 모든 데스크톱 공유 소프트웨어와 함께 작동합니다.
 - [가상 디스플레이 드라이버 마법사](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 간접 디스플레이 드라이버 샘플(IddSample) 구현을 효율적으로 조작하기 위해 Sunshine과 같은 다른 소프트웨어와 통합할 수 있는 GUI 툴입니다.
