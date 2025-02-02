@@ -57,6 +57,7 @@
 
 ### 💻 Pantallas virtuales
 
+- [evdi](https://github.com/DisplayLink/evdi) - módulo del núcleo Linux que permite la gestión de múltiples pantallas. Es esencialmente una pantalla virtual para la que puedes añadir, eliminar y recibir actualizaciones de pantalla.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Pantalla Virtual de Parsec independiente.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - ¡Añade monitoreos virtuales a tu dispositivo Windows 10/11! Funciona con VR, OBS, Sunshine, y/o cualquier software para compartir escritorio.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Una herramienta GUI que se puede integrar con otro software como Sunshine para una manipulación eficiente de las implementaciones Indirecta Display Driver Sample (IddSample).
