@@ -57,6 +57,7 @@
 
 ### 💻 バーチャルディスプレイ
 
+- [evdi](https://github.com/DisplayLink/evdi) - 複数の画面の管理を可能にするLinuxカーネルモジュール。 これは、基本的には、追加、削除、および画面の更新を受信することができる仮想ディスプレイです。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、および/または任意のデスクトップ共有ソフトウェアで動作します。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
