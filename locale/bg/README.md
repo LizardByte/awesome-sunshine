@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="/assets/banner.png" />
-  <h1 align="center">Awesome Sunshine</h1>
+  <h1 align="center">Страхотна слънчева светлина</h1>
   <h4 align="center">Колекция от невероятни скриптове, инструменти, ръководства и помощни програми за Sunshine</h4>
 </div>
 
