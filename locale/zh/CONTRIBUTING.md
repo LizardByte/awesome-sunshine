@@ -1,3 +1,5 @@
-# 贡献中
+# 貢獻
 
-请遵循 LizardByte 的[贡献准则](https://docs.lizardbyte.dev/enage/developers/contributing.html)来为这个项目做出贡献。
+為本專案貢獻時，請遵循 LizardByte
+[Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
+。
