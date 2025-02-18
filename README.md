@@ -35,6 +35,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
 ## 🛠️ Tools
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
