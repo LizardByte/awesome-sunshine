@@ -38,6 +38,7 @@
 
 ## 🛠️ ツール
 
+- [曇りパッド](https://github.com/PierreBeucher/cloudypad) - ペーパースペース、AWS、Azure、Google Cloudなど、Sunshineをクラウドにデプロイします。
 - [GSMS](https://github.com/LizardByte/GSMS) - GeForce ExperienceからSunshineにゲームやアプリを移行します。
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB からカバーアートをダウンロードしてゲームを追加してソートします。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
