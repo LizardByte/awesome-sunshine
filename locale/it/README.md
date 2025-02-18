@@ -37,6 +37,7 @@
 
 ## 🛠️ Strumenti
 
+- [Nuvoloso Pad](https://github.com/PierreBeucher/cloudypad) - Distribuire il sole nella nuvola: Paperspace, AWS, Azure, Google Cloud, e altro ancora.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrare giochi e applicazioni da GeForce Experience a Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Aggiungi e ordina i giochi con cover art scaricando da SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Aggiunge giochi da percorsi comuni di installazione di gioco a Sunshine.
