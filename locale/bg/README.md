@@ -38,6 +38,7 @@
 
 ## 🛠️ Инструменти
 
+- [Облачна подложка](https://github.com/PierreBeucher/cloudypad) - Разполагане на слънчева светлина в облака: Paperspace, AWS, Azure, Google Cloud и др.
 - [GSMS](https://github.com/LizardByte/GSMS) – Прехвърляне на игри и приложения от GeForce Experience към Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) – Добавяне и сортиране на игри с обложки, сваляни от SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) – Добавяне на игри от обичайните пътища за инсталиране на игри в Sunshine.
