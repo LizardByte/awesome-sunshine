@@ -38,6 +38,7 @@
 
 ## 🛠️ Інструменти
 
+- [Хмарний Pad](https://github.com/PierreBeucher/cloudypad) - Розгортання Сонця в хмару: Паперовий простір, AWS, Azure, Google Cloud та багато іншого.
 - [GSMS](https://github.com/LizardByte/GSMS) - Перенесення ігор та програм з GeForce Experience до Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Додати і сортувати ігри з завантаженням обкладинки з SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Додає ігри зі шляхів встановлення по замовчуванню до Sunshine.
