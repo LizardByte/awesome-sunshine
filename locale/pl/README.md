@@ -38,6 +38,7 @@
 
 ## 🛠️ Narzędzia
 
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Wdrożenie Słońca w chmurze: Paperspace, AWS, Azure, Google Cloud i wiele więcej.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migracja gier i aplikacji z GeForce Experience do Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Dodaj i sortuj gry z okładkami pobieranymi z SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Dodaje gry z popularnych ścieżek instalacji gier do Sunshine.
