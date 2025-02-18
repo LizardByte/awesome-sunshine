@@ -38,6 +38,7 @@
 
 ## 🛠️ 工具
 
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 在雲端部署陽光：Paperspace、AWS、Azure、Google Cloud 等。
 - [GSMS](https://github.com/LizardByte/GSMS) - 將遊戲和應用程式從 GeForce Experience 遷移到 Sunshine。
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - 加入並分類從 SteamGridDB 下載的封面圖片遊戲。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 將一般遊戲安裝路徑中的遊戲加入 Sunshine。
