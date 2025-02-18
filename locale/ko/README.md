@@ -38,6 +38,7 @@
 
 ## 🛠️ 도구
 
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 클라우드에 Sunshine 배포: Paperspace, AWS, Azure, Google Cloud 등.
 - [GSMS](https://github.com/LizardByte/GSMS) - 게임과 앱을 GeForce Experience에서 Sunshine으로 마이그레이션합니다.
 - [네온선샤인](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB에서 다운로드한 표지 아트가 있는 게임을 추가하고 정렬합니다.
 - [선샤인게임파인더](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
