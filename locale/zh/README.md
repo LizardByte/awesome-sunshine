@@ -83,6 +83,6 @@
 
 ## 贡献
 
-欢迎为本项目添砖加瓦！ 但是，在对本项目进行改动时，请遵循 LizardByte
-的[贡献指南](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+欢迎为本项目添砖加瓦！ 欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
+[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 。
