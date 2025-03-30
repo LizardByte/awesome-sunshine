@@ -43,19 +43,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Aggiunge giochi da percorsi comuni di installazione di gioco a Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 
-### 🎮 Negozi Di Gioco
+## 🎮 Negozi Di Gioco
 
 - [Epic Games](https://www.epicgames.com) - Epic Games Store offre giochi gratuiti ogni settimana.
 - [GOG](https://www.gog.com) - GOG è una piattaforma di distribuzione digitale che mette i giocatori al primo posto e rispetta la loro necessità di propri giochi.
 - [Steam](https://store.steampowered.com) - Steam è la destinazione finale per giocare, discutere e creare giochi.
 
-### 💠 Frontends
+## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github. om/JosefNemec/Playnite) - Video game library manager con supporto per un'ampia gamma di librerie di terze parti e supporto all'emulazione di giochi, fornire un'interfaccia unificata per i tuoi giochi.
 - [Steam](https://store.steampowered.com) - Steam è la destinazione finale per giocare, discutere e creare giochi.
 
-### 💻 Visualizzazione Virtuale
+## 💻 Visualizzazione Virtuale
 
 - [evdi](https://github.com/DisplayLink/evdi) - Modulo del kernel Linux che consente la gestione di schermi multipli. Si tratta essenzialmente di un display virtuale per cui è possibile aggiungere, rimuovere e ricevere gli aggiornamenti dello schermo.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Display Virtuale Parsec Standalone.
@@ -74,6 +74,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Toggle V-Sync di Nvidia.
 - [Windows Display Automation](https://github. om/fehbari/sunshine-scripts) - Automatizza le modifiche al display del sistema, ad esempio abilitando un display virtuale, regolando la risoluzione, la velocità di aggiornamento, HDR, G-Sync e i limiti FPS per uno streaming ottimale.
+
+## 🧪 Test
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - Questo strumento mostra lo stato attuale dei tuoi gamepad, input, joystick e qualsiasi altra cosa che può essere riportata dal Gamepad Api HTML5.
 
 ## 📓 Guide
 
