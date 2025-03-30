@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Lägger till spel från vanliga spel installationsvägar till Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Verktyg för att använda med Sunshine / Moonlight / Playnite spel streaming.
 
-### 🎮 Spelbutiker
+## 🎮 Spelbutiker
 
 - [Epic Games](https://www.epicgames.com) - Epic Games Store erbjuder gratis spel varje vecka.
 - [GOG](https://www.gog.com) - GOG är en digital distributionsplattform som sätter spelare först och respekterar deras behov av egna spel.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
-### 💠 Frontends
+## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Videospelsbibliotekshanterare med stöd för ett brett utbud av tredjepartsbibliotek och stöd för spelemulering, vilket ger ett enhetligt gränssnitt för dina spel.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
-### 💻 Virtuella skärmar
+## 💻 Virtuella skärmar
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linuxkärnmodul som möjliggör hantering av flera skärmar. Det är i huvudsak en virtuell skärm som du kan lägga till, ta bort och ta emot skärmuppdateringar för.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Fristående Parsec Virtual Display.
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automatiserar ändringen av värdupplösningen för att matcha klientupplösningen av Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidias toggle V-Sync.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatiserar ändringar i systemdisplayen, t.ex. aktivering av en virtuell display, justering av upplösning, uppdateringsfrekvens, HDR, G-Sync och FPS-gränser för optimal streaming.
+
+## 🧪 Testar
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - Detta verktyg visar det aktuella tillståndet för dina gamepads, ingångar, joysticks, och allt annat som kan rapporteras av HTML5 Gamepad Api.
 
 ## 📓 Guider
 
