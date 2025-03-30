@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
 
-### 🎮 ゲームストア
+## 🎮 ゲームストア
 
 - format@@0(https://www.epicgames.com) - Epic Games Storeでは毎週無料ゲームを提供しています。
 - [GOG](https://www.gog.com) - GOGはゲーマーを最初に配置し、ゲームを所有する必要性を尊重するデジタル配信プラットフォームです。
 - [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
 
-### 💠 Frontends
+## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - ゲームコレクションをエミュレート、組織化、美化します。
 - [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポート。
 - [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
 
-### 💻 バーチャルディスプレイ
+## 💻 バーチャルディスプレイ
 
 - [evdi](https://github.com/DisplayLink/evdi) - 複数の画面の管理を可能にするLinuxカーネルモジュール。 これは、基本的には、追加、削除、および画面の更新を受信することができる仮想ディスプレイです。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Moonlight のクライアント解像度に合わせてホスト解像度を変更します。
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - NvidiaのV-Syncの切り替え
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 仮想ディスプレイの有効化、最適なストリーミングのための解像度、リフレッシュレート、HDR、G-Sync、FPS制限の調整など、システムディスプレイの変更を自動化します。
+
+## 🧪 テスト
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - ゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
 
 ## 📓 ガイド
 
