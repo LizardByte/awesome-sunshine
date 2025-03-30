@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 게임 스트리밍에 사용하기 위한 유틸리티입니다.
 
-### 🎮 게임 스토어
+## 🎮 게임 스토어
 
 - [에픽게임즈](https://www.epicgames.com) - 에픽게임즈 스토어는 매주 무료 게임을 제공합니다.
 - [GOG](https://www.gog.com) - GOG는 게이머를 최우선으로 생각하며 게이머의 게임 소유 욕구를 존중하는 디지털 배포 플랫폼입니다.
 - [Steam](https://store.steampowered.com) - Steam은 게임을 플레이하고, 토론하고, 제작할 수 있는 최고의 장소입니다.
 
-### 💠 프론트엔드
+## 💠 프론트엔드
 
 - [런치박스](https://www.launchbox-app.com/) - 게임 컬렉션을 에뮬레이션하고, 정리하고, 아름답게 꾸밀 수 있습니다.
 - [Playnite](https://github.com/JosefNemec/Playnite) - 다양한 타사 라이브러리와 게임 에뮬레이션을 지원하는 비디오 게임 라이브러리 관리자로, 게임을 위한 하나의 통합 인터페이스를 제공합니다.
 - [Steam](https://store.steampowered.com) - Steam은 게임을 플레이하고, 토론하고, 제작할 수 있는 최고의 장소입니다.
 
-### 💻 가상 디스플레이
+## 💻 가상 디스플레이
 
 - [evdi](https://github.com/DisplayLink/evdi) - 여러 화면을 관리할 수 있는 Linux 커널 모듈입니다. 기본적으로 화면 업데이트를 추가, 제거 및 수신할 수 있는 가상 디스플레이입니다.
 - [파섹-VDD](https://github.com/nomi-san/parsec-vdd) - 독립형 파섹 가상 디스플레이.
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Moonlight의 클라이언트 해상도와 일치하도록 호스트 해상도를 자동으로 변경합니다.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - 엔비디아의 토글 V-Sync.
 - [Windows 디스플레이 자동화](https://github.com/fehbari/sunshine-scripts) - 최적의 스트리밍을 위해 가상 디스플레이 활성화, 해상도, 재생률, HDR, 지싱크 및 FPS 제한 조정 등 시스템 디스플레이 변경을 자동화합니다.
+
+## 🧪 Testing
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
 
 ## 📓 가이드
 
