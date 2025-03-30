@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加到Sunshine。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于 Sunshine / Moonlight / Playnite 游戏流的实用程序。
 
-### 🎮 游戏商店
+## 🎮 游戏商店
 
 - [Epic Games](https://www.epicgames.com) - Epic游戏商城每周都会送出免费的游戏。
 - [GOG](https://www.gog.com) - GOG 是一个数字分发平台，它把玩家放在首位，尊重他们自己的游戏需要。
 - [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
-### 💠 前端
+## 💠 前端
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify 你的游戏收藏集。
 - [Playnite](https://github.com/JosefNemec/Playnite)--视频游戏库管理器，支持大量第三方游戏库和游戏模拟，为你的游戏提供一个统一的界面。
 - [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
-### 💻 虚拟显示
+## 💻 虚拟显示
 
 - [evdi](https://github.com/DisplayLink/evdi) - 允许管理多个屏幕的Linux内核模块。 它基本上是一个您可以添加、删除和接收屏幕更新的虚拟显示。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - 自动更改主机分辨率以适配Moonlight客户端分辨率。
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia的切换V-Sync。
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 自动进行系统显示更改，如启用虚拟显示器、调整分辨率、刷新率、HDR、G-Sync 和 FPS 限制，以优化流媒体。
+
+## 🧪 测试
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - 此工具显示您游戏的当前状态， 输入、游戏杆和其他可以通过 HTML5 Gamepad Api 报告的任何东西。
 
 ## 📓 参考文档
 
