@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 
-### 🎮 Game Stores
+## 🎮 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
 - [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
 
-### 💠 Frontends
+## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
 
-### 💻 Virtual Displays
+## 💻 Virtual Displays
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.
+
+## 🧪 Testing
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
 
 ## 📓 Guides
 
