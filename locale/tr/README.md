@@ -44,19 +44,19 @@
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ortak oyun yükleme yollarındaki oyunları Sunshine'a ekler.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
 
-### 🎮 Oyun Mağazaları
+## 🎮 Oyun Mağazaları
 
 - [Epic Games](https://www.epicgames.com) - Epic Games Store her hafta ücretsiz oyun(lar) sunuyor.
 - [GOG](https://www.gog.com) - GOG, oyuncuları ilk sıraya koyan ve onların oyunlara sahip olma ihtiyacına saygı duyan bir dijital dağıtım platformudur.
 - [Steam](https://store.steampowered.com) - Steam, oyun oynamak, tartışmak ve yaratmak için nihai hedeftir.
 
-### 💠 Ön Uçlar
+## 💠 Ön Uçlar
 
 - [LaunchBox](https://www.launchbox-app.com/) - Oyun Koleksiyonunuzu Taklit Edin, Düzenleyin ve Güzelleştirin.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Oyunlarınız için tek bir birleşik arayüz sağlayan, çok çeşitli 3. parti kütüphaneleri ve oyun emülasyon desteğine sahip video oyun kütüphanesi yöneticisi.
 - [Steam](https://store.steampowered.com) - Steam, oyun oynamak, tartışmak ve yaratmak için nihai hedeftir.
 
-### 💻 Sanal Ekranlar
+## 💻 Sanal Ekranlar
 
 - [evdi](https://github.com/DisplayLink/evdi) - Birden fazla ekranın yönetilmesini sağlayan Linux çekirdek modülü. Esasen ekleyebileceğiniz, kaldırabileceğiniz ve ekran güncellemeleri alabileceğiniz sanal bir ekrandır.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Bağımsız Parsec Sanal Ekranı.
@@ -75,6 +75,10 @@
 - [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Ana bilgisayar çözünürlüğünü Moonlight'ın istemci çözünürlüğüyle eşleşecek şekilde otomatik olarak değiştirir.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia'nın V-Sync geçişi.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Sanal ekranın etkinleştirilmesi, çözünürlüğün ayarlanması, yenileme hızı, HDR, G-Sync ve optimum akış için FPS sınırları gibi sistem ekranı değişikliklerini otomatikleştirir.
+
+## 🧪 Testing
+
+- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
 
 ## 📓 Kılavuzlar
 
