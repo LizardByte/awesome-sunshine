@@ -8,13 +8,14 @@
 
 <div align="center">
 [
-  <a href="#-klienci">Klienci</a> •
-  <a href="#%EF%B8%8F-narzędzia">Narzędzia</a> •
-  <a href="#-sklepy-z-grami">Sklepy z grami</a> •
-  <a href="#-frontendy">Frontendy</a> •
-  <a href="#-wirtualne-wyświetlacze">Wirtualne wyświetlacze</a> •
-  <a href="#-skrypty">Skrypty</a> •
-  <a href="#-poradniki">Poradniki</a>
+  <a href="#-clients">Klienci</a> •
+  <a href="#%EF%B8%8F-tools">Narzędzia</a> •
+  <a href="#-game-stores">Sklepy z grami</a> •
+  <a href="#-frontends">Frontendy</a> •
+  <a href="#-virtual-displays">Wirtualne wyświetlacze</a> •
+  <a href="#-scripts">Skrypty</a> •
+  <a href="#-testing">Testowanie</a> •
+  <a href="#-guides">Poradniki</a>
 ]
 </div>
 
@@ -78,7 +79,7 @@
 
 ## 🧪 Testowanie
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - To narzędzie wyświetla aktualny stan twoich gamepadów, dane wejściowe, joysticki i cokolwiek innego, które mogą być zgłoszone przez HTML5 Gamepad Api.
+- [GamepadTester](https://hardwaretester.com/gamepad) - To narzędzie wyświetla aktualny stan twoich gamepadów, dane wejściowe, joysticki i cokolwiek innego, co może być zgłoszone przez HTML5 Gamepad Api.
 
 ## 📓 Poradniki
 
