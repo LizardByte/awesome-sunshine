@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Страхотна слънчева светлина</h1>
   <h4 align="center">Колекция от невероятни скриптове, инструменти, ръководства и помощни програми за Sunshine</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-clients">Клиенти</a> •
   <a href="#%EF%B8%8F-tools">Инструменти</a> •
