@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">素晴らしいサンシャイン</h1>
   <h4 align="center">素晴らしいサンシャインスクリプト、ツール、ガイド、コンパニオンソフトウェアのコレクション</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-クライアント">クライアント</a> •
   <a href="#%EF%B8%8F-ツール">ツール</a> •
