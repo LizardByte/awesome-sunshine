@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">멋진 Sunshine</h1>
   <h4 align="center">멋진 Sunshine 스크립트, 도구, 가이드 및 동반자 소프트웨어 모음</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-clients">클라이언트</a> -
   <a href="#%EF%B8%8F-tools">툴</a> -
