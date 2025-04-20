@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Sole Impressionante</h1>
   <h4 align="center">Una collezione di incredibili Scritture Sunshine, Strumenti, Guide e Software Companion</h4>
 </div>
 
-<div align="center">[
+<div align="center" style="display: none;">[
   <a href="#-clienti">Clienti</a> •
   <a href="#%EF%B8%8F-strumenti">Strumenti</a> •
   <a href="#-negozi-di-gioco">Negozi Di Gioco</a> •
