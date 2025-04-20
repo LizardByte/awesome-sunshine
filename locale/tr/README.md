@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Müthiş Güneş Işığı</h1>
   <h4 align="center">Harika Günışığı Komut Dosyaları, Araçlar, Kılavuzlar ve Yardımcı Yazılımlardan Oluşan Bir Koleksiyon</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-müşteriler">Müşteriler</a> •
   <a href="#%EF%B8%8F-araçlar">Araçlar</a> •
