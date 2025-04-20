@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Sunshine - 一款绝佳的串流主机端</h1>
   <h4 align="center">Sunshine 的脚本集、工具、指南及其配套软件</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-客户端">客户端</a> •
   <a href="#%EF%B8%8F-工具">工具</a> •
