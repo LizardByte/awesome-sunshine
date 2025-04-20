@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Ensoleillement incroyable</h1>
   <h4 align="center">Une collection de Scripts, d'Outils, de Guides et de Logiciels de Compagnon</h4>
 </div>
 
-<div align="center">[
+<div align="center" style="display: none;">[
   <a href="#-clients">Clients</a> •
   <a href="#%EF%B8%8F-outils">Outils</a> •
   <a href="#-magasins-de-jeux">Magasins de jeux</a> •
