@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Великолепный солнечный свет</h1>
   <h4 align="center">Коллекция замечательных Sunshine Scripts, инструментов, руководств и компаньонов</h4>
 </div>
 
-<div align="center">[
+<div align="center" style="display: none;">[
   <a href="#-Клиенты">Клиенты</a> •
   <a href="#%EF%B8%8F-Инструменты">Инструменты</a> •
   <a href="#-Игровые-магазины">Игровые магазины</a> •
