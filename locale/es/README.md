@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Asombroso Sunshine</h1>
   <h4 align="center">Una colección de asombrosos scripts de Sunshine, herramientas, guías y Companion Software</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-clientes">Clientes</a> •
   <a href="#%EF%B8%8F-herramientas">Herramientas</a> •
