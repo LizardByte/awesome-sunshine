@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Неймовірний Sunshine</h1>
   <h4 align="center">Колекція Чудових Скриптів, Інструментів, Посібників та Супутнього Програмного Забезпечення для Sunshine</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-Клієнти">Клієнти</a> •
   <a href="#%EF%B8%8F-Інструменти">Інструменти</a> •
