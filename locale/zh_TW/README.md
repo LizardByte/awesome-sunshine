@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Awesome Sunshine</h1>
   <h4 align="center">Sunshine 的腳本、工具、指南和配套軟體合集</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-clients">用戶端</a>-
   <a href="#%EF%B8%8F-tools">工具</a>-
