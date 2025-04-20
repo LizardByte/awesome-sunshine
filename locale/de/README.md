@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Großartiger Sonnenschein</h1>
   <h4 align="center">Eine Sammlung toller Sonnenscheinskripte, Werkzeuge, Richtlinien und Begleitsoftware</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-kunden">Kunden</a> •
   <a href="#%EF%B8%8F-werkzeuge">Werkzeuge</a> •
