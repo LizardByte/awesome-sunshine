@@ -78,11 +78,13 @@
 
 ## 🧪 Testing
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - 這個工具會顯示您的遊戲手柄、輸入、搖桿以及 HTML5 Gamepad Api 可以報告的其他東西的目前狀態。
 
 ## 📓 指南
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 的官方文件。
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - LizardByte 官方部落格，提供陽光的官方與社群指南。
 - [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - 在 Windows 主機上為 Sunshine 設定虛擬畫面和虛擬顯示器的指南。
 
 ## 貢獻
