@@ -79,10 +79,12 @@
 ## 🧪 テスト
 
 - [GamepadTester](https://hardwaretester.com/gamepad) - ゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
 
 ## 📓 ガイド
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshineの公式ドキュメント。
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - 公式LizardByte blog, Sunshineの公式とコミュニティガイドをフィーチャー.
 - [ダミープラグの推奨](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windowsホスト上のサンシャイン用のダミープラグとバーチャルディスプレイの設定ガイド。
 
 ## 貢献
