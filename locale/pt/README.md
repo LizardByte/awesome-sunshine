@@ -79,10 +79,12 @@
 ## 🧪 Teste
 
 - [GamepadTester](https://hardwaretester.com/gamepad) - Esta ferramenta exibe o estado atual dos seus jogos, entradas, joysticks, e qualquer outra coisa que possa ser relatada pelo Gamepad Api, HTML5.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Esta ferramenta exibe o estado atual dos seus gamepads, entradas, joysticks, e qualquer outra coisa que possa ser relatada pelo Gamepad Api, HTML5.
 
 ## 📓 Guias
 
 - [Documentação LizardByte](https://docs.lizardbyte.dev/projects/sunshine) - Documentação oficial do Sunshine.
+- [Blog LizardByte](https://app.lizardbyte.dev/blog) - Blog Oficial LizardByte, com guias oficiais e comunitários para a Sunshine.
 - [Recomendações Dummy Plug Relet](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guia sobre configuração de plugs fictícios e telas virtuais para Sunshine em hosts Windows.
 
 ## Contribuir
