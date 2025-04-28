@@ -78,11 +78,13 @@
 
 ## 🧪 Testing
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [하드웨어 테스터/게임패드 테스터](https://hardwaretester.com/gamepad) - 이 도구는 게임패드, 입력, 조이스틱 및 HTML5 게임패드 API에서 보고할 수 있는 모든 것의 현재 상태를 표시합니다.
 
 ## 📓 가이드
 
 - [리자드바이트 문서](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 공식 문서입니다.
+- [리자드바이트 블로그](https://app.lizardbyte.dev/blog) - 선샤인 공식 및 커뮤니티 가이드를 제공하는 리자드바이트 공식 블로그입니다.
 - [더미 플러그 권장 사항](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windows 호스트에서 Sunshine을 위한 더미 플러그 및 가상 디스플레이 설정에 대한 안내서입니다.
 
 ## 기여하기
