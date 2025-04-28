@@ -78,11 +78,13 @@
 
 ## 🧪 Testing
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Bu araç, oyun kumandalarınızın, girişlerinizin, oyun çubuklarınızın ve HTML5 Gamepad Api tarafından bildirilebilecek diğer her şeyin mevcut durumunu görüntüler.
 
 ## 📓 Kılavuzlar
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine için resmi belgeler.
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - Sunshine için resmi ve topluluk rehberleri içeren resmi LizardByte blogu.
 - [Kukla Fiş Önerileri](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windows ana bilgisayarlarında Sunshine için kukla fişler ve sanal ekranlar kurma kılavuzu.
 
 ## Katkıda bulunun
