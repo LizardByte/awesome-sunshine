@@ -76,9 +76,9 @@
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia'nın V-Sync geçişi.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Sanal ekranın etkinleştirilmesi, çözünürlüğün ayarlanması, yenileme hızı, HDR, G-Sync ve optimum akış için FPS sınırları gibi sistem ekranı değişikliklerini otomatikleştirir.
 
-## 🧪 Testing
+## 🧪 Test
 
-- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Resmi LizardByte gamepad test cihazı.
 - [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Bu araç, oyun kumandalarınızın, girişlerinizin, oyun çubuklarınızın ve HTML5 Gamepad Api tarafından bildirilebilecek diğer her şeyin mevcut durumunu görüntüler.
 
 ## 📓 Kılavuzlar
