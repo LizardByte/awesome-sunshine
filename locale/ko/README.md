@@ -76,9 +76,9 @@
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - 엔비디아의 토글 V-Sync.
 - [Windows 디스플레이 자동화](https://github.com/fehbari/sunshine-scripts) - 최적의 스트리밍을 위해 가상 디스플레이 활성화, 해상도, 재생률, HDR, 지싱크 및 FPS 제한 조정 등 시스템 디스플레이 변경을 자동화합니다.
 
-## 🧪 Testing
+## 🧪 테스트
 
-- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [리자드바이트/게임패드 테스터](https://app.lizardbyte.dev/gamepad-tester) - 공식 리자드바이트 게임패드 테스터입니다.
 - [하드웨어 테스터/게임패드 테스터](https://hardwaretester.com/gamepad) - 이 도구는 게임패드, 입력, 조이스틱 및 HTML5 게임패드 API에서 보고할 수 있는 모든 것의 현재 상태를 표시합니다.
 
 ## 📓 가이드
