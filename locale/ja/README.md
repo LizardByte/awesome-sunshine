@@ -79,7 +79,7 @@
 ## 🧪 テスト
 
 - [GamepadTester](https://hardwaretester.com/gamepad) - ゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - このツールはゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
 
 ## 📓 ガイド
 
