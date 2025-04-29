@@ -79,7 +79,7 @@
 ## 🧪 Prueba
 
 - [GamepadTester](https://hardwaretester.com/gamepad) - Esta herramienta muestra el estado actual de tus gamepads, , joysticks y cualquier otra cosa que pueda ser reportada por el Apio de Gamepad HTML5.
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Esta herramienta muestra el estado actual de tus blogs de juego, , joysticks y cualquier otra cosa que pueda ser reportada por el Apio de Gamepad HTML5.
 
 ## 📓 Guías
 
