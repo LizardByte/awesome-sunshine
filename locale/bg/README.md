@@ -79,12 +79,12 @@
 ## 🧪 Тестване
 
 - [GamepadTester](https://hardwaretester.com/gamepad) – Този инструмент показва текущото състояние на контролерите, бутоните, джойстиците и всичко останало, което може да бъде разпознато от подсистемата за контролери поддържана от HTML5.
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Този инструмент показва текущото състояние на вашите геймпади, входове, джойстици и всичко останало, което може да бъде отчетено от HTML5 Gamepad Api.
 
 ## 📓 Ръководства
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Официална документация за Sunshine.
-- [LizardByte blog](https://app.lizardbyte.dev/blog) - Official LizardByte blog, featuring official and community guides for Sunshine.
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - Официален блог на LizardByte, включващ официални и общностни ръководства за Sunshine.
 - [Препоръки за фиктивни щепсели](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Ръководство за настройка на фиктивни щепсели и виртуални дисплеи за Sunshine на хостове с Windows.
 
 ## Дайте своя принос
