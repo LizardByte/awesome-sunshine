@@ -78,14 +78,14 @@
 
 ## 🧪 测试
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - 此工具显示您游戏的当前状态， 输入、游戏杆和其他可以通过 HTML5 Gamepad Api 报告的任何东西。
-- [硬仓库/GamepadTes](https://hardwaretester.com/gamepad) - 此工具显示您游戏的当前状态， 输入、游戏杆和其他可以通过 HTML5 Gamepad Api 报告的任何东西。
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - 来自官方 (LizardByte) 的游戏手柄测试器。
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - 该工具可显示游戏手柄、输入、操纵杆以及通过 HTML5 Gamepad API 可报告的其他设备的当前状态。
 
 ## 📓 参考文档
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 的官方文档。
-- [LizardByte 博客](https://app.lizardbyte.dev/blog) - 官方的 LizardByte 博客，展示了官方和社区逊尼派指南。
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - 关于设置虚拟外挂插件和在Windows主机上的 Sunshine 虚拟显示的指南。
+- [LizardByte 博客](https://app.lizardbyte.dev/blog) - LizardByte 的博客，展示了来自官方和社区的相关指南。
+- [推荐的显示欺骗器](https://github.com/Nonary/documentation/wiki/DummyPlugs) - 为 Windows 主机上的 Sunshine 设置虚拟显示器的指南。
 
 ## 贡献
 
