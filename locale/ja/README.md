@@ -86,5 +86,5 @@
 ## 貢献
 
 コントリビューション歓迎！ コントリビューション歓迎！ しかし、このプロジェクトに貢献するときは、LizardByte
-[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+[Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 に従ってください。
