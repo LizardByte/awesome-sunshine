@@ -66,13 +66,9 @@
 
 ## 📜 Komut Dosyaları
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Moonlight istemcisi bir SDR akışı isterse ana bilgisayarda HDR'yi otomatik olarak kapatır.
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linux üzerinde sahte bir fiş kullanarak uzaktan akış için otomasyon.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia'nın Kare Hızı Sınırlayıcısı.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia'nın G-Sync geçişi.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Akış sırasında sahte bir fişe geçişi otomatikleştirir.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Steam/PlayNite Oyunlarını Sunshine ile başlatmak ve sonlandırmak için yapılandırın.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Ana bilgisayar çözünürlüğünü Moonlight'ın istemci çözünürlüğüyle eşleşecek şekilde otomatik olarak değiştirir.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia'nın V-Sync geçişi.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Sanal ekranın etkinleştirilmesi, çözünürlüğün ayarlanması, yenileme hızı, HDR, G-Sync ve optimum akış için FPS sınırları gibi sistem ekranı değişikliklerini otomatikleştirir.
 
@@ -85,7 +81,6 @@
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine için resmi belgeler.
 - [LizardByte blog](https://app.lizardbyte.dev/blog) - Sunshine için resmi ve topluluk rehberleri içeren resmi LizardByte blogu.
-- [Kukla Fiş Önerileri](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windows ana bilgisayarlarında Sunshine için kukla fişler ve sanal ekranlar kurma kılavuzu.
 
 ## Katkıda bulunun
 
