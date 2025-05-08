@@ -14,6 +14,7 @@
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuelle-anzeige">Virtuelle Anzeige</a> •
   <a href="#-skripte">Skripte</a> •
+  <a href="#-test">Test</a> •
   <a href="#-anleitungen">Anleitungen</a>
 ]
 </div>
