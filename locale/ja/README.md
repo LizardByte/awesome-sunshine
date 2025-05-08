@@ -14,6 +14,7 @@
   <a href="#-frontends">Frontends</a> •
   <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
   <a href="#-スクリプト">スクリプト</a> •
+  <a href="#-テスト">テスト</a> •
   <a href="#-ガイド">ガイド</a>
 ]
 </div>
