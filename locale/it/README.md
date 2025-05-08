@@ -65,13 +65,9 @@
 
 ## 📜 Script
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automates off HDR on host if the Moonlight client is asking for an SDR stream.
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automazione per lo streaming remoto utilizzando una spina fittizia su Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Toggle di Nvidia G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configura Steam/PlayNite Games per avviare e terminare con Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Toggle V-Sync di Nvidia.
 - [Windows Display Automation](https://github. om/fehbari/sunshine-scripts) - Automatizza le modifiche al display del sistema, ad esempio abilitando un display virtuale, regolando la risoluzione, la velocità di aggiornamento, HDR, G-Sync e i limiti FPS per uno streaming ottimale.
 
@@ -84,7 +80,6 @@
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Documentazione ufficiale per Sunshine.
 - [LizardByte blog](https://app.lizardbyte.dev/blog) - Blog ufficiale di LizardByte, con guide ufficiali e community per Sunshine.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guida all'impostazione di spine fittizie e display virtuali per Sunshine sugli host Windows.
 
 ## Contribuisci
 
