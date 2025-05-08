@@ -66,13 +66,9 @@
 
 ## 📜 Сценарії
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Автоматизує вимкнення HDR на хості, якщо клієнт Moonlight робить запит стримінгу у форматі SDR.
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Автоматизація віддаленого стримінгу використовуючи віртуальний штекер (dummy plug) у Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Обмежувач Частоти Кадрів від Nvidia.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Перемикач G-Sync від Nvidia.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Автоматизує перемикання на віртуальний штекер (dummy plug) під час стримінгу.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Налаштування запуску та завершення ігор зі Steam/PlayNite за допомогою Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Автоматизує зміну роздільної здатності хоста відповідно до роздільної здатності клієнта Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Перемикач V-Sync від Nvidia.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Автоматизує зміни системного дисплея, такі як увімкнення віртуального дисплея, налаштування роздільної здатності, частоти оновлення, HDR, G-Sync та ліміт FPS для оптимальної якості стримінгу.
 
@@ -85,7 +81,6 @@
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Офіційна документація до Sunshine.
 - [Блог LizardByte ](https://app.lizardbyte.dev/blog) - Офіційний блог LizardByt, з офіційними та керівниками спільноти щодо сунітів.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Посібник з налаштування віртуальних штекерів (dummy plugs) і віртуальних дисплеїв для Sunshine на хостах під ОС Windows.
 
 ## Зробити Внесок
 
