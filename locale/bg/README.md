@@ -86,5 +86,5 @@
 ## Дайте своя принос
 
 Приносът е добре дошъл! Но, моля, спазвайте LizardByte
-[Насоки за принос](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+[Насоки за принос](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 , когато допринасяте за този проект.
