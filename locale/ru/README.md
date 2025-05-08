@@ -65,13 +65,9 @@
 
 ## 📜 скрипты
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Автоматизирует отключение HDR на хосте, если клиент лунного света просит о потоке SDR.
 - [Автоматизация интеграции с модулями](https://github.com/XenHat/dummy-plug-automation) - Автоматизация для удаленного потокового вещания с помощью дамма plug в Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - ограничение частоты кадров Nvidia.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - toggle G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Автоматизирует переключение на фиктивный разъем при потоковой передаче.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Настройте Steam/PlayNite Games для запуска и завершения игры с помощью Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Автоматическое изменение разрешения хоста в соответствии с разрешением клиента Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - переключатель Nvidia's toggle V-Sync.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Автоматизирует изменения системного дисплея, такие как включение виртуального дисплея, настройка разрешения, частоты обновления, HDR, G-Sync и пределов FPS для оптимальной потоковой передачи.
 
@@ -84,7 +80,6 @@
 
 - [документация LizardByte](https://docs.lizardbyte.dev/projects/sunshine) - официальная документация для Sunshine.
 - [LizardByte блог](https://app.lizardbyte.dev/blog) - официальный блог LizardByte, содержащий официальные руководства и руководства сообщества Sunshine.
-- [Рекомендации по подключению модуля](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Руководство по настройке модулей и виртуальных дисплеев для Sunshine на Windows hosts.
 
 ## Внести вклад
 
