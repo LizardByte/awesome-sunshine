@@ -86,5 +86,5 @@
 ## 기여하기
 
 기여를 환영합니다! 단, 이 프로젝트에 기여하실 때는 리자드바이트
-[기여 가이드라인](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)(
+[기여 가이드라인](https://docs.lizardbyte.dev/latest/developers/contributing.html)(
 )을 준수해 주세요.
