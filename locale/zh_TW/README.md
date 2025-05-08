@@ -66,13 +66,9 @@
 
 ## 📜 腳本
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - 當 Moonlight 用戶端要求 SDR 串流時，自動關閉主機上的 HDR。
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - 在 Linux 上使用虛擬畫面進行遠端串流的自動化。
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia 的 Frame Rate Limiter。
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia 的切換 G-Sync。
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - 串流時自動切換至虛擬畫面。
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - 設定 Steam/PlayNite 遊戲與 Sunshine 一起啟動和終止。
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - 自動改變主機解析度以符合 Moonlight 的用戶端解析度。
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia 的切換 V-Sync。
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 自動進行系統顯示變更，例如啟用虛擬顯示器、調整解析度、更新率、HDR、G-Sync 和 FPS 限制，以達到最佳串流效果。
 
@@ -85,7 +81,6 @@
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 的官方文件。
 - [LizardByte blog](https://app.lizardbyte.dev/blog) - LizardByte 官方部落格，提供陽光的官方與社群指南。
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - 在 Windows 主機上為 Sunshine 設定虛擬畫面和虛擬顯示器的指南。
 
 ## 貢獻
 
