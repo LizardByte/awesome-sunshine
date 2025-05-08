@@ -66,13 +66,9 @@
 
 ## 📜 스크립트
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Moonlight 클라이언트에서 SDR 스트림을 요청하는 경우 호스트에서 HDR을 자동으로 끕니다.
 - [더미 플러그 자동화](https://github.com/XenHat/dummy-plug-automation) - Linux에서 더미 플러그를 사용하여 원격 스트리밍을 자동화합니다.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - 엔비디아의 프레임 속도 제한기.
 - [지싱크토글](https://github.com/FrogTheFrog/gsync-toggle) - 엔비디아의 지싱크 토글 기능입니다.
-- [모니터 스왑 자동화](https://github.com/Nonary/MonitorSwapAutomation) - 스트리밍 시 더미 플러그로 스왑을 자동화합니다.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - 선샤인과 함께 시작하고 종료하도록 Steam/PlayNite 게임을 구성합니다.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Moonlight의 클라이언트 해상도와 일치하도록 호스트 해상도를 자동으로 변경합니다.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - 엔비디아의 토글 V-Sync.
 - [Windows 디스플레이 자동화](https://github.com/fehbari/sunshine-scripts) - 최적의 스트리밍을 위해 가상 디스플레이 활성화, 해상도, 재생률, HDR, 지싱크 및 FPS 제한 조정 등 시스템 디스플레이 변경을 자동화합니다.
 
@@ -85,7 +81,6 @@
 
 - [리자드바이트 문서](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 공식 문서입니다.
 - [리자드바이트 블로그](https://app.lizardbyte.dev/blog) - 선샤인 공식 및 커뮤니티 가이드를 제공하는 리자드바이트 공식 블로그입니다.
-- [더미 플러그 권장 사항](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windows 호스트에서 Sunshine을 위한 더미 플러그 및 가상 디스플레이 설정에 대한 안내서입니다.
 
 ## 기여하기
 
