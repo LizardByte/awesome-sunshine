@@ -1,12 +1,12 @@
 <!--lint disable awesome-heading awesome-toc double-link-->
 
-<div align="center">
+<div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Awesome Sunshine</h1>
   <h4 align="center">A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software</h4>
 </div>
 
-<div align="center">
+<div align="center" style="display: none;">
 [
   <a href="#-clients">Clients</a> •
   <a href="#%EF%B8%8F-tools">Tools</a> •
@@ -14,6 +14,7 @@
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
   <a href="#-scripts">Scripts</a> •
+  <a href="#-testing">Testing</a> •
   <a href="#-guides">Guides</a>
 ]
 </div>
@@ -38,24 +39,27 @@
 
 ## 🛠️ Tools
 
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 
-### 🎮 Game Stores
+## 🎮 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
 - [GOG](https://www.gog.com) - GOG is a digital distribution platform that puts gamers first and respects their need to own games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
 
-### 💠 Frontends
+## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
 
-### 💻 Virtual Displays
+## 💻 Virtual Displays
 
+- [evdi](https://github.com/DisplayLink/evdi) - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
@@ -63,20 +67,21 @@
 
 ## 📜 Scripts
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Automates turning off HDR on host if the Moonlight client is asking for an SDR stream.
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plug on Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - Automates swapping to a dummy plug when streaming.
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Configure Steam/PlayNite Games to launch and terminate with Sunshine.
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Automates changing the host resolution to match the client resolution of Moonlight.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia's toggle V-Sync.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automates system display changes, such as enabling a virtual display, adjusting resolution, refresh rate, HDR, G-Sync, and FPS limits for optimal streaming.
+
+## 🧪 Testing
+
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
 
 ## 📓 Guides
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
-- [Dummy Plug Recommendations](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Guide on setting up dummy plugs and virtual displays for Sunshine on Windows hosts.
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - Official LizardByte blog, featuring official and community guides for Sunshine.
 
 ## Contribute
 
