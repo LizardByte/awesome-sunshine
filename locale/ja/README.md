@@ -66,13 +66,9 @@
 
 ## 📜 スクリプト
 
-- [AutoHDRSwitch](https://github.com/Nonary/AutoHDRSwitch) - Moonlight クライアントがSDRストリームを要求している場合、ホストでHDRをオフにします。
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linuxでダミープラグを使ったリモートストリーミングの自動化。
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidiaのフレームレートリミッター。
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
-- [MonitorSwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) - ストリーミング時にダミープラグに切り替えを自動化します。
-- [PlayNiteWatcher](https://github.com/Nonary/PlayNiteWatcher) - Sunshineで起動し終了するSteam/PlayNite Gamesを設定します。
-- [ResolutionAutomation](https://github.com/Nonary/ResolutionAutomation) - Moonlight のクライアント解像度に合わせてホスト解像度を変更します。
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - NvidiaのV-Syncの切り替え
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 仮想ディスプレイの有効化、最適なストリーミングのための解像度、リフレッシュレート、HDR、G-Sync、FPS制限の調整など、システムディスプレイの変更を自動化します。
 
@@ -85,7 +81,6 @@
 
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Sunshineの公式ドキュメント。
 - [LizardByte blog](https://app.lizardbyte.dev/blog) - 公式LizardByte blog, Sunshineの公式とコミュニティガイドをフィーチャー.
-- [ダミープラグの推奨](https://github.com/Nonary/documentation/wiki/DummyPlugs) - Windowsホスト上のサンシャイン用のダミープラグとバーチャルディスプレイの設定ガイド。
 
 ## 貢献
 
