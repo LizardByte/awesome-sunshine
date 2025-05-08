@@ -6,13 +6,15 @@
   <h4 align="center">Una collezione di incredibili Scritture Sunshine, Strumenti, Guide e Software Companion</h4>
 </div>
 
-<div align="center" style="display: none;">[
+<div align="center" style="display: none;">
+[
   <a href="#-clienti">Clienti</a> •
   <a href="#%EF%B8%8F-strumenti">Strumenti</a> •
   <a href="#-negozi-di-gioco">Negozi Di Gioco</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-visualizzazione-virtuale">Visualizzazione Virtuale</a> •
   <a href="#-script">Script</a> •
+  <a href="#-test">Test</a> •
   <a href="#-guide">Guide</a>
 ]
 </div>
