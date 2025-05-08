@@ -8,13 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">클라이언트</a> -
-  <a href="#%EF%B8%8F-tools">툴</a> -
-  <a href="#-game-stores">게임 스토어</a> -
-  <a href="#-frontends">프론트엔드</a> -
-  <a href="#-virtual-displays">가상 디스플레이</a> -
-  <a href="#-scripts">스크립트</a> -
-  <a href="#-guides">가이드</a>
+  <a href="#-고객">고객</a> •
+  <a href="#%EF%B8%8F-도구">도구</a> •
+  <a href="게임 스토어">게임 스토어</a> •
+  <a href="프론트엔드">프론트엔드</a> •
+  <a href="가상 디스플레이">가상 디스플레이</a> •
+  <a href="스크립트">스크립트</a> •
+  <a href="테스트">테스트</a> •
+  <a href="가이드">가이드</a>
 ]
 </div>
 
