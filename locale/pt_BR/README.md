@@ -86,5 +86,5 @@
 ## Contribuir
 
 Contribuições são bem-vindas! No entanto, siga as Diretrizes de contribuição da LizardByte
-[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+[Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 ao contribuir para este projeto.
