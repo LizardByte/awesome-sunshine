@@ -86,5 +86,5 @@
 ## Внести вклад
 
 Добро пожаловать! Но, пожалуйста, следуйте инструкциям LizardByte
-[Вклад в руководство](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
+[Вклад в руководство](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 при участии в этом проекте.
