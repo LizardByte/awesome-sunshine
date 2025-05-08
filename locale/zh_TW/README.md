@@ -8,13 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">用戶端</a>-
-  <a href="#%EF%B8%8F-tools">工具</a>-
-  <a href="#-game-stores">遊戲商店</a>-
-  <a href="#-frontends">Frontends</a>-
-  <a href="#-virtual-displays">虛擬顯示器</a>-
-  <a href="#-scripts">腳本</a>-
-  <a href="#-guides">指南</a>
+  <a href="#-用戶端">用戶端</a> •
+  <a href="#%EF%B8%8F-工具">工具</a> •
+  <a href="#-遊戲商店">遊戲商店</a> •
+  <a href="#-前端">前端</a> •
+  <a href="#-虛擬顯示器">虛擬顯示器</a> •
+  <a href="#-腳本">腳本</a> •
+  <a href="#-測試">測試</a> •
+  <a href="#-指南">指南</a>
 ]
 </div>
 
