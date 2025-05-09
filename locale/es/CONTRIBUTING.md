@@ -1,5 +1,5 @@
 # Contribuyendo
 
-Por favor, sigue el LizardByte
-[Contributing Guidelines](https://docs.lizardbyte.dev/latest/Developopers/contributing.html)
+Por favor, sigue a LizardByte
+[Normas de contribución](https://docs.lizardbyte.dev/latest/Developopers/contributing.html)
 al contribuir a este proyecto.

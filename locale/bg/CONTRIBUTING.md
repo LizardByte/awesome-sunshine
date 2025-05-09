@@ -1,5 +1,5 @@
 # Принос
 
-Моля, следвайте LizardByte
-[Насоки за принос](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-, когато допринасяте за този проект.
+Моля, следвайте
+[Насоките за принос](https://docs.lizardbyte.dev/latest/developers/contributing.html)
+на LizardByte, когато допринасяте към този проект.
