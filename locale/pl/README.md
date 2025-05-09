@@ -10,7 +10,7 @@
 [
   <a href="#-Klienci">Klienci</a> •
   <a href="#%EF%B8%8F-Narzędzia">Narzędzia</a> •
-  <a href="#-Sklepy z grami">Sklepy z grami</a> •
+  <a href="#-Sklepy-z-grami">Sklepy z grami</a> •
   <a href="#-Frontendy">Frontendy</a> •
   <a href="#-Wirtualne-wyświetlacze">Wirtualne wyświetlacze</a> •
   <a href="#-Skrypty">Skrypty</a> •
