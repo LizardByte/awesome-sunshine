@@ -73,7 +73,7 @@
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Nvidia 的切換 V-Sync。
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 自動進行系統顯示變更，例如啟用虛擬顯示器、調整解析度、更新率、HDR、G-Sync 和 FPS 限制，以達到最佳串流效果。
 
-## 測試
+## 🧪 測試
 
 - [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - 官方 LizardByte 遊戲手柄測試儀。
 - [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - 這個工具會顯示您的遊戲手柄、輸入、搖桿以及 HTML5 Gamepad Api 可以報告的其他東西的目前狀態。
