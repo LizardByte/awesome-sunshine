@@ -35,6 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita istemcisi.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch istemcisi.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U istemcisi.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS istemcisi.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV istemcisi.
 
 ## 🛠️ Araçlar
