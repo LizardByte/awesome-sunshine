@@ -35,6 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita-klient.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch-klient.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U klient.
+- [Ny Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Ny Nintendo 3DS klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV-klient.
 
 ## 🛠️ Verktyg
