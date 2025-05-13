@@ -35,6 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita客户端。
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - 任天堂切换客户端。
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 新任天堂 3DS 客户端。
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS 电视客户端。
 
 ## 🛠️ 工具
