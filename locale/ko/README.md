@@ -35,6 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita 클라이언트.
 - [닌텐도 스위치](https://github.com/XITRIX/Moonlight-Switch) - 닌텐도 스위치 클라이언트.
 - [닌텐도 Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - 닌텐도 Wii U 클라이언트.
+- [뉴 닌텐도 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 새로운 닌텐도 3DS 클라이언트.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 클라이언트.
 
 ## 🛠️ 도구
