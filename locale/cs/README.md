@@ -44,48 +44,47 @@
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrace her a aplikací z GeForce Experience do Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se slunečním / Měsíčním streamováním hry.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
 
-## :video_hra: Herní obchody
+## 🎮 Herní obchody
 
-- [Epické hry](https://www.epicgames.com) - Epická hra Obchod nabízí zdarma každý týden.
+- [Epic Games](https://www.epicgames.com) - Epic Games Store nabízí každý týden hry zdarma.
 - [GOG](https://www.gog.com) - GOG je digitální distribuční platforma, která staví hráče na první místo a respektuje jejich potřebu vlastnit hry.
-- [Steam](https://store.steampowered.com) - Steam je konečným cílem pro hraní, diskuzi a vytváření her.
+- [Steam](https://store.steampowered.com) - Steam je nejlepším místem pro hraní, diskuse a vytváření her.
 
-## 💠 Frontends
+## 💠 Frontendy
 
-- [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organization and Beautify your game collection.
-- [Playnite](https://github.com/JosefNemec/Playnite) - Správce knihovny videoher s podporou široké škály knihoven třetích stran a podpory emulace her, poskytování jednoho jednotného rozhraní pro vaše hry.
-- [Steam](https://store.steampowered.com) - Steam je konečným cílem pro hraní, diskuzi a vytváření her.
+- [LaunchBox](https://www.launchbox-app.com/) - Emulujte, organizujte a zkrášlujte svou sbírku her.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Správce knihovny videoher s podporou široké škály knihoven třetích stran a podporou emulace her, který poskytuje jednotné rozhraní pro vaše hry.
+- [Steam](https://store.steampowered.com) - Služba Steam je nejlepším místem pro hraní, diskuse a vytváření her.
 
 ## 💻 Virtuální displeje
 
-- [evdi](https://github.com/DisplayLink/evdi) - linuxový jádrový modul, který umožňuje správu více obrazovek. Je to v podstatě virtuální displej, pro který můžete přidat, odebrat a přijímat aktualizace obrazovky.
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Samostatný Virtuální displej Parsec.
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Přidejte virtuální monitory do svého zařízení Windows 10/11! Funguje s VR, OBS, Sunshine a/nebo jakýmkoli stolním programem pro sdílení.
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - nástroj GUI, který se dokáže integrovat s jiným softwarem, jako je Sunshine pro účinnou manipulaci s výběrem IdSample.
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows virtuální ovladač pro přidání více virtuálních monitorů do vašeho PC! Pro Win10+. Funguje s VR, obs, streamovací software atd.
+- [evdi](https://github.com/DisplayLink/evdi) - Modul linuxového jádra, který umožňuje správu více obrazovek. Jedná se v podstatě o virtuální displej, který můžete přidávat, odebírat a přijímat aktualizace obrazovky.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Samostatný virtuální displej Parsec.
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Přidejte virtuální monitory do zařízení se systémem Windows 10/11! Funguje s VR, OBS, Sunshine a/nebo jakýmkoli softwarem pro sdílení plochy.
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Nástroj s grafickým uživatelským rozhraním, který lze integrovat s jiným softwarem, například Sunshine, pro efektivní manipulaci s implementacemi ukázkového ovladače nepřímého zobrazení (IddSample).
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Ovladač virtuálního displeje systému Windows pro přidání více virtuálních monitorů do vašeho počítače! Pro Win10+. Funguje s VR, obs, streamovacím softwarem atd.
 
-## 📜 skripty
+## 📜 Skripty
 
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automation for remote streaming using a dummy plugg on Linux.
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizace pro vzdálené streamování pomocí fiktivního konektoru v systému Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Přepínač Nvidia GSync.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Přepínač V-Sync Nvidia.
-- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatizuje změny systémového zobrazení, například povolení virtuálního displeje, nastavení rozlišení, obnovovací rychlost, HDR, G-Sync a FPS limity pro optimální vysílání.
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Přepínač Nvidia G-Sync.
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Přepínač Nvidia V-Sync.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatizuje změny zobrazení systému, například zapnutí virtuálního displeje, nastavení rozlišení, obnovovací frekvence, HDR, G-Sync a limitů FPS pro optimální streamování.
 
-## 🧪 Testing
+## 🧪 Testování
 
-- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Oficiální LizardByte tester gamepadu.
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Tento nástroj zobrazuje aktuální stav vašich herních polí vstupy, joysticky a cokoliv jiného, které mohou být nahlášeny pomocí HTML5 Gamepad Api.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Oficiální tester gamepadů LizardByte.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Tento nástroj zobrazuje aktuální stav vašich gamepadů, vstupů, joysticků a všeho ostatního, co lze nahlásit pomocí HTML5 Gamepad Api.
 
-## 📓 Návody
+## 📓 Průvodci
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Oficiální dokumentace pro sunshine.
-- [LizardByte blog](https://app.lizardbyte.dev/blog) - Oficiální LizardByte blog, s oficiálními a komunitními průvodci pro sunshine.
+- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Oficiální dokumentace pro Sunshine.
+- [LizardByte blog](https://app.lizardbyte.dev/blog) - Oficiální blog LizardByte s oficiálními a komunitními průvodci pro Sunshine.
 
 ## Přispějte
 
-Příspěvky vítá! Ale prosím postupujte podle LizardByte
-[Pravidla pro příspěvky](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-při přispívání k tomuto projektu.
+Příspěvky jsou vítány! Při přispívání do tohoto projektu však prosím dodržujte pokyny LizardByte
+[Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html).
