@@ -2,47 +2,47 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Úžasné slunce</h1>
-  <h4 align="center">Sbírka úžasných slunečních skriptů, Nástrojů, příruček a softwaru společnosti</h4>
+  <h1 align="center">Awesome Sunshine</h1>
+  <h4 align="center">Sbírka úžasných skriptů Sunshine, nástrojů, průvodců a doprovodného softwaru</h4>
 </div>
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">klienty</a> •
-  <a href="#%EF%B8%8F-tools">Nástroje</a> •
-  <a href="#-game-stores">Herní obchody</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-virtual-displays">Virtuální displeje</a> •
-  <a href="#-scripts">skripty</a> •
-  <a href="#-testing">Testing</a> •
+  <a href="#-clients">Klienti</a> -
+  <a href="#%EF%B8%8F-tools">Nástroje</a> -
+  <a href="#-game-stores">Herní obchody</a> -
+  <a href="#-frontends">Frontendy</a> -
+  <a href="#-virtual-displays">Virtuální displeje</a> -
+  <a href="#-scripts">Skripty</a> -
+  <a href="#-testing">Testování</a> -
   <a href="#-guides">Návody</a>
 ]
 </div>
 
-## :Television: Klienti
+## 📺 Klienti
 
-### :eos-spoked_asterisk: Oficiální klienti typu Moonlight
+### ✳️ Oficiální klienti Moonlight
 
-- [Android](https://github.com/moonlight-stream/moonlight-android) - Oficiální Android klient.
-- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Oficiální klient ChromeOS
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Oficiální iOS klient.
-- [QT](https://github.com/moonlight-stream/moonlight-qt) - Oficiální QT klient.
+- [Android](https://github.com/moonlight-stream/moonlight-android) - Oficiální klient pro Android.
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Oficiální klient systému ChromeOS.
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Oficiální klient iOS.
+- [QT](https://github.com/moonlight-stream/moonlight-qt) - Oficiální klient QT.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Oficiální vložený klient.
 
-### :eos-pointed_star: Klienti třetí strany Měsíční
+### ✴️ Klienti Moonlight třetích stran
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) klient.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch klient.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Klient UWP/Xbox (One/Series).
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - Klient systému PS Vita.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Klient Nintenda Switch.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Klient Nintenda Wii U.
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Nový Nintendo 3DS klient.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Klient LG webOS TV.
 
 ## 🛠️ Nástroje
 
-- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Rozmístit sunshine v Cloudu: Paperspace, AWS, Azure, Google Cloud a další.
-- [GSMS](https://github.com/LizardByte/GSMS) - Migrujte hry a aplikace z GeForce Experience na Sunshine.
-- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidejte a třídit hry s obálkovým obrázkem stahovaným ze SteamGridDB.
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Nasadit Sunshine v Cloudu: Paperspace, AWS, Azure, Google Cloud a další.
+- [GSMS](https://github.com/LizardByte/GSMS) - Migrace her a aplikací z GeForce Experience do Sunshine.
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se slunečním / Měsíčním streamováním hry.
 
