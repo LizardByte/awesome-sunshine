@@ -19,34 +19,34 @@
 ]
 </div>
 
-## 📺 Khách hàng
+## 📺Clients
 
 ### ✳️ Khách hàng chính thức của Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Ứng dụng chính thức cho Android.
-- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Ứng dụng chính thức của ChromeOS.
+- [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Ứng dụng chính thức cho ChromeOS.
 - [iOS](https://github.com/moonlight-stream/moonlight-ios) - Ứng dụng chính thức cho iOS.
-- [QT](https://github.com/moonlight-stream/moonlight-qt) - Ứng dụng khách chính thức của QT.
-- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Ứng dụng khách chính thức của Embedded.
+- [QT](https://github.com/moonlight-stream/moonlight-qt) - Ứng dụng chính thức cho PC.
+- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Ứng dụng khách chính thức cho thiết bị nhúng.
 
-### ✴️ Ứng dụng khách Moonlight của bên thứ ba
+### ✴️ Client bên thứ ba của Moonlight
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Ứng dụng khách UWP/Xbox (One/Series).
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - Ứng dụng khách PS Vita.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Ứng dụng khách Nintendo Switch.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Ứng dụng khách Nintendo Wii U.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Ứng dụng New Nintendo 3DS.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Ứng dụng khách LG webOS TV.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series).
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch client.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS client.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
 ## 🛠️ Công cụ
 
-- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Triển khai ánh sáng mặt trời trên đám mây: Paperspace, AWS, Azure, Google Cloud và nhiều nền tảng khác.
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Triển khai Sunshine trên cloud: Paperspace, AWS, Azure, Google Cloud và nhiều nền tảng khác.
 - [GSMS](https://github.com/LizardByte/GSMS) - Chuyển đổi trò chơi và ứng dụng từ GeForce Experience sang Sunshine.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Thêm và sắp xếp trò chơi kèm hình ảnh bìa từ SteamGridDB.
-- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Thêm các trò chơi từ các đường dẫn cài đặt trò chơi thông dụng vào Sunshine.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Công cụ hỗ trợ cho việc sử dụng với các trò chơi streaming Sunshine / Moonlight / Playnite.
+- [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hỗ trợ thêm trò chơi từ các thư mục cài đặt phổ biến vào Sunshine một cách dễ dàng.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
 
-## 🎮 Cửa hàng trò chơi
+## 🎮 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Cửa hàng Epic Games cung cấp trò chơi miễn phí hàng tuần.
 - [GOG](https://www.gog.com) - GOG là nền tảng phân phối kỹ thuật số đặt người chơi lên hàng đầu và tôn trọng nhu cầu sở hữu trò chơi của họ.
