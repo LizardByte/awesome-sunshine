@@ -2,7 +2,7 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Ánh nắng tuyệt vời</h1>
+  <h1 align="center">Sunshine tẹt zời</h1>
   <h4 align="center">Bộ sưu tập các kịch bản, công cụ, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
 </div>
 
@@ -61,23 +61,23 @@
 ## 💻 Màn hình ảo
 
 - [evdi](https://github.com/DisplayLink/evdi) - Module nhân Linux cho phép quản lý nhiều màn hình. Đây là một màn hình ảo mà bạn có thể thêm, xóa và nhận cập nhật màn hình.
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Phần mềm hiển thị ảo Parsec độc lập.
-- [Trình điều khiển màn hình ảo](https://github.com/itsmikethetech/Virtual-Display-Driver) - Thêm màn hình ảo vào thiết bị Windows 10/11 của bạn! Hỗ trợ VR, OBS, Sunshine và/hoặc bất kỳ phần mềm chia sẻ màn hình desktop nào.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Phần mềm hiển thị màn hình Parsec độc lập.
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Thêm màn hình ảo vào máy Windows 10/11 của bạn! Hỗ trợ VR, OBS, Sunshine và/hoặc bất kỳ phần mềm chia sẻ màn hình desktop nào.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Một công cụ giao diện người dùng (GUI) có thể tích hợp với các phần mềm khác như Sunshine để thao tác hiệu quả với các bản mẫu trình điều khiển hiển thị gián tiếp (IddSample).
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Trình điều khiển màn hình ảo cho Windows giúp thêm nhiều màn hình ảo vào máy tính của bạn! Dành cho Windows 10 trở lên. Hỗ trợ VR, OBS, phần mềm phát trực tiếp, v.v.
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Driver màn hình ảo cho Windows giúp thêm nhiều màn hình ảo vào máy tính của bạn! Dành cho Windows 10 trở lên. Hỗ trợ VR, OBS, phần mềm phát trực tiếp, v.v.
 
-## 📜 Kịch bản
+## 📜 Scripts
 
-- [Tự động hóa Dummy Plug](https://github.com/XenHat/dummy-plug-automation) - Tự động hóa phát trực tuyến từ xa bằng cách sử dụng Dummy Plug trên Linux.
-- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Bộ giới hạn tốc độ khung hình của Nvidia.
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Công tắc G-Sync của NVIDIA.
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Tự động hóa streaming từ xa bằng cách sử dụng Dummy Plug trên Linux.
+- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Giới hạn Frame Rate của Nvidia.
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Cho phép bật/tắt G-Sync với card đồ họa Nvidia.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Công tắc V-Sync của NVIDIA.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Tự động hóa các thay đổi hiển thị hệ thống, bao gồm kích hoạt màn hình ảo, điều chỉnh độ phân giải, tần số làm mới, HDR, G-Sync và giới hạn FPS để tối ưu hóa trải nghiệm streaming.
 
-## 🧪 Kiểm tra
+## 🧪 Testing
 
-- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Người kiểm thử gamepad chính thức của LizardByte.
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Công cụ này hiển thị trạng thái hiện tại của các gamepad, đầu vào, joystick và bất kỳ thành phần nào khác có thể được báo cáo bởi API HTML5 Gamepad.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Công cụ chính thức của LizardByte để kiểm tra tay cầm chơi game.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Công cụ hiển thị trạng thái hiện tại của tay cầm, nút bấm, joystick và các tín hiệu khác được hỗ trợ qua HTML5 Gamepad API.
 
 ## 📓 Hướng dẫn
 
@@ -86,6 +86,5 @@
 
 ## Đóng góp
 
-Chúng tôi rất hoan nghênh các đóng góp! Tuy nhiên, vui lòng tuân thủ Hướng dẫn đóng góp của LizardByte&#x20;
-&#x20;và Hướng dẫn đóng góp của GitHub
+Chúng tôi rất hoan nghênh các đóng góp! Tuy nhiên, hãy tham khảo [Hướng dẫn đóng góp của LizardByte](https://docs.lizardbyte.dev/latest/developers/contributing.html) và Hướng dẫn đóng góp của GitHub
 khi đóng góp cho dự án này.
