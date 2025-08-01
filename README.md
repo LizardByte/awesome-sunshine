@@ -42,6 +42,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - This script lists games from Lutris, Heroic and/or Bottles, adds them to Sunshine, and optionally downloads game covers from SteamGridDB. 
 
 ## 🎮 Game Stores
 - [Epic Games](https://www.epicgames.com) - Epic Games Store offers free game(s) every week.
