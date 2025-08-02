@@ -21,7 +21,7 @@
 
 ## 📺Clients
 
-### ✳️ Khách hàng chính thức của Moonlight
+### ✳️ Client chính thức của Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Ứng dụng chính thức cho Android.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Ứng dụng chính thức cho ChromeOS.
