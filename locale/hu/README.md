@@ -42,6 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Telepítsd a felhőben a napsütést: Paperspace, AWS, Azure, Google Cloud, és így tovább.
 - [GSMS](https://github.com/LizardByte/GSMS) - Játékok és alkalmazások áttelepítése a GeForce Experience-ről a Sunshine-ra.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Ez a szkript listázza a Lutris, Heroic és/vagy Bottles játékokat, hozzáadja őket a Sunshine-hoz, és opcionálisan letölti a játékborítókat a SteamGridDB-ből.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - A SteamGridDB-ből letöltött játékok hozzáadása és rendezése a borítóképekkel.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hozzáadja a Sunshine-hoz a közös játéktelepítési útvonalakon található játékokat.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streaminggel használható segédprogramok.
