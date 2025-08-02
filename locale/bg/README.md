@@ -42,6 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) – Инсталиране на Sunshine в облака: Paperspace, AWS, Azure, Google Cloud и др.
 - [GSMS](https://github.com/LizardByte/GSMS) – Прехвърляне на игри и приложения от GeForce Experience към Sunshine.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - This script lists games from Lutris, Heroic and/or Bottles, adds them to Sunshine, and optionally downloads game covers from SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) – Добавяне и сортиране на игри с обложки, сваляни от SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) – Добавяне на игри от обичайните пътища за инсталиране на игри в Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) – Помощни програми за използване със Sunshine / Moonlight / Playnite за поточно предаване на игри.
