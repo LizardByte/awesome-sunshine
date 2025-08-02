@@ -42,6 +42,7 @@
 
 - [Хмарний Pad](https://github.com/PierreBeucher/cloudypad) - Розгортання Сонця в хмару: Паперовий простір, AWS, Azure, Google Cloud та багато іншого.
 - [GSMS](https://github.com/LizardByte/GSMS) - Перенесення ігор та програм з GeForce Experience до Sunshine.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Перелік Перелік ігор з Lutris, Heroic та/або Bottles, додає їх до суніту і звичайно завантажує ігрові обкладинки зі SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Додати і сортувати ігри з завантаженням обкладинки з SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Додає ігри зі шляхів встановлення по замовчуванню до Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Утиліти для використання з ігровими стримінгами Sunshine / Moonlight / Playnite.
