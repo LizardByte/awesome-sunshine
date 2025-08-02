@@ -2,8 +2,8 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Sunshine tẹt zời</h1>
-  <h4 align="center">Bộ sưu tập các kịch bản, công cụ, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
+  <h1 align="center">Awesome Sunshine</h1>
+  <h4 align="center">Bộ sưu tập các scripts, tools, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
 </div>
 
 <div align="center" style="display: none;">
