@@ -42,6 +42,7 @@
 
 - [云台](https://github.com/PierreBeucher/cloudypad) - 在云端部署日光线：纸张、AWS、Azure、Google 云等等。
 - [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 GeForce Experience 迁移到 Sunshine 。
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - 这个脚本列出了来自Lutris、英雄和/或瓶子的游戏，将它们添加到Sunshine，并可选择从 SteamGridDB 下载游戏覆盖面。
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - 从 SteamGridDB 添加和排序带有封面下载的游戏
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加到Sunshine。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于 Sunshine / Moonlight / Playnite 游戏流的实用程序。
