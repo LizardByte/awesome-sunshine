@@ -21,11 +21,11 @@
 
 ## 📺 Ügyfelek
 
-### ✳️ Hivatalos Holdfény ügyfelek
+### ✳️ Hivatalos Moonlight kliensek
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Hivatalos Android kliens.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Hivatalos ChromeOS kliens.
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Hivatalos iOS-kliens.
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - Hivatalos iOS kliens.
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Hivatalos QT kliens.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Hivatalos beágyazott kliens.
 
