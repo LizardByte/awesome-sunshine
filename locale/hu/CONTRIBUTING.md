@@ -1,5 +1,4 @@
 # Hozzájárulás
 
-Kérjük, kövesse a LizardByte
-[Hozzájárulási irányelvek](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-, amikor hozzájárul ehhez a projekthez.
+Kérjük, kövesd a LizardByte
+[Hozzájárulási irányelveit](https://docs.lizardbyte.dev/latest/developers/contributing.html), amikor hozzájárulsz ehhez a projekthez.
