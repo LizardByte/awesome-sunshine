@@ -42,6 +42,7 @@
 
 - [曇りパッド](https://github.com/PierreBeucher/cloudypad) - ペーパースペース、AWS、Azure、Google Cloudなど、Sunshineをクラウドにデプロイします。
 - [GSMS](https://github.com/LizardByte/GSMS) - GeForce ExperienceからSunshineにゲームやアプリを移行します。
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - このスクリプトは、Lutris、Heroicおよび/またはBottlesのゲームをリストし、Sunshineに追加し、必要に応じてSteamGridDBからゲームカバーをダウンロードします。
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB からカバーアートをダウンロードしてゲームを追加してソートします。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
