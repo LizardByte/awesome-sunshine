@@ -19,7 +19,7 @@
 ]
 </div>
 
-## 📺 Ügyfelek
+## 📺 Kliensek
 
 ### ✳️ Hivatalos Moonlight kliensek
 
@@ -29,13 +29,13 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Hivatalos QT kliens.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Hivatalos beágyazott kliens.
 
-### ✴️ Harmadik fél Moonlight-ügyfelek
+### ✴️ Külső fejlesztésű Moonlight kliensek
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) kliens.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita ügyfél.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch ügyfél.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U ügyfél.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS ügyfél.
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita kliens.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch kliens.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U kliens.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS kliens.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV kliens.
 
 ## 🛠️ Eszközök
@@ -87,6 +87,5 @@
 
 ## Hozzájárulás
 
-Hozzájárulásokat szívesen fogadunk! De kérjük, kövesse a LizardByte
-[Hozzájárulási irányelvek](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-, amikor hozzájárul ehhez a projekthez.
+Hozzájárulásokat szívesen fogadunk! De kérjük, kövesd a LizardByte
+[Hozzájárulási irányelveit](https://docs.lizardbyte.dev/latest/developers/contributing.html), amikor hozzájárulsz ehhez a projekthez.
