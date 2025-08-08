@@ -40,24 +40,24 @@
 
 ## 🛠️ Eszközök
 
-- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Telepítsd a felhőben a napsütést: Paperspace, AWS, Azure, Google Cloud, és így tovább.
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine telepítése a felhőben: Paperspace, AWS, Azure, Google Cloud és más szolgáltatók.
 - [GSMS](https://github.com/LizardByte/GSMS) - Játékok és alkalmazások áttelepítése a GeForce Experience-ről a Sunshine-ra.
 - [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Ez a szkript listázza a Lutris, Heroic és/vagy Bottles játékokat, hozzáadja őket a Sunshine-hoz, és opcionálisan letölti a játékborítókat a SteamGridDB-ből.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - A SteamGridDB-ből letöltött játékok hozzáadása és rendezése a borítóképekkel.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hozzáadja a Sunshine-hoz a közös játéktelepítési útvonalakon található játékokat.
-- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streaminggel használható segédprogramok.
+- [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
 
 ## 🎮 Játékboltok
 
-- [Epic Games](https://www.epicgames.com) - Az Epic Games Store minden héten ingyenes játékot kínál.
+- [Epic Games](https://www.epicgames.com) - Az Epic Games Store minden héten ingyenes játéko(ka)t kínál.
 - [GOG] (https://www.gog.com) - A GOG egy olyan digitális terjesztési platform, amely a játékosokat helyezi előtérbe, és tiszteletben tartja a játékok birtoklásának igényét.
-- [Steam](https://store.steampowered.com) - A Steam a játékok játszásának, megvitatásának és létrehozásának végső célpontja.
+- [Steam](https://store.steampowered.com) - A Steam a játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
 ## 💠 Frontendek
 
-- [LaunchBox](https://www.launchbox-app.com/) - Emulálja, rendszerezze és szépítse játékgyűjteményét.
-- [Playnite](https://github.com/JosefNemec/Playnite) - Videójáték könyvtárkezelő, amely támogatja a 3rd party könyvtárak széles skáláját és a játék emuláció támogatását, így egyetlen egységes felületet biztosít a játékok számára.
-- [Steam](https://store.steampowered.com) - A Steam a játékok játszásának, megvitatásának és létrehozásának végső célpontja.
+- [LaunchBox](https://www.launchbox-app.com/) - Emuláld, rendszerezd és szépítsd játékgyűjteményedet.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Videójáték-könyvtárkezelő, amely számos külső könyvtárat és játékemulátort támogat, egységes felületet biztosítva a játékaidhoz.
+- [Steam](https://store.steampowered.com) - A Steam a játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
 ## 💻 Virtuális kijelzők
 
