@@ -2,8 +2,8 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Félelmetes napsütés</h1>
-  <h4 align="center">Félelmetes Sunshine szkriptek, eszközök, útmutatók és kísérő szoftverek gyűjteménye</h4>
+  <h1 align="center">Awesome Sunshine</h1>
+  <h4 align="center">Lenyűgöző Sunshine szkriptek, eszközök, útmutatók és kísérő szoftverek gyűjteménye</h4>
 </div>
 
 <div align="center" style="display: none;">
@@ -69,11 +69,11 @@
 
 ## 📜 Szkriptek
 
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizálás távoli streaminghez egy dummy plug segítségével Linuxon.
-- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia Frame Rate Limiter.
+- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizálás távoli streameléshez dummy plug használatával Linuxon.
+- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Az Nvidia Frame Rate Limiter kapcsolója.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Az Nvidia G-Sync kapcsolója.
 - [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Az Nvidia V-Sync kapcsolója.
-- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatizálja a rendszerkijelző módosításait, például a virtuális kijelző engedélyezését, a felbontás, a frissítési sebesség, a HDR, a G-Sync és az FPS-határértékek beállítását az optimális streaming érdekében.
+- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - A rendszerkijelző módosításainak automatizálása, például a virtuális kijelző engedélyezése, a felbontás, a frissítési sebesség, a HDR, a G-Sync és az FPS-határértékek beállítása az optimális streaming érdekében.
 
 ## 🧪 Tesztelés
 
