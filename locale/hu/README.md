@@ -61,11 +61,11 @@
 
 ## 💻 Virtuális kijelzők
 
-- [evdi](https://github.com/DisplayLink/evdi) - Linux kernel modul, amely lehetővé teszi több képernyő kezelését. Ez lényegében egy virtuális kijelző, amelyhez hozzáadhat, eltávolíthat és képernyőfrissítéseket kaphat.
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Önálló Parsec Virtual Display.
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Virtuális monitorok hozzáadása a Windows 10/11 eszközéhez! Működik VR, OBS, Sunshine és/vagy bármilyen asztali megosztó szoftverrel.
-- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy GUI eszköz, amely integrálható más szoftverekkel, például a Sunshine-val az Indirect Display Driver Sample (IddSample) implementációk hatékony kezeléséhez.
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows virtuális kijelző meghajtó, amellyel több virtuális monitort adhatsz a számítógépedhez! Win10+ esetén. Működik VR, obs, streaming szoftverekkel stb.
+- [evdi](https://github.com/DisplayLink/evdi) - Linux kernel modul, amely lehetővé teszi több képernyő kezelését. Lényegében egy virtuális képernyő, amit bármikor hozzáadhatsz, eltávolíthatsz, és frissítéseket kaphatsz róla.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Különálló Parsec virtuális kijelző.
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adj hozzá virtuális monitorokat a Windows 10/11 gépedhez! Működik VR-rel, OBS-sel, Sunshine-nal és/vagy bármilyen asztalmegosztó programmal.
+- [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy grafikus felületű eszköz, ami össze tud dolgozni más programokkal (például a Sunshine-nal), hogy könnyen lehessen kezelni az Indirect Display Driver Sample (IddSample) megvalósításokat.
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows virtuális kijelző illesztőprogram, amivel több virtuális monitort adhatsz a gépedhez! Win10+ esetén. Működik VR-rel, OBS-sel, streamelős programokkal stb.
 
 ## 📜 Szkriptek
 
