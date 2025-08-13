@@ -3,7 +3,7 @@
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Awesome Sunshine</h1>
-  <h4 align="center">Lenyűgöző Sunshine szkriptek, eszközök, útmutatók és kísérő szoftverek gyűjteménye</h4>
+  <h4 align="center">Lenyűgöző Sunshine szkriptek, eszközök, útmutatók és kísérőszoftverek gyűjteménye</h4>
 </div>
 
 <div align="center" style="display: none;">
