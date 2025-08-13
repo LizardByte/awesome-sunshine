@@ -42,7 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Nasadit Sunshine v Cloudu: Paperspace, AWS, Azure, Google Cloud a další.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrace her a aplikací z GeForce Experience do Sunshine.
-- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Tento skript obsahuje hry z Lutris, Heroic a/nebo lahví, přidává je do Sunshine a volitelně stahuje herní pokrývky ze SteamGridDB.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Tento skript vypíše hry z Lutris, Heroic a/nebo Bottles, přidá je do Sunshine a volitelně stáhne obaly her ze SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
