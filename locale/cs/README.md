@@ -11,7 +11,7 @@
   <a href="#-klienti">Klienti</a> •
   <a href="#%EF%B8%8F-nástroje">Nástroje</a> •
   <a href="#-herní-obchody">Herní obchody</a> •
-  <a href="#-frontendyy">Frontendy</a> •
+  <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
   <a href="#-skripty">Skripty</a> •
   <a href="#-testování">Testování</a> •
