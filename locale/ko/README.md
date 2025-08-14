@@ -8,7 +8,7 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-고객">고객</a> •
+  <a href="#-클라이언트">클라이언트</a> •
   <a href="#%EF%B8%8F-도구">도구</a> •
   <a href="#-게임-스토어">게임 스토어</a> •
   <a href="#-프론트엔드">프론트엔드</a> •
