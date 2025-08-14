@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">Kliensek</a> -
-  <a href="#%EF%B8%8F-tools">Eszközök</a> -
-  <a href="#-game-stores">Játékáruházak</a> -
-  <a href="#-frontends">Frontendek</a> -
-  <a href="#-virtual-displays">Virtuális kijelzők</a> -
-  <a href="#-scripts">Szkriptek</a> -
-  <a href="#-testing">Tesztelés</a> -
-  <a href="#-guides">Útmutatók</a>
+  <a href="#-kliensek">Kliensek</a> •
+  <a href="#%EF%B8%8F-eszközök">Eszközök</a> •
+  <a href="#-játékboltok">Játékboltok</a> •
+  <a href="#-frontendek">Frontendek</a> •
+  <a href="#-virtuális-kijelzők">Virtuális kijelzők</a> •
+  <a href="#-szkriptek">Szkriptek</a> •
+  <a href="#-tesztelés">Tesztelés</a> •
+  <a href="#-Útmutatók">Útmutatók</a>
 ]
 </div>
 
