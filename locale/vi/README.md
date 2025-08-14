@@ -6,16 +6,15 @@
   <h4 align="center">Bộ sưu tập các scripts, tools, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
 </div>
 
-<div align="center" style="display: none;">
-[
-  <a href="#-clients">  Khách hàng</a> •
-  <a href="#%EF%B8%8F-tools">  Công cụ</a> •
-  <a href="#-game-stores">  Cửa hàng trò chơi</a> •
-  <a href="#-frontends">  Giao diện người dùng</a> •
-  <a href="#-virtual-displays">  Màn hình ảo</a> •
-  <a href="#-scripts">  Kịch bản</a> •
-  <a href="#-testing">  Kiểm thử</a> •
-  <a href="#-guides">  Hướng dẫn</a>
+<div align="center" style="display: none;">[
+  <a href="#-clients">Clients</a> •
+  <a href="#%EF%B8%8F-công-cụ">Công cụ</a> •
+  <a href="#-game-stores">Game Stores</a> •
+  <a href="#-giao-diện-người-dùng">Giao diện người dùng</a> •
+  <a href="#-màn-hình-ảo">Màn hình ảo</a> •
+  <a href="#-scripts">Scripts</a> •
+  <a href="#-testing">Testing</a> •
+  <a href="#-hướng-dẫn">Hướng dẫn</a>
 ]
 </div>
 
