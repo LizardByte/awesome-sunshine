@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">Klienti</a> -
-  <a href="#%EF%B8%8F-tools">Nástroje</a> -
-  <a href="#-game-stores">Herní obchody</a> -
-  <a href="#-frontends">Frontendy</a> -
-  <a href="#-virtual-displays">Virtuální displeje</a> -
-  <a href="#-scripts">Skripty</a> -
-  <a href="#-testing">Testování</a> -
-  <a href="#-guides">Návody</a>
+  <a href="#-klienti">Klienti</a> •
+  <a href="#%EF%B8%8F-nástroje">Nástroje</a> •
+  <a href="#-herní-obchody">Herní obchody</a> •
+  <a href="#-frontendyy">Frontendy</a> •
+  <a href="#-virtuální-displeje">Virtuální displeje</a> •
+  <a href="#-skripty">Skripty</a> •
+  <a href="#-testování">Testování</a> •
+  <a href="#-průvodci">Průvodci</a>
 ]
 </div>
 
