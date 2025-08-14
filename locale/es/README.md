@@ -42,6 +42,7 @@
 
 - [Noudy Pad](https://github.com/PierreBeucher/cloudypad) - Desplegar el sol en la nube: Paperspace, AWS, Azure, Google Cloud, y más.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate juegos y aplicaciones de GeForce Experience a Sunshine.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Este script lista juegos de Lutris, Heroico y/o Bottles, los agrega a Sunshine, y opcionalmente descarga portadas de SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Añade y ordena juegos con descarga de carátula de SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Añade juegos desde rutas de instalación de juegos comunes a Sunshine.
 - [sunshine_utils](https://github.com/designner-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
@@ -56,7 +57,7 @@
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emular, Organizar y Beautificar tu colección de juegos.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Gestor de librerías de videojuegos con soporte para una amplia gama de librerías de terceros y soporte para emulación de juegos, proporcionando una interfaz unificada para tus juegos.
-- [Steam](https://store.steampowered.com) - Steam es el destino final para jugar, discutir y crear juegos.
+- [Steam](https://store.steampowered.com) - Steam es el mejor lugar para jugar, discutir y crear juegos.
 
 ## 💻 Pantallas virtuales
 

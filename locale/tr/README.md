@@ -42,6 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Günışığını Bulutta Dağıtın: Paperspace, AWS, Azure, Google Cloud ve daha fazlası.
 - [GSMS](https://github.com/LizardByte/GSMS) - Oyunları ve uygulamaları GeForce Experience'tan Sunshine'a geçirin.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Bu betik Lutris, Heroic ve/veya Bottles oyunlarını listeler, Sunshine'a ekler ve isteğe bağlı olarak SteamGridDB'den oyun kapaklarını indirir.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB'den indirilen kapak resmine sahip oyunları ekleyin ve sıralayın.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ortak oyun yükleme yollarındaki oyunları Sunshine'a ekler.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.

@@ -8,7 +8,7 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-고객">고객</a> •
+  <a href="#-클라이언트">클라이언트</a> •
   <a href="#%EF%B8%8F-도구">도구</a> •
   <a href="#-게임-스토어">게임 스토어</a> •
   <a href="#-프론트엔드">프론트엔드</a> •
@@ -19,7 +19,7 @@
 ]
 </div>
 
-## 📺 고객
+## 📺 클라이언트
 
 ### ✳️ 공식 Moonlight 클라이언트
 
@@ -42,6 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 클라우드에 Sunshine 배포: Paperspace, AWS, Azure, Google Cloud 등.
 - [GSMS](https://github.com/LizardByte/GSMS) - 게임과 앱을 GeForce Experience에서 Sunshine으로 마이그레이션합니다.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - 이 스크립트는 Lutris, Heroic 및/또는 Bottles의 게임을 나열하고 Sunshine에 추가하며 선택적으로 SteamGridDB에서 게임 커버를 다운로드합니다.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB에서 다운로드한 표지 아트가 있는 게임을 추가하고 정렬합니다.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 게임 스트리밍에 사용하기 위한 유틸리티입니다.

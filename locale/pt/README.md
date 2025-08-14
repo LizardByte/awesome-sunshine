@@ -42,6 +42,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Implantar Sunshine na nuvem: Paperspace, AWS, Azure, Google Cloud, e muito mais.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migre jogos e aplicativos do GeForce Experience para Sunshine.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Este script lista os jogos do Lutris, Heroico e/ou garrafas, os adiciona à Sunshine e, opcionalmente, baixa as capas de jogos do SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Adicionar e classificar jogos com arte de capa baixando do SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adiciona jogos de caminhos comuns de instalação de jogos ao Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para usar com o streaming de jogos Sunshine / Moonlight / Playnite.
