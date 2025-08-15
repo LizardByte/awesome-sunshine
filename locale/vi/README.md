@@ -48,7 +48,7 @@
 
 ## 🎮 Game Stores
 
-- [Epic Games](https://www.epicgames.com) - Cửa hàng Epic Games cung cấp trò chơi miễn phí hàng tuần.
+- [Epic Games](https://www.epicgames.com) - Epic Games cung cấp trò chơi miễn phí hàng tuần.
 - [GOG](https://www.gog.com) - GOG là nền tảng phân phối kỹ thuật số đặt người chơi lên hàng đầu và tôn trọng nhu cầu sở hữu trò chơi của họ.
 - [Steam](https://store.steampowered.com) - Steam là nền tảng hàng đầu để chơi, thảo luận và tạo ra các trò chơi.
 
@@ -71,7 +71,7 @@
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Tự động hóa streaming từ xa bằng cách sử dụng Dummy Plug trên Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Giới hạn Frame Rate của Nvidia.
 - [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Cho phép bật/tắt G-Sync với card đồ họa Nvidia.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Công tắc V-Sync của NVIDIA.
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Cho phép bật/tắt V-Sync với card đồ họa Nvidia.
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Tự động hóa các thay đổi hiển thị hệ thống, bao gồm kích hoạt màn hình ảo, điều chỉnh độ phân giải, tần số làm mới, HDR, G-Sync và giới hạn FPS để tối ưu hóa trải nghiệm streaming.
 
 ## 🧪 Testing
