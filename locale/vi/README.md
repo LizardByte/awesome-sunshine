@@ -26,7 +26,7 @@
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Ứng dụng chính thức cho ChromeOS.
 - [iOS](https://github.com/moonlight-stream/moonlight-ios) - Ứng dụng chính thức cho iOS.
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Ứng dụng chính thức cho PC.
-- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Ứng dụng khách chính thức cho thiết bị nhúng.
+- [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Ứng dụng chính thức cho thiết bị nhúng.
 
 ### ✴️ Client bên thứ ba của Moonlight
 
@@ -41,7 +41,7 @@
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Triển khai Sunshine trên cloud: Paperspace, AWS, Azure, Google Cloud và nhiều nền tảng khác.
 - [GSMS](https://github.com/LizardByte/GSMS) - Chuyển đổi trò chơi và ứng dụng từ GeForce Experience sang Sunshine.
-- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Skript này liệt kê các trò chơi từ Lutris, Heroic và/hoặc Bottles, thêm chúng vào Sunshine và tùy chọn tải xuống bìa trò chơi từ SteamGridDB.
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Script này liệt kê các trò chơi từ Lutris, Heroic và/hoặc Bottles, thêm chúng vào Sunshine và tùy chọn tải xuống bìa trò chơi từ SteamGridDB.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Thêm và sắp xếp trò chơi kèm hình ảnh bìa từ SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hỗ trợ thêm trò chơi từ các thư mục cài đặt phổ biến vào Sunshine một cách dễ dàng.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
