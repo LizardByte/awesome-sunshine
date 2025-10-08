@@ -49,8 +49,8 @@
 
 ## 🎮 Spelbutiker
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store erbjuder gratis spel varje vecka.
-- [GOG](https://www.gog.com) - GOG är en digital distributionsplattform som sätter spelare först och respekterar deras behov av egna spel.
+- [Epic Games](https://www.epicgames.com) - Ladda ner och spela PC-spel av alla genrer. De har mods, DLC och gratis spel också! Spel för alla.
+- [GOG](https://www.gog.com) - Ladda ner de bästa klassiska och nya spelen på Windows, Mac & Linux. Ett stort urval av titlar, DRM-fria, med gratis godsaker.
 - [Steam](https://store.steampowered.com) - Steam är den ultimata destinationen för att spela, diskutera och skapa spel.
 
 ## 💠 Frontends
