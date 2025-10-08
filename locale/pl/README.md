@@ -49,8 +49,8 @@
 
 ## 🎮 Sklepy z grami
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store co tydzień oferuje darmowe gry.
-- [GOG](https://www.gog.com) - GOG to platforma dystrybucji cyfrowej, która stawia graczy na pierwszym miejscu i szanuje ich potrzebę posiadania gier na własność.
+- [Epic Games](https://www.epicgames.com) - Pobierz i graj w gry PC każdego gatunku. Mają również mody, DLC i darmowe gry! Gry dla wszystkich.
+- [GOG](https://www.gog.com) - Pobierz najlepsze klasyczne i nowe gry na Windows, Mac i Linux. Ogromny wybór tytułów, bez DRM, z darmowymi towarami.
 - [Steam](https://store.steampowered.com) - Steam to najlepsze miejsce do grania, dyskutowania i tworzenia gier.
 
 ## 💠 Frontendy
