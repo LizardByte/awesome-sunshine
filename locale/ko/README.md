@@ -49,8 +49,8 @@
 
 ## 🎮 게임 스토어
 
-- [에픽게임즈](https://www.epicgames.com) - 에픽게임즈 스토어는 매주 무료 게임을 제공합니다.
-- [GOG](https://www.gog.com) - GOG는 게이머를 최우선으로 생각하며 게이머의 게임 소유 욕구를 존중하는 디지털 배포 플랫폼입니다.
+- [에픽게임즈](https://www.epicgames.com) - 모든 장르의 PC 게임을 다운로드하고 플레이하세요. 모드, DLC, 무료 게임도 있습니다! 모두를 위한 게임.
+- [GOG](https://www.gog.com) - Windows, Mac 및 Linux에서 최고의 클래식 게임과 새로운 게임을 다운로드하세요. DRM이 없는 방대한 타이틀과 무료 혜택이 제공됩니다.
 - [Steam](https://store.steampowered.com) - Steam은 게임을 플레이하고, 토론하고, 제작할 수 있는 최고의 장소입니다.
 
 ## 💠 프론트엔드

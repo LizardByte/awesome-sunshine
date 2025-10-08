@@ -35,7 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - Klient systému PS Vita.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Klient Nintenda Switch.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Klient Nintenda Wii U.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Nový Nintendo 3DS klient.
+- [Nový Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Nový Nintendo 3DS klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Klient LG webOS TV.
 
 ## 🛠️ Nástroje
@@ -49,8 +49,8 @@
 
 ## 🎮 Herní obchody
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store nabízí každý týden hry zdarma.
-- [GOG](https://www.gog.com) - GOG je digitální distribuční platforma, která staví hráče na první místo a respektuje jejich potřebu vlastnit hry.
+- [Epické hry](https://www.epicgames.com) - Stáhnout a hrát PC hry každého žánru. Mají také modely, DLC a hry zdarma! Hry pro každého.
+- [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické a nové hry na Windows, Mac & Linux. Rozsáhlý výběr titulů bez DRM s bezplatným zbožím.
 - [Steam](https://store.steampowered.com) - Steam je nejlepším místem pro hraní, diskuse a vytváření her.
 
 ## 💠 Frontendy

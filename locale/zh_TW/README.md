@@ -49,8 +49,8 @@
 
 ## 🎮 遊戲商店
 
-- [Epic Games](https://www.epicgames.com) - Epic Games 商店每週提供免費遊戲。
-- [GOG](https://www.gog.com) - GOG 是一個數位發行平台，以玩家為本，尊重玩家擁有遊戲的需求。
+- [Epic Games](https://www.epicgames.com) - 下載和玩各種類型的 PC 遊戲。 他們也有 Mods、DLC 和免費遊戲！ 適合所有人的遊戲。
+- [GOG](https://www.gog.com) - 在 Windows、Mac 和 Linux 上下載最好的經典和新遊戲。 大量精選書籍，不含 DRM，還有免費好康。
 - [Steam](https://store.steampowered.com) - Steam 是玩遊戲、討論遊戲和創作遊戲的終極目的地。
 
 ## 💠 前端

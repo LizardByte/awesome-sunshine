@@ -49,8 +49,8 @@
 
 ## 🎮 游戏商店
 
-- [Epic Games](https://www.epicgames.com) - Epic游戏商城每周都会送出免费的游戏。
-- [GOG](https://www.gog.com) - GOG 是一个数字分发平台，它把玩家放在首位，尊重他们自己的游戏需要。
+- [史诗游戏](https://www.epicgames.com) - 下载每个基因的 PC 游戏。 他们也有模组，DLC和免费游戏！ 每个人的游戏。
+- [GOG](https://www.gog.com) - 下载Windows、 Mac 和 Linux 上的最佳经典和新游戏。 大量的头衔，免除DRM，配备免费的天花。
 - [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
 ## 💠 前端
