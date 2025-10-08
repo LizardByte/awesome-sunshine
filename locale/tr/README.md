@@ -49,8 +49,8 @@
 
 ## 🎮 Oyun Mağazaları
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store her hafta ücretsiz oyun(lar) sunuyor.
-- [GOG](https://www.gog.com) - GOG, oyuncuları ilk sıraya koyan ve onların oyunlara sahip olma ihtiyacına saygı duyan bir dijital dağıtım platformudur.
+- [Epic Games](https://www.epicgames.com) - Her türden PC Oyunlarını indirin ve oynayın. Modları, DLC'leri ve Ücretsiz Oyunları da var! Herkes için oyunlar.
+- [GOG](https://www.gog.com) - Windows, Mac ve Linux'ta en iyi klasik ve yeni oyunları indirin. DRM içermeyen, ücretsiz güzellikler içeren geniş bir oyun yelpazesi.
 - [Steam](https://store.steampowered.com) - Steam, oyun oynamak, tartışmak ve yaratmak için nihai hedeftir.
 
 ## 💠 Ön Uçlar
