@@ -49,8 +49,8 @@
 
 ## 🎮 Game Stores
 
-- [Epic Games](https://www.epicgames.com) - Epic Games Store bietet jede Woche kostenlose Spiele(s) an.
-- [GOG](https://www.gog.com) - GOG ist eine digitale Distributionsplattform, die den Gamern den Vorrang gibt und ihr Bedürfnis nach eigenen Spielen respektiert.
+- [Epic Games](https://www.epicgames.com) - Laden Sie PC-Spiele jedes Genres herunter und spielen Sie diese. Sie haben auch Mods, DLC und kostenlose Spiele! Spiele für alle.
+- [GOG](https://www.gog.com) - Laden Sie die besten klassischen und neuen Spiele auf Windows, Mac & Linux herunter. Eine große Auswahl an Titeln, DRM-frei, mit kostenlosen Goodies.
 - [Steam](https://store.steampowered.com) - Steam ist das ultimative Ziel, um Spiele zu spielen, zu diskutieren und zu erstellen.
 
 ## 💠 Frontends
