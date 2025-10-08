@@ -49,8 +49,8 @@
 
 ## 🎮 ゲームストア
 
-- format@@0(https://www.epicgames.com) - Epic Games Storeでは毎週無料ゲームを提供しています。
-- [GOG](https://www.gog.com) - GOGはゲーマーを最初に配置し、ゲームを所有する必要性を尊重するデジタル配信プラットフォームです。
+- [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイします。 彼らはMod、DLC、そして無料ゲームもあります! 皆のためのゲーム。
+- [GOG](https://www.gog.com) - Windows、Mac、Linuxで最高のクラシックゲームと新しいゲームをダウンロードします。 無料グッズ付き、DRMフリーのタイトルの広大な選択。
 - [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
 
 ## 💠 Frontends
