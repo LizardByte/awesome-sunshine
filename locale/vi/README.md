@@ -48,8 +48,8 @@
 
 ## 🎮 Game Stores
 
-- [Epic Games](https://www.epicgames.com) - Epic Games cung cấp trò chơi miễn phí hàng tuần.
-- [GOG](https://www.gog.com) - GOG là nền tảng phân phối kỹ thuật số đặt người chơi lên hàng đầu và tôn trọng nhu cầu sở hữu trò chơi của họ.
+- [Epic Games](https://www.epicgames.com) - Tải xuống và chơi các trò chơi PC thuộc mọi thể loại. Họ cũng có mods, DLC và các trò chơi miễn phí! Trò chơi cho mọi người.
+- [GOG](https://www.gog.com) - Tải xuống những trò chơi kinh điển và mới nhất trên Windows, Mac & Linux. Một bộ sưu tập đa dạng các tựa game, không có DRM, kèm theo các phần quà miễn phí.
 - [Steam](https://store.steampowered.com) - Steam là nền tảng hàng đầu để chơi, thảo luận và tạo ra các trò chơi.
 
 ## 💠 Giao diện người dùng
