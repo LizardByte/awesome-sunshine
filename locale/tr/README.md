@@ -3,7 +3,7 @@
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
   <h1 align="center">Müthiş Güneş Işığı</h1>
-  <h4 align="center">Harika Günışığı Komut Dosyaları, Araçlar, Kılavuzlar ve Yardımcı Yazılımlardan Oluşan Bir Koleksiyon</h4>
+  <h4 align="center">Sunshine İçin Harika Komut Dosyaları, Araçlar, Kılavuzlar ve Yardımcı Yazılımlardan Oluşan Bir Koleksiyon</h4>
 </div>
 
 <div align="center" style="display: none;">
@@ -40,7 +40,7 @@
 
 ## 🛠️ Araçlar
 
-- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Günışığını Bulutta Dağıtın: Paperspace, AWS, Azure, Google Cloud ve daha fazlası.
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine'ı Bulutta Dağıtın: Paperspace, AWS, Azure, Google Cloud ve daha fazlası.
 - [GSMS](https://github.com/LizardByte/GSMS) - Oyunları ve uygulamaları GeForce Experience'tan Sunshine'a geçirin.
 - [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - Bu betik Lutris, Heroic ve/veya Bottles oyunlarını listeler, Sunshine'a ekler ve isteğe bağlı olarak SteamGridDB'den oyun kapaklarını indirir.
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB'den indirilen kapak resmine sahip oyunları ekleyin ve sıralayın.
