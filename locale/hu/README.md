@@ -35,7 +35,7 @@
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita kliens.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch kliens.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U kliens.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS kliens.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Új Nintendo 3DS kliens.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV kliens.
 
 ## 🛠️ Eszközök
@@ -51,13 +51,13 @@
 
 - [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is! Játékok mindenkinek.
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
-- [Steam](https://store.steampowered.com) - A Steam a játék, a játék megvitatásának és a játékfejlesztés végső platformja.
+- [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
 ## 💠 Frontendek
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emuláld, rendszerezd és szépítsd játékgyűjteményedet.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Videójáték-könyvtárkezelő, amely számos külső könyvtárat és játékemulátort támogat, egységes felületet biztosítva a játékaidhoz.
-- [Steam](https://store.steampowered.com) - A Steam a játék, a játék megvitatásának és a játékfejlesztés végső platformja.
+- [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
 ## 💻 Virtuális kijelzők
 
