@@ -2,7 +2,7 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Müthiş Güneş Işığı</h1>
+  <h1 align="center">Awesome Sunshine</h1>
   <h4 align="center">Sunshine İçin Harika Komut Dosyaları, Araçlar, Kılavuzlar ve Yardımcı Yazılımlardan Oluşan Bir Koleksiyon</h4>
 </div>
 
@@ -19,9 +19,9 @@
 ]
 </div>
 
-## 📺 Müşteriler
+## 📺 İstemciler
 
-### ✳️ Resmi Moonlight Müşterileri
+### ✳️ Resmi Moonlight İstemcileri
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Resmi Android istemcisi.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Resmi ChromeOS istemcisi.
@@ -29,7 +29,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Resmi QT istemcisi.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Resmi Embedded istemcisi.
 
-### ✴️ Üçüncü Taraf Moonlight Müşterileri
+### ✴️ Üçüncü Taraf Moonlight İstemcileri
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) istemcisi.
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita istemcisi.
