@@ -43,6 +43,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Enabling container-friendly input handling for Sunshine on Linux.
 
 ## 🎮 Game Stores
 - [Epic Games](https://www.epicgames.com) - Download and play PC Games of every genre. They have mods, DLC, and Free Games too! Games for everyone.
