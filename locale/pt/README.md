@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Adicionar e classificar jogos com arte de capa baixando do SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adiciona jogos de caminhos comuns de instalação de jogos ao Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para usar com o streaming de jogos Sunshine / Moonlight / Playnite.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Habilitando a manipulação de entrada amigável ao contêiner para o Sunshine no Linux.
 
 ## 🎮 Lojas de Jogos
 
