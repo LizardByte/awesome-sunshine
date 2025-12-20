@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB에서 다운로드한 표지 아트가 있는 게임을 추가하고 정렬합니다.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 게임 스트리밍에 사용하기 위한 유틸리티입니다.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Linux에서 Sunshine에 컨테이너 친화적인 입력 처리를 활성화합니다.
 
 ## 🎮 게임 스토어
 
