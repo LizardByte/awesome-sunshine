@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB'den indirilen kapak resmine sahip oyunları ekleyin ve sıralayın.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ortak oyun yükleme yollarındaki oyunları Sunshine'a ekler.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Linux üzerinde Sunshine için konteyner dostu girdi işlemeyi etkinleştirme.
 
 ## 🎮 Oyun Mağazaları
 
