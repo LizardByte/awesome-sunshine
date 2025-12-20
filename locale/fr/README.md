@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Ajouter et trier les jeux dont la pochette est téléchargée depuis SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ajoute des jeux à partir des chemins communs d'installation du jeu à Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitaires à utiliser avec Sunshine / Moonlight / Playnite game streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Activer la gestion d'entrée conviviale pour Sunshine sous Linux.
 
 ## 🎮 Magasins de jeux
 
