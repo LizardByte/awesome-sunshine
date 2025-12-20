@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Lägg till och sortera spel med omslagsbild nedladdning från SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Lägger till spel från vanliga spel installationsvägar till Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Verktyg för att använda med Sunshine / Moonlight / Playnite spel streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Aktivering av containervänlig inmatningshantering för Sunshine på Linux.
 
 ## 🎮 Spelbutiker
 
