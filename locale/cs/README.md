@@ -46,18 +46,19 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
+- [vuinputd](https://github.com/joleuger/vuinputd) - povolení manipulace se Sunshine na Linuxu, která je šetrná k kontejneru.
 
 ## 🎮 Herní obchody
 
-- [Epické hry](https://www.epicgames.com) - Stáhnout a hrát PC hry každého žánru. Mají také modely, DLC a hry zdarma! Hry pro každého.
-- [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické a nové hry na Windows, Mac & Linux. Rozsáhlý výběr titulů bez DRM s bezplatným zbožím.
+- [Epic Games](https://www.epicgames.com) - Stahujte a hrajte počítačové hry všech žánrů. Mají mody, DLC a hry zdarma! Hry pro každého.
+- [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické i nové hry pro Windows, Mac a Linux. Rozsáhlý výběr titulů bez DRM s bezplatnými doplňky.
 - [Steam](https://store.steampowered.com) - Steam je nejlepším místem pro hraní, diskuse a vytváření her.
 
 ## 💠 Frontendy
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulujte, organizujte a zkrášlujte svou sbírku her.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Správce knihovny videoher s podporou široké škály knihoven třetích stran a podporou emulace her, který poskytuje jednotné rozhraní pro vaše hry.
-- [Steam](https://store.steampowered.com) - Služba Steam je nejlepším místem pro hraní, diskuse a vytváření her.
+- [Steam](https://store.steampowered.com) - Nejlepší místo pro hraní, diskuze a tvorbu her.
 
 ## 💻 Virtuální displeje
 
