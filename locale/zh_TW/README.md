@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - 加入並分類從 SteamGridDB 下載的封面圖片遊戲。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 將一般遊戲安裝路徑中的遊戲加入 Sunshine。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用於 Sunshine / Moonlight / Playnite 遊戲串流的公用程式。
+- [vuinputd](https://github.com/joleuger/vuinputd) - 為 Linux 上的 Sunshine 啟用容器友善的輸入處理。
 
 ## 🎮 遊戲商店
 
