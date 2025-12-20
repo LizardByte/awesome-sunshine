@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB からカバーアートをダウンロードしてゲームを追加してソートします。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
+- [vuinputd](https://github.com/joleuger/vuinputd) - LinuxでSunshine用のコンテナに優しい入力処理を有効にします。
 
 ## 🎮 ゲームストア
 
