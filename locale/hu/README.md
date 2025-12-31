@@ -50,7 +50,7 @@
 
 ## 🎮 Játékboltok
 
-- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is! Játékok mindenkinek.
+- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
 - [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
