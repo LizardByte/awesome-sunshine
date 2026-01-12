@@ -46,7 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
-- [vuinputd](https://github.com/joleuger/vuinputd) - povolení manipulace se Sunshine na Linuxu, která je šetrná k kontejneru.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Povolení kontejnerového zpracování vstupu pro Sunshine v Linuxu.
 
 ## 🎮 Herní obchody
 
