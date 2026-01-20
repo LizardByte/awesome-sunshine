@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-clients">クライアント</a>-
-  <a href="#%EF%B8%8F-tools">ツール</a>-
-  <a href="#-game-stores">ゲームストア</a>-
-  <a href="#-frontends">フロントエンド</a>-
-  <a href="#-virtual-displays">バーチャルディスプレイ</a>-
-  <a href="#-scripts">スクリプト</a>-
-  <a href="#-testing">テスト</a>-
-  <a href="#-guides">ガイド</a>
+  <a href="#-clients">Clients</a> •
+  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-game-stores">Game Stores</a> •
+  <a href="#-frontends">Frontends</a> •
+  <a href="#-virtual-displays">Virtual Displays</a> •
+  <a href="#-scripts">Scripts</a> •
+  <a href="#-testing">Testing</a> •
+  <a href="#-guides">Guides</a>
 ]
 </div>
 
