@@ -2,8 +2,8 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">素晴らしいサンシャイン</h1>
-  <h4 align="center">素晴らしいサンシャインスクリプト、ツール、ガイド、コンパニオンソフトウェアのコレクション</h4>
+  <h1 align="center">素晴らしいSunshine</h1>
+  <h4 align="center">Sunshine用スクリプト、ツール、ガイド、コンパニオンソフトウェアの素敵なコレクション</h4>
 </div>
 
 <div align="center" style="display: none;">
@@ -21,29 +21,29 @@
 
 ## 📺 クライアント
 
-### ✳️ ムーンライト公式クライアント
+### ✳️Moonlight公式クライアント
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - 公式Androidクライアント。
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - 公式ChromeOSクライアント.
-- [iOS](https://github.com/moonlight-stream/moonlight-ios) - 公式のiOSクライアント。
+- [iOS](https://github.com/moonlight-stream/moonlight-ios) - 公式iOSクライアント。
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - 公式QTクライアント。
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - 公式埋め込みクライアント。
 
-### ✴️ サードパーティのムーンライト・クライアント
+### ✴️ サードパーティのMoonlightクライアント
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vitaクライアント.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switchクライアント.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox(One/Series)用Moonlightクライアント。
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita用Moonlightクライアント.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch用Moonlightクライアント。
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DSのクライアント。
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DSのMoonlightクライアント
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 用Moonlightクライアント。
 
 ## 🔧 ツール
 
-- [曇りパッド](https://github.com/PierreBeucher/cloudypad) - ペーパースペース、AWS、Azure、Google Cloudなど、Sunshineをクラウドにデプロイします。
+- [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - クラウドでSunshineを展開：Paperspace、AWS、Azure、Google Cloudなどに対応。
 - [GSMS](https://github.com/LizardByte/GSMS) - GeForce ExperienceからSunshineにゲームやアプリを移行します。
-- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - このスクリプトは、Lutris、Heroicおよび/またはBottlesのゲームをリストし、Sunshineに追加し、必要に応じてSteamGridDBからゲームカバーをダウンロードします。
-- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB からカバーアートをダウンロードしてゲームを追加してソートします。
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - このスクリプトは、Lutris、Heroic、BottlesのゲームをSunshineに追加し、必要に応じてSteamGridDBからゲームカバーをダウンロードします。
+- [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - ゲームを追加して整理し、SteamGridDB からダウンロードしたカバーアートを付けます。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
 - [vuinputd](https://github.com/joleuger/vuinputd) - LinuxでSunshine用のコンテナに優しい入力処理を有効にします。
