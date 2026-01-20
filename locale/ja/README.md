@@ -46,19 +46,19 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - ゲームを追加して整理し、SteamGridDB からダウンロードしたカバーアートを付けます。
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 一般的なゲームのインストールパスからSunshineにゲームを追加します。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
-- [vuinputd](https://github.com/joleuger/vuinputd) - LinuxでSunshine用のコンテナに優しい入力処理を有効にします。
+- [vuinputd](https://github.com/joleuger/vuinputd) - LinuxのコンテナにフレンドリーなでSunshine用入力処理を有効にします。
 
 ## 🎮 ゲームストア
 
-- [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイします。 彼らはMod、DLC、そして無料ゲームもあります! 皆のためのゲーム。
-- [GOG](https://www.gog.com) - Windows、Mac、Linuxで最高のクラシックゲームと新しいゲームをダウンロードします。 無料グッズ付き、DRMフリーのタイトルの広大な選択。
-- [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
+- [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイできます。 Mod、DLC、そして無料ゲームもあります! すべての人々のためのゲーム。
+- [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
+- [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
-## 💠 Frontends
+## フロントエンド
 
-- [LaunchBox](https://www.launchbox-app.com/) - ゲームコレクションをエミュレート、組織化、美化します。
-- [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポート。
-- [Steam](https://store.steampowered.com) - Steamはゲームのプレイ、議論、作成のための究極の目的地です。
+- [LaunchBox](https://www.launchbox-app.com/) - ゲームのコレクションをエミュレート、整理、美化します。
+- [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポートします。
+- [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
 ## 💻 バーチャルディスプレイ
 
@@ -66,20 +66,20 @@
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、および/または任意のデスクトップ共有ソフトウェアで動作します。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10+ の場合。 VR、obs、ストリーミングソフトウェアなどで動作します
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10以上に対応。 VR、obs、ストリーミングソフトウェアなどで動作します
 
 ## 📜 スクリプト
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linuxでダミープラグを使ったリモートストリーミングの自動化。
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidiaのフレームレートリミッター。
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Nvidia's toggle G-Sync.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - NvidiaのV-Syncの切り替え
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - NvidiaのG-Syncのトグル切り替え。
+- [GsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - NvidiaのG-Syncのトグル切り替え。
 - [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - 仮想ディスプレイの有効化、最適なストリーミングのための解像度、リフレッシュレート、HDR、G-Sync、FPS制限の調整など、システムディスプレイの変更を自動化します。
 
 ## 🧪 テスト
 
-- [GamepadTester](https://hardwaretester.com/gamepad) - ゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - このツールはゲームパッドの現在の状態を表示します。 HTML5 Gamepad API で報告できる入力、ジョイスティックなど。
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - LizardByteゲームパッド公式テスター。
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - このツールはゲームパッド、入力装置、ジョイスティックその他、HTML5 Gamepad APIが報告できるすべての状態を表示します。
 
 ## 📓 ガイド
 
@@ -88,6 +88,6 @@
 
 ## 貢献
 
-コントリビューション歓迎！ コントリビューション歓迎！ しかし、このプロジェクトに貢献するときは、LizardByte
+コントリビューション(貢献)をお待ちしています！ コントリビューション歓迎！ ただし、このプロジェクトに貢献するときは、LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-に従ってください。
+に沿って行ってください。
