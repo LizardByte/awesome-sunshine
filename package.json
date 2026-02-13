@@ -1,0 +1,21 @@
+{
+  "name": "awesome-sunshine",
+  "version": "0.0.0",
+  "description": "A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software",
+  "private": true,
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "2.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LizardByte/awesome-sunshine.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "sunshine"
+  ]
+}
