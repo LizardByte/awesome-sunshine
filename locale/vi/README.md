@@ -45,6 +45,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Thêm và sắp xếp trò chơi kèm hình ảnh bìa từ SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hỗ trợ thêm trò chơi từ các thư mục cài đặt phổ biến vào Sunshine một cách dễ dàng.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Kích hoạt xử lý đầu vào thân thiện với container cho Sunshine trên Linux.
 
 ## 🎮 Game Stores
 

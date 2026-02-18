@@ -46,10 +46,11 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - A SteamGridDB-ből letöltött játékok hozzáadása és rendezése a borítóképekkel.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hozzáadja a Sunshine-hoz a közös játéktelepítési útvonalakon található játékokat.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
+- [vuinputd](https://github.com/joleuger/vuinputd) - A konténerbarát bemenetkezelés engedélyezése a Sunshine számára Linuxon.
 
 ## 🎮 Játékboltok
 
-- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is! Játékok mindenkinek.
+- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
 - [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
