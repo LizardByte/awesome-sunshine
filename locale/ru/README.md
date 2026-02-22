@@ -2,8 +2,8 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Великолепный солнечный свет</h1>
-  <h4 align="center">Коллекция замечательных Sunshine Scripts, инструментов, руководств и компаньонов</h4>
+  <h1 align="center">Потрясающий Sunshine</h1>
+  <h4 align="center">Коллекция потрясающих скриптов, инструментов, руководств и сопутствующего ПО для Sunshine</h4>
 </div>
 
 <div align="center" style="display: none;">
@@ -21,7 +21,7 @@
 
 ## 📺 Клиенты
 
-### ✳️ Официальные клиенты лунного света
+### ✳️ Официальные клиенты Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Официальный Android клиент.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - официальный клиент ChromeOS.
