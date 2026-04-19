@@ -7,7 +7,7 @@
     "lint": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": "2.2.3"
+    "awesome-lint": "2.3.0"
   },
   "repository": {
     "type": "git",
