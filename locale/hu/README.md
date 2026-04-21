@@ -31,12 +31,12 @@
 
 ### ✴️ Külső fejlesztésű Moonlight kliensek
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) kliens.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita kliens.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch kliens.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U kliens.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Új Nintendo 3DS kliens.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV kliens.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Moonlight kliens UWP-re és Xbox (One/Series) konzolokra.
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - Moonlight kliens PS Vitához.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight kliens Nintendo Switchre.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Moonlight kliens Nintendo Wii U-hoz.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Moonlight kliens New Nintendo 3DS-hez.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight kliens LG webOS TV-hez.
 
 ## 🛠️ Eszközök
 
@@ -46,10 +46,11 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - A SteamGridDB-ből letöltött játékok hozzáadása és rendezése a borítóképekkel.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hozzáadja a Sunshine-hoz a közös játéktelepítési útvonalakon található játékokat.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Konténerbarát bemenetkezelés Sunshine-on Linux alatt.
 
 ## 🎮 Játékboltok
 
-- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is! Játékok mindenkinek.
+- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
 - [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
