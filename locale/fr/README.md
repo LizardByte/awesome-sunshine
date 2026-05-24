@@ -21,7 +21,7 @@
 
 ## 📺 Clients
 
-### ✳️ Clients officiels de Lumière de Lune
+### ✳️ Clients officiels de Moonlight
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Client Android officiel.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Client officiel ChromeOS.
@@ -29,7 +29,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Client QT officiel.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Client Officiel embarqué.
 
-### ✴️ Clients Tiers du Lumière de Lune
+### ✴️ Clients Tiers de Moonlight
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Client UWP/Xbox (One/Series).
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - client PS Vita.
@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Ajouter et trier les jeux dont la pochette est téléchargée depuis SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ajoute des jeux à partir des chemins communs d'installation du jeu à Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitaires à utiliser avec Sunshine / Moonlight / Playnite game streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Activer la gestion d'entrée conviviale pour Sunshine sous Linux.
 
 ## 🎮 Magasins de jeux
 
