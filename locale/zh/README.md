@@ -63,6 +63,7 @@
 ## 💻 虚拟显示
 
 - [evdi](https://github.com/DisplayLink/evdi) - 允许管理多个屏幕的Linux内核模块。 它基本上是一个您可以添加、删除和接收屏幕更新的虚拟显示。
+- [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) 命令行工具，创建一个无头的虚拟显示器，可通过 VNC 通过网络访问。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 可与 VR、OBS、Sunshine 和/或任何桌面共享软件配合使用。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
