@@ -63,6 +63,7 @@
 ## 💻 Affichages virtuels
 
 - [evdi](https://github.com/DisplayLink/evdi) - Module de noyau Linux qui permet la gestion de plusieurs écrans. Il s'agit essentiellement d'un affichage virtuel pour lequel vous pouvez ajouter, supprimer et recevoir des mises à jour d'écran.
+- [krfb](https://invent.kde.org/network/krfb) - utilitaire en ligne de commande de KDE Plasma (Wayland) qui crée un affichage virtuel sans tête, accessible par le réseau via VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Affichage virtuel de Parsec autonome.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Ajoutez des moniteurs virtuels à votre appareil Windows 10/11 ! Fonctionne avec VR, OBS, Sunshine, et/ou tout logiciel de partage de bureau.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Un outil GUI qui peut s'intégrer à d'autres logiciels tels que Sunshine pour une manipulation efficace des implémentations Indirect Display Driver Sample (IddSample).
