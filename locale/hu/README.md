@@ -63,6 +63,7 @@
 ## 💻 Virtuális kijelzők
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linux kernel modul, amely lehetővé teszi több képernyő kezelését. Lényegében egy virtuális képernyő, amit bármikor hozzáadhatsz, eltávolíthatsz, és frissítéseket kaphatsz róla.
+- [krfb](https://invent.kde.org/network/krfb) – A KDE Plasma (Wayland) parancssori segédprogramja, amely egy képernyő nélküli virtuális kijelzőt hoz létre, amelyhez hálózaton keresztül VNC-n keresztül lehet hozzáférni.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Különálló Parsec virtuális kijelző.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adj hozzá virtuális monitorokat a Windows 10/11 gépedhez! Működik VR-rel, OBS-sel, Sunshine-nal és/vagy bármilyen asztalmegosztó programmal.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy grafikus felületű eszköz, ami össze tud dolgozni más programokkal (például a Sunshine-nal), hogy könnyen lehessen kezelni az Indirect Display Driver Sample (IddSample) megvalósításokat.
