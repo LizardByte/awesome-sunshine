@@ -63,6 +63,7 @@
 ## 💻 Sanal Ekranlar
 
 - [evdi](https://github.com/DisplayLink/evdi) - Birden fazla ekranın yönetilmesini sağlayan Linux çekirdek modülü. Esasen ekleyebileceğiniz, kaldırabileceğiniz ve ekran güncellemeleri alabileceğiniz sanal bir ekrandır.
+- [krfb](https://invent.kde.org/network/krfb) - VNC aracılığıyla ağ üzerinden erişilebilen, başlıksız bir sanal ekran oluşturan KDE Plasma (Wayland) komut satırı yardımcı programı.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Bağımsız Parsec Sanal Ekranı.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 cihazınıza sanal monitörler ekleyin! VR, OBS, Sunshine ve/veya herhangi bir masaüstü paylaşım yazılımı ile çalışır.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Dolaylı Ekran Sürücüsü Örneği (IddSample) uygulamalarının verimli bir şekilde işlenmesi için Sunshine gibi diğer yazılımlarla entegre olabilen bir GUI aracı.
