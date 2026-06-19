@@ -63,6 +63,7 @@
 ## 💻 Віртуальні Дисплеї
 
 - [evdi](https://github.com/DisplayLink/evdi) - Модуль ядра Linux, який дозволяє керувати кількома екранами. Це по суті віртуальний дисплей, що ви можете додавати, видаляти та отримувати оновлення екрану.
+- [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) утилізація командного рядка, яка створює беззмістовний віртуальний дисплей, доступний через VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Автономний Віртуальний Дисплей Parsec.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Додайте віртуальні монітори до вашого пристрою на Windows 10/11! Працює з VR, OBS, Sunshine та/або будь-яким програмним забезпеченням для поширення робочого столу.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Інструмент з графічним інтерфейсом, який може інтегруватися з іншим програмним забезпеченням, таким як Sunshine, для правильної обробки Indirect Display Driver Sample (IddSample) імплементацій.
