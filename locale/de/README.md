@@ -63,6 +63,7 @@
 ## 💻 Virtuelle Anzeige
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linux-Kernel-Modul, das die Verwaltung mehrerer Bildschirme ermöglicht. Es handelt sich im Wesentlichen um eine virtuelle Anzeige, für die Sie Bildschirmaktualisierungen hinzufügen, entfernen und empfangen können.
+- [krfb](https://invent.kde.org/network/krfb) - Kommandozeilenwerkzeug von KDE Plasma (Wayland), das ein kopfloses virtuelles Display erzeugt, das über das Netzwerk über VNC zugänglich ist.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Füge virtuelle Monitore zu deinem Windows 10/11 Gerät hinzu! Funktioniert mit VR, OBS, Sunshine und/oder einer beliebigen Desktop-Sharing-Software.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Ein GUI Tool, das sich mit anderen Software wie Sunshine integrieren lässt, um Indirect Display Driver Sample (IddSample) Implementierungen effizient zu manipulieren.
