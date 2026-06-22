@@ -63,7 +63,7 @@
 ## 💻 Virtuální displeje
 
 - [evdi](https://github.com/DisplayLink/evdi) - Modul linuxového jádra, který umožňuje správu více obrazovek. Jedná se v podstatě o virtuální displej, který můžete přidávat, odebírat a přijímat aktualizace obrazovky.
-- [krfb](https://invent.kde.org/network/krfb) - Nástrojový nástroj KDE Plasma (Wayland), který vytváří bezhlavý virtuální displej přístupný přes síť přes VNC.
+- [krfb](https://invent.kde.org/network/krfb) – Nástroj pro příkazový řádek pro KDE Plasma (Wayland), který vytváří virtuální displej bez grafického rozhraní, přístupný přes síť pomocí VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Samostatný virtuální displej Parsec.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Přidejte virtuální monitory do zařízení se systémem Windows 10/11! Funguje s VR, OBS, Sunshine a/nebo jakýmkoli softwarem pro sdílení plochy.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Nástroj s grafickým uživatelským rozhraním, který lze integrovat s jiným softwarem, například Sunshine, pro efektivní manipulaci s implementacemi ukázkového ovladače nepřímého zobrazení (IddSample).
