@@ -73,6 +73,7 @@
 ## 🧪 Testing
 - [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Official LizardByte gamepad tester.
 - [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - This tool displays the current state of your gamepads, inputs, joysticks, and anything else that can be reported by the HTML5 Gamepad Api.
+- [Controller Tester](https://controllertester.co/) - Free browser-based gamepad and controller tester for buttons, sticks, triggers, and vibration, with a dedicated stick-drift test.
 
 ## 📓 Guides
 - [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Official documentation for Sunshine.
