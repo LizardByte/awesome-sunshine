@@ -46,11 +46,12 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Додати і сортувати ігри з завантаженням обкладинки з SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Додає ігри зі шляхів встановлення по замовчуванню до Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Утиліти для використання з ігровими стримінгами Sunshine / Moonlight / Playnite.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Увімкнення обробки, сприятливого для контейнерів введення для сонячного світла на Linux.
 
 ## 🎮 Магазини Ігор
 
 - [Епічні ігри](https://www.epicgames.com) - Завантажити та грати в Ігри ПК кожного жанру. Вони також мають моди, DLC і безкоштовні ігри! Грає для всіх.
-- [GOG](https://www.gog.com) - завантажуйте найкращі класичні та нові ігри на Windows, Mac та Linux. Величезна відбір назв, DRM-free, з безкоштовними грошима.
+- [GOG](https://www.gog.com) - завантажуйте найкращі класичні та нові ігри на Windows, Mac та Linux. Величезний вибір ігр, без DRM, з безкоштовними бонусами.
 - [Steam](https://store.steampowered.com) - Steam - це найкраща платформа для гри, обговорення та створення відеоігор.
 
 ## 💠 Інтерфейси
@@ -62,6 +63,7 @@
 ## 💻 Віртуальні Дисплеї
 
 - [evdi](https://github.com/DisplayLink/evdi) - Модуль ядра Linux, який дозволяє керувати кількома екранами. Це по суті віртуальний дисплей, що ви можете додавати, видаляти та отримувати оновлення екрану.
+- [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) утилізація командного рядка, яка створює беззмістовний віртуальний дисплей, доступний через VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Автономний Віртуальний Дисплей Parsec.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Додайте віртуальні монітори до вашого пристрою на Windows 10/11! Працює з VR, OBS, Sunshine та/або будь-яким програмним забезпеченням для поширення робочого столу.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Інструмент з графічним інтерфейсом, який може інтегруватися з іншим програмним забезпеченням, таким як Sunshine, для правильної обробки Indirect Display Driver Sample (IddSample) імплементацій.

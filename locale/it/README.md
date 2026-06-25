@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Aggiungi e ordina i giochi con cover art scaricando da SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Aggiunge giochi da percorsi comuni di installazione di gioco a Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Abilitando la gestione degli input dei container per Sunshine su Linux.
 
 ## 🎮 Negozi Di Gioco
 
@@ -62,6 +63,7 @@
 ## 💻 Visualizzazione Virtuale
 
 - [evdi](https://github.com/DisplayLink/evdi) - Modulo del kernel Linux che consente la gestione di schermi multipli. Si tratta essenzialmente di un display virtuale per cui è possibile aggiungere, rimuovere e ricevere gli aggiornamenti dello schermo.
+- [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) utilità da riga di comando che crea un display virtuale senza testa, accessibile attraverso la rete tramite VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Display Virtuale Parsec Standalone.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Aggiungi monitor virtuali al tuo dispositivo Windows 10/11! Funziona con VR, OBS, Sunshine e/o qualsiasi software di condivisione desktop.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Uno strumento GUI che può integrarsi con altri software come Sunshine per una efficace manipolazione delle implementazioni del Driver Display Indiretto (IddSample).

@@ -31,12 +31,12 @@
 
 ### ✴️ Külső fejlesztésű Moonlight kliensek
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) kliens.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita kliens.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch kliens.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U kliens.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Új Nintendo 3DS kliens.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV kliens.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Moonlight kliens UWP-re és Xbox (One/Series) konzolokra.
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - Moonlight kliens PS Vitához.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight kliens Nintendo Switchre.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Moonlight kliens Nintendo Wii U-hoz.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Moonlight kliens New Nintendo 3DS-hez.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight kliens LG webOS TV-hez.
 
 ## 🛠️ Eszközök
 
@@ -46,10 +46,11 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - A SteamGridDB-ből letöltött játékok hozzáadása és rendezése a borítóképekkel.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hozzáadja a Sunshine-hoz a közös játéktelepítési útvonalakon található játékokat.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Konténerbarát bemenetkezelés Sunshine-on Linux alatt.
 
 ## 🎮 Játékboltok
 
-- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is! Játékok mindenkinek.
+- [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
 - [Steam](https://store.steampowered.com) - A játék, a játék megvitatásának és a játékfejlesztés végső platformja.
 
@@ -62,6 +63,7 @@
 ## 💻 Virtuális kijelzők
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linux kernel modul, amely lehetővé teszi több képernyő kezelését. Lényegében egy virtuális képernyő, amit bármikor hozzáadhatsz, eltávolíthatsz, és frissítéseket kaphatsz róla.
+- [krfb](https://invent.kde.org/network/krfb) – A KDE Plasma (Wayland) parancssori segédprogramja, amely egy képernyő nélküli virtuális kijelzőt hoz létre, amelyhez hálózaton keresztül VNC-n keresztül lehet hozzáférni.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Különálló Parsec virtuális kijelző.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adj hozzá virtuális monitorokat a Windows 10/11 gépedhez! Működik VR-rel, OBS-sel, Sunshine-nal és/vagy bármilyen asztalmegosztó programmal.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy grafikus felületű eszköz, ami össze tud dolgozni más programokkal (például a Sunshine-nal), hogy könnyen lehessen kezelni az Indirect Display Driver Sample (IddSample) megvalósításokat.

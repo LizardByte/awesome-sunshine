@@ -46,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB에서 다운로드한 표지 아트가 있는 게임을 추가하고 정렬합니다.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 일반적인 게임 설치 경로에 있는 게임을 선샤인에 추가합니다.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 게임 스트리밍에 사용하기 위한 유틸리티입니다.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Linux에서 Sunshine에 컨테이너 친화적인 입력 처리를 활성화합니다.
 
 ## 🎮 게임 스토어
 
@@ -62,6 +63,7 @@
 ## 💻 가상 디스플레이
 
 - [evdi](https://github.com/DisplayLink/evdi) - 여러 화면을 관리할 수 있는 Linux 커널 모듈입니다. 기본적으로 화면 업데이트를 추가, 제거 및 수신할 수 있는 가상 디스플레이입니다.
+- [krfb](https://invent.kde.org/network/krfb) - VNC를 통해 네트워크로 접속할 수 있는 헤드리스 가상 디스플레이를 생성하는 KDE Plasma (Wayland) 명령줄 유틸리티입니다.
 - [파섹-VDD](https://github.com/nomi-san/parsec-vdd) - 독립형 파섹 가상 디스플레이.
 - [가상 디스플레이 드라이버](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 장치에 가상 모니터를 추가하세요! VR, OBS, Sunshine 및/또는 모든 데스크톱 공유 소프트웨어와 함께 작동합니다.
 - [가상 디스플레이 드라이버 마법사](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 간접 디스플레이 드라이버 샘플(IddSample) 구현을 효율적으로 조작하기 위해 Sunshine과 같은 다른 소프트웨어와 통합할 수 있는 GUI 툴입니다.

@@ -46,22 +46,24 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Přidávání a třídění her s obálkami při stahování ze SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Přidá hry z běžných instalačních cest do Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Povolení kontejnerového zpracování vstupu pro Sunshine v Linuxu.
 
 ## 🎮 Herní obchody
 
-- [Epické hry](https://www.epicgames.com) - Stáhnout a hrát PC hry každého žánru. Mají také modely, DLC a hry zdarma! Hry pro každého.
-- [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické a nové hry na Windows, Mac & Linux. Rozsáhlý výběr titulů bez DRM s bezplatným zbožím.
+- [Epic Games](https://www.epicgames.com) - Stahujte a hrajte počítačové hry všech žánrů. Mají mody, DLC a hry zdarma! Hry pro každého.
+- [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické i nové hry pro Windows, Mac a Linux. Rozsáhlý výběr titulů bez DRM s bezplatnými doplňky.
 - [Steam](https://store.steampowered.com) - Steam je nejlepším místem pro hraní, diskuse a vytváření her.
 
 ## 💠 Frontendy
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulujte, organizujte a zkrášlujte svou sbírku her.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Správce knihovny videoher s podporou široké škály knihoven třetích stran a podporou emulace her, který poskytuje jednotné rozhraní pro vaše hry.
-- [Steam](https://store.steampowered.com) - Služba Steam je nejlepším místem pro hraní, diskuse a vytváření her.
+- [Steam](https://store.steampowered.com) - Nejlepší místo pro hraní, diskuze a tvorbu her.
 
 ## 💻 Virtuální displeje
 
 - [evdi](https://github.com/DisplayLink/evdi) - Modul linuxového jádra, který umožňuje správu více obrazovek. Jedná se v podstatě o virtuální displej, který můžete přidávat, odebírat a přijímat aktualizace obrazovky.
+- [krfb](https://invent.kde.org/network/krfb) – Nástroj pro příkazový řádek pro KDE Plasma (Wayland), který vytváří virtuální displej bez grafického rozhraní, přístupný přes síť pomocí VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Samostatný virtuální displej Parsec.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Přidejte virtuální monitory do zařízení se systémem Windows 10/11! Funguje s VR, OBS, Sunshine a/nebo jakýmkoli softwarem pro sdílení plochy.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Nástroj s grafickým uživatelským rozhraním, který lze integrovat s jiným softwarem, například Sunshine, pro efektivní manipulaci s implementacemi ukázkového ovladače nepřímého zobrazení (IddSample).

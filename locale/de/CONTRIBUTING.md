@@ -1,4 +1,4 @@
-# Beitragen
+# Mitwirken
 
 Bitte befolge die LizardByte
 [Richtlinien mitwirken](https://docs.lizardbyte.dev/latest/developers/contributing.html)

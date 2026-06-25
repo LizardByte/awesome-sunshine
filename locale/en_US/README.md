@@ -31,12 +31,12 @@
 
 ### ✴️ Third-Party Moonlight Clients
 
-- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) client.
-- [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita client.
-- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Nintendo Switch client.
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS client.
-- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Moonlight client for UWP/Xbox (One/Series).
+- [PS Vita](https://github.com/xyzz/vita-moonlight) - Moonlight client for PS Vita.
+- [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight client for Nintendo Switch.
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Moonlight client for Nintendo Wii U.
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Moonlight client for New Nintendo 3DS.
+- [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight client for LG webOS TV.
 
 ## 🛠️ Tools
 
@@ -46,22 +46,24 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Add and sort games with cover art downloading from SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Adds games from common game install paths to Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Enabling container-friendly input handling for Sunshine on Linux.
 
 ## 🎮 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Download and play PC Games of every genre. They have mods, DLC, and Free Games too! Games for everyone.
 - [GOG](https://www.gog.com) - Download the best classic and new games on Windows, Mac & Linux. A vast selection of titles, DRM-free, with free goodies.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [Steam](https://store.steampowered.com) - The ultimate destination for playing, discussing, and creating games.
 
 ## 💠 Frontends
 
 - [LaunchBox](https://www.launchbox-app.com/) - Emulate, Organize, and Beautify Your Game Collection.
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [Steam](https://store.steampowered.com) - Steam is the ultimate destination for playing, discussing, and creating games.
+- [Steam](https://store.steampowered.com) - The ultimate destination for playing, discussing, and creating games.
 
 ## 💻 Virtual Displays
 
 - [evdi](https://github.com/DisplayLink/evdi) - Linux kernel module that enables management of multiple screens. It is essentially a virtual display you can add, remove and receive screen updates for.
+- [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) command-line utility that creates a headless virtual display, accessible over the network via VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsec Virtual Display.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your Windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - A GUI tool that can integrate with other software such as Sunshine for efficient manipulation of Indirect Display Driver Sample (IddSample) implementations.
