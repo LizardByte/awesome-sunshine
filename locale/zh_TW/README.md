@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U 客戶端。
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS 客戶端。
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 用戶端。
+- [三星 Tizen 電視](https://github.com/brightcraft/moonlight-tizen) —— 適用於三星 Tizen 電視的 Moonlight 客戶端。
 
 ## 🔧 工具
 
