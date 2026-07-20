@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U klient.
 - [Ny Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Ny Nintendo 3DS klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV-klient.
+- [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Moonlight klient för Samsung Tizen TV.
 
 ## 🔧 Verktyg
 
