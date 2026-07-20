@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) – Клиент за Nintendo Wii U.
 - [Новото Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) – Клиент за новото Nintendo 3DS.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) – Клиент за телевизори LG с webOS.
+- [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Клиент на Moonlight за Samsung Tizen TV.
 
 ## 🔧 Инструменти
 
