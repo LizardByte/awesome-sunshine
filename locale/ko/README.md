@@ -37,6 +37,7 @@
 - [닌텐도 Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - 닌텐도 Wii U 클라이언트.
 - [뉴 닌텐도 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 새로운 닌텐도 3DS 클라이언트.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 클라이언트.
+- [삼성 타이젠 TV](https://github.com/brightcraft/moonlight-tizen) - 삼성 타이젠 TV용 Moonlight 클라이언트.
 
 ## 🔧 도구
 
