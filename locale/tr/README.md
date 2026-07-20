@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U istemcisi.
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS istemcisi.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV istemcisi.
+- [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Samsung Tizen TV için Moonlight istemcisi.
 
 ## 🔧 Araçlar
 
