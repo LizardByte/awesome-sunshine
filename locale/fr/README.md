@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Client LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Client Moonlight pour Samsung Tizen TV.
 
-## 🛠️ Outils
+## 🔧 Outils
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Déployer le soleil dans le nuage : Paperspace, AWS, Azure, Google Cloud, et plus encore.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrer les jeux et les applications de GeForce Experience vers Sunshine.
