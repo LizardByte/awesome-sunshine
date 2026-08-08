@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV istemcisi.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Samsung Tizen TV için Moonlight istemcisi.
 
-## 🛠️ Araçlar
+## 🔧 Araçlar
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine'ı Bulutta Dağıtın: Paperspace, AWS, Azure, Google Cloud ve daha fazlası.
 - [GSMS](https://github.com/LizardByte/GSMS) - Oyunları ve uygulamaları GeForce Experience'tan Sunshine'a geçirin.
