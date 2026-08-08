@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-Клиенты">Клиенты</a> •
-  <a href="#%EF%B8%8F-Инструменты">Инструменты</a> •
-  <a href="#-Игровые-магазины">Игровые магазины</a> •
+  <a href="#-клиенты">Клиенты</a> •
+  <a href="#-инструменты">Инструменты</a> •
+  <a href="#-игровые-магазины">Игровые магазины</a> •
   <a href="#-фронты">фронты</a> •
-  <a href="#-Виртуальные-дисплеи">Виртуальные дисплеи</a> •
+  <a href="#-виртуальные-дисплеи">Виртуальные дисплеи</a> •
   <a href="#-скрипты">скрипты</a> •
-  <a href="#-Тестирование">Тестирование</a> •
-  <a href="#-Руководства">Руководства</a>
+  <a href="#-тестирование">Тестирование</a> •
+  <a href="#-руководства">Руководства</a>
 ]
 </div>
 
@@ -38,7 +38,7 @@
 - [Новый Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Новый Nintendo 3DS клиента.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV клиент.
 
-## 🛠️ Инструменты
+## 🔧 Инструменты
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Развертывание солнечного шина в Облаке: бумажное пространство, AWS, Azure, облако Google и многое другое.
 - [GSMS](https://github.com/LizardByte/GSMS) - Миграция игр и приложений с GeForce Experience на Sunshine.

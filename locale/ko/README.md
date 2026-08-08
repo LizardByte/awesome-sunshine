@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-클라이언트">클라이언트</a> •
-  <a href="#%EF%B8%8F-도구">도구</a> •
+  <a href="#-도구">도구</a> •
   <a href="#-게임-스토어">게임 스토어</a> •
   <a href="#-프론트엔드">프론트엔드</a> •
   <a href="#-가상-디스플레이">가상 디스플레이</a> •
@@ -38,7 +38,7 @@
 - [뉴 닌텐도 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 새로운 닌텐도 3DS 클라이언트.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 클라이언트.
 
-## 🛠️ 도구
+## 🔧 도구
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 클라우드에 Sunshine 배포: Paperspace, AWS, Azure, Google Cloud 등.
 - [GSMS](https://github.com/LizardByte/GSMS) - 게임과 앱을 GeForce Experience에서 Sunshine으로 마이그레이션합니다.

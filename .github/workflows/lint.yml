@@ -27,3 +27,6 @@ jobs:
 
       - name: Lint
         run: npm run lint
+
+      - name: Validate README navigation
+        run: npm run validate:readme-navigation

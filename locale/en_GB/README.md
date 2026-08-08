@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-tools">Tools</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
@@ -38,7 +38,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS client.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
-## 🛠️ Tools
+## 🔧 Tools
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.

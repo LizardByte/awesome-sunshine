@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-クライアント">クライアント</a> •
-  <a href="#%EF%B8%8F-ツール">ツール</a> •
+  <a href="#-ツール">ツール</a> •
   <a href="#-ゲームストア">ゲームストア</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
@@ -38,7 +38,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DSのクライアント。
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
-## 🛠️ ツール
+## 🔧 ツール
 
 - [曇りパッド](https://github.com/PierreBeucher/cloudypad) - ペーパースペース、AWS、Azure、Google Cloudなど、Sunshineをクラウドにデプロイします。
 - [GSMS](https://github.com/LizardByte/GSMS) - GeForce ExperienceからSunshineにゲームやアプリを移行します。

@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-klienter">Klienter</a> •
-  <a href="#%EF%B8%8F-verktyg">Verktyg</a> •
+  <a href="#-verktyg">Verktyg</a> •
   <a href="#-spelbutiker">Spelbutiker</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuella-skärmar">Virtuella skärmar</a> •
@@ -38,7 +38,7 @@
 - [Ny Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Ny Nintendo 3DS klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV-klient.
 
-## 🛠️ Verktyg
+## 🔧 Verktyg
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Distribuera solsken i molnet: Paperspace, AWS, Azure, Google Cloud med mera.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate-spel och appar från GeForce Experience till Sunshine.

@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-klienti">Klienti</a> •
-  <a href="#%EF%B8%8F-nástroje">Nástroje</a> •
+  <a href="#-nástroje">Nástroje</a> •
   <a href="#-herní-obchody">Herní obchody</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
@@ -38,7 +38,7 @@
 - [Nový Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Nový Nintendo 3DS klient.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Klient LG webOS TV.
 
-## 🛠️ Nástroje
+## 🔧 Nástroje
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Nasadit Sunshine v Cloudu: Paperspace, AWS, Azure, Google Cloud a další.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrace her a aplikací z GeForce Experience do Sunshine.

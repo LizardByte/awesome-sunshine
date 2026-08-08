@@ -8,7 +8,7 @@
 
 <div align="center" style="display: none;">[
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-công-cụ">Công cụ</a> •
+  <a href="#-công-cụ">Công cụ</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-giao-diện-người-dùng">Giao diện người dùng</a> •
   <a href="#-màn-hình-ảo">Màn hình ảo</a> •
@@ -37,7 +37,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS client.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 
-## 🛠️ Công cụ
+## 🔧 Công cụ
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Triển khai Sunshine trên cloud: Paperspace, AWS, Azure, Google Cloud và nhiều nền tảng khác.
 - [GSMS](https://github.com/LizardByte/GSMS) - Chuyển đổi trò chơi và ứng dụng từ GeForce Experience sang Sunshine.

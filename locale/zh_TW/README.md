@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-用戶端">用戶端</a> •
-  <a href="#%EF%B8%8F-工具">工具</a> •
+  <a href="#-工具">工具</a> •
   <a href="#-遊戲商店">遊戲商店</a> •
   <a href="#-前端">前端</a> •
   <a href="#-虛擬顯示器">虛擬顯示器</a> •
@@ -38,7 +38,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS 客戶端。
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 用戶端。
 
-## 🛠️ 工具
+## 🔧 工具
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 在雲端部署陽光：Paperspace、AWS、Azure、Google Cloud 等。
 - [GSMS](https://github.com/LizardByte/GSMS) - 將遊戲和應用程式從 GeForce Experience 遷移到 Sunshine。
