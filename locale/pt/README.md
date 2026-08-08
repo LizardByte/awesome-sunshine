@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-clientes">Clientes</a> •
-  <a href="#%EF%B8%8F-ferramentas">Ferramentas</a> •
+  <a href="#-ferramentas">Ferramentas</a> •
   <a href="#-lojas-de-jogos">Lojas de Jogos</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
