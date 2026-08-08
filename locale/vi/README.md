@@ -6,7 +6,8 @@
   <h4 align="center">Bộ sưu tập các scripts, tools, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
 </div>
 
-<div align="center" style="display: none;">[
+<div align="center" style="display: none;">
+[
   <a href="#-clients">Clients</a> •
   <a href="#-công-cụ">Công cụ</a> •
   <a href="#-game-stores">Game Stores</a> •
@@ -38,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 - [Tivi Samsung Tizen](https://github.com/brightcraft/moonlight-tizen) - Ứng dụng Moonlight dành cho tivi Samsung Tizen.
 
-## 🔧 Công cụ
+## 🛠️ Công cụ
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Triển khai Sunshine trên cloud: Paperspace, AWS, Azure, Google Cloud và nhiều nền tảng khác.
 - [GSMS](https://github.com/LizardByte/GSMS) - Chuyển đổi trò chơi và ứng dụng từ GeForce Experience sang Sunshine.
