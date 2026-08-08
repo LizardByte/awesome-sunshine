@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-クライアント">クライアント</a> •
-  <a href="#-ツール">ツール</a> •
-  <a href="#-ゲームストア">ゲームストア</a> •
-  <a href="#-フロントエンド">フロントエンド</a> •
-  <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
-  <a href="#-スクリプト">スクリプト</a> •
-  <a href="#-テスト">テスト</a> •
-  <a href="#-ガイド">ガイド</a>
+  <a href="#-clients">Clients</a> •
+  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-game-stores">Game Stores</a> •
+  <a href="#-frontends">Frontends</a> •
+  <a href="#-virtual-displays">Virtual Displays</a> •
+  <a href="#-scripts">Scripts</a> •
+  <a href="#-testing">Testing</a> •
+  <a href="#-guides">Guides</a>
 ]
 </div>
 
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 用Moonlightクライアント。
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Samsung Tizen TV用ムーンライトクライアント
 
-## 🔧 ツール
+## 🛠️ ツール
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - クラウドでSunshineを展開：Paperspace、AWS、Azure、Google Cloudなどに対応。
 - [GSMS](https://github.com/LizardByte/GSMS) - GeForce ExperienceからSunshineにゲームやアプリを移行します。
@@ -55,7 +55,7 @@
 - [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
 - [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
-## 💠 フロントエンド
+## フロントエンド
 
 - [LaunchBox](https://www.launchbox-app.com/) - ゲームのコレクションをエミュレート、整理、美化します。
 - [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポートします。
