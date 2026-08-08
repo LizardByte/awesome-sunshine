@@ -9,13 +9,13 @@
 <div align="center" style="display: none;">
 [
   <a href="#-kliensek">Kliensek</a> •
-  <a href="#-eszközök">Eszközök</a> •
+  <a href="#%EF%B8%8F-eszközök">Eszközök</a> •
   <a href="#-játékboltok">Játékboltok</a> •
   <a href="#-frontendek">Frontendek</a> •
   <a href="#-virtuális-kijelzők">Virtuális kijelzők</a> •
   <a href="#-szkriptek">Szkriptek</a> •
   <a href="#-tesztelés">Tesztelés</a> •
-  <a href="#-útmutatók">Útmutatók</a>
+  <a href="#-Útmutatók">Útmutatók</a>
 ]
 </div>
 
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight kliens LG webOS TV-hez.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Moonlight kliens a Samsung Tizen TV-hez.
 
-## 🔧 Eszközök
+## 🛠️ Eszközök
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine telepítése a felhőben: Paperspace, AWS, Azure, Google Cloud és más szolgáltatók.
 - [GSMS](https://github.com/LizardByte/GSMS) - Játékok és alkalmazások áttelepítése a GeForce Experience-ről a Sunshine-ra.
