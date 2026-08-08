@@ -9,13 +9,13 @@
 <div align="center" style="display: none;">
 [
   <a href="#-kliensek">Kliensek</a> •
-  <a href="#%EF%B8%8F-eszközök">Eszközök</a> •
+  <a href="#-eszközök">Eszközök</a> •
   <a href="#-játékboltok">Játékboltok</a> •
   <a href="#-frontendek">Frontendek</a> •
   <a href="#-virtuális-kijelzők">Virtuális kijelzők</a> •
   <a href="#-szkriptek">Szkriptek</a> •
   <a href="#-tesztelés">Tesztelés</a> •
-  <a href="#-Útmutatók">Útmutatók</a>
+  <a href="#-útmutatók">Útmutatók</a>
 ]
 </div>
 
