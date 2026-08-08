@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-kunden">Kunden</a> •
-  <a href="#-werkzeuge">Werkzeuge</a> •
+  <a href="#%EF%B8%8F-werkzeuge">Werkzeuge</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuelle-anzeige">Virtuelle Anzeige</a> •
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Moonlight Client für Samsung Tizen TV.
 
-## 🔧 Werkzeuge
+## 🛠️ Werkzeuge
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in der Cloud: Paperspace, AWS, Azure, Google Cloud und mehr.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrieren Sie Spiele und Apps von GeForce Experience zu Sunshine.
