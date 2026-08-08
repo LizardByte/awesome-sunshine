@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 클라이언트.
 - [삼성 타이젠 TV](https://github.com/brightcraft/moonlight-tizen) - 삼성 타이젠 TV용 Moonlight 클라이언트.
 
-## 🛠️ 도구
+## 🔧 도구
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 클라우드에 Sunshine 배포: Paperspace, AWS, Azure, Google Cloud 등.
 - [GSMS](https://github.com/LizardByte/GSMS) - 게임과 앱을 GeForce Experience에서 Sunshine으로 마이그레이션합니다.
