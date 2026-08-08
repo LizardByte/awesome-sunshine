@@ -1,6 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import process from 'node:process'
+import { fileURLToPath } from 'node:url'
 
 import GithubSlugger from 'github-slugger'
 
@@ -91,6 +92,24 @@ function parseNavigationLinks (lines) {
   return links
 }
 
+function createNavigationTranslation (file, expectedHeadingCount) {
+  const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/)
+  const headings = parseHeadings(lines)
+
+  if (headings.length !== expectedHeadingCount) {
+    throw new Error(
+      `${file} has ${headings.length} navigation headings; expected ${expectedHeadingCount}`
+    )
+  }
+
+  const links = headings.map((heading, index) => {
+    const separator = index === headings.length - 1 ? '' : ' •'
+    return `  ${anchor('#' + heading.slug, heading.text)}${separator}`
+  })
+
+  return `\n[\n${links.join('\n')}\n]\n`
+}
+
 function decodedFragment (href) {
   try {
     return decodeURIComponent(href.slice(1))
@@ -165,42 +184,53 @@ function relativePath (file) {
   return path.relative(root, file).split(path.sep).join('/')
 }
 
-const requestedFiles = process.argv.slice(2)
-const files = (requestedFiles.length > 0
-  ? requestedFiles.map(file => path.resolve(root, file))
-  : [path.join(root, 'README.md'), ...findLocalizedReadmes(path.join(root, 'locale'))]
-).sort((left, right) => relativePath(left).localeCompare(relativePath(right), 'en'))
+function main () {
+  const requestedFiles = process.argv.slice(2)
+  const files = (requestedFiles.length > 0
+    ? requestedFiles.map(file => path.resolve(root, file))
+    : [path.join(root, 'README.md'), ...findLocalizedReadmes(path.join(root, 'locale'))]
+  ).sort((left, right) => relativePath(left).localeCompare(relativePath(right), 'en'))
 
-const results = files
-  .map(file => ({ file, issues: validateReadme(file) }))
-  .filter(result => result.issues.length > 0)
+  const results = files
+    .map(file => ({ file, issues: validateReadme(file) }))
+    .filter(result => result.issues.length > 0)
 
-let summary = '## README navigation validation\n\n'
+  let summary = '## README navigation validation\n\n'
 
-if (results.length === 0) {
-  summary += `✅ All ${files.length} README navigation blocks match their section headings.\n`
-  console.log(`All ${files.length} README navigation blocks match their section headings.`)
-} else {
-  const issueCount = results.reduce((total, result) => total + result.issues.length, 0)
-  summary += `❌ Found ${issueCount} navigation mismatch${issueCount === 1 ? '' : 'es'} in ${results.length} file${results.length === 1 ? '' : 's'}.\n\n`
+  if (results.length === 0) {
+    summary += `✅ All ${files.length} README navigation blocks match their section headings.\n`
+    console.log(`All ${files.length} README navigation blocks match their section headings.`)
+  } else {
+    const issueCount = results.reduce((total, result) => total + result.issues.length, 0)
+    summary += `❌ Found ${issueCount} navigation mismatch${issueCount === 1 ? '' : 'es'} in ${results.length} file${results.length === 1 ? '' : 's'}.\n\n`
 
-  for (const result of results) {
-    const file = relativePath(result.file)
-    summary += `### \`${file}\`\n\n`
-    summary += '| Issue | Current value | Correct value |\n'
-    summary += '| --- | --- | --- |\n'
+    for (const result of results) {
+      const file = relativePath(result.file)
+      summary += `### \`${file}\`\n\n`
+      summary += '| Issue | Current value | Correct value |\n'
+      summary += '| --- | --- | --- |\n'
 
-    for (const issue of result.issues) {
-      summary += `| ${issue.issue} | ${markdownCode(issue.current)} | ${markdownCode(issue.expected)} |\n`
-      console.error(`${file}:${issue.line}: ${issue.issue}; expected ${issue.expected}`)
+      for (const issue of result.issues) {
+        summary += `| ${issue.issue} | ${markdownCode(issue.current)} | ${markdownCode(issue.expected)} |\n`
+        console.error(`${file}:${issue.line}: ${issue.issue}; expected ${issue.expected}`)
+      }
+
+      summary += '\n'
     }
-
-    summary += '\n'
   }
+
+  if (process.env.GITHUB_STEP_SUMMARY) {
+    fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary)
+  }
+
+  if (results.length > 0) process.exitCode = 1
 }
 
-if (process.env.GITHUB_STEP_SUMMARY) {
-  fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary)
-}
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) main()
 
-if (results.length > 0) process.exitCode = 1
+export {
+  createNavigationTranslation,
+  findLocalizedReadmes,
+  parseNavigationLinks,
+  validateReadme
+}
