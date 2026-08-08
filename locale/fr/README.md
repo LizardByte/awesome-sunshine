@@ -9,12 +9,12 @@
 <div align="center" style="display: none;">
 [
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-outils">Outils</a> •
+  <a href="#️-outils">Outils</a> •
   <a href="#-magasins-de-jeux">Magasins de jeux</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-affichages-virtuels">Affichages virtuels</a> •
   <a href="#-scripts">Scripts</a> •
-  <a href="#-Tests">Tests</a> •
+  <a href="#-tests">Tests</a> •
   <a href="#-guides">Guides</a>
 ]
 </div>
