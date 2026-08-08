@@ -8,7 +8,7 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-müşteriler">Müşteriler</a> •
+  <a href="#-i̇stemciler">İstemciler</a> •
   <a href="#-araçlar">Araçlar</a> •
   <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
   <a href="#-ön-uçlar">Ön Uçlar</a> •

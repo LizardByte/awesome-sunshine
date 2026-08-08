@@ -11,7 +11,7 @@
   <a href="#-クライアント">クライアント</a> •
   <a href="#-ツール">ツール</a> •
   <a href="#-ゲームストア">ゲームストア</a> •
-  <a href="#-frontends">Frontends</a> •
+  <a href="#-フロントエンド">フロントエンド</a> •
   <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
   <a href="#-スクリプト">スクリプト</a> •
   <a href="#-テスト">テスト</a> •
@@ -55,7 +55,7 @@
 - [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
 - [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
-## フロントエンド
+## 💠 フロントエンド
 
 - [LaunchBox](https://www.launchbox-app.com/) - ゲームのコレクションをエミュレート、整理、美化します。
 - [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポートします。
