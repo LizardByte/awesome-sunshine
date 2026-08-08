@@ -4,10 +4,12 @@
   "description": "A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software",
   "private": true,
   "scripts": {
-    "lint": "awesome-lint"
+    "lint": "awesome-lint",
+    "validate:readme-navigation": "node scripts/validate-readme-navigation.mjs"
   },
   "devDependencies": {
-    "awesome-lint": "2.3.0"
+    "awesome-lint": "2.3.0",
+    "github-slugger": "2.0.0"
   },
   "repository": {
     "type": "git",

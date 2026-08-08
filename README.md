@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-clients">Clients</a> •
-  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-tools">Tools</a> •
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
@@ -37,7 +37,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight client for LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Moonlight client for Samsung Tizen TV.
 
-## 🛠️ Tools
+## 🔧 Tools
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrate games and apps from GeForce Experience to Sunshine.
 - [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - This script lists games from Lutris, Heroic and/or Bottles, adds them to Sunshine, and optionally downloads game covers from SteamGridDB.

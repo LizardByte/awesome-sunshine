@@ -9,9 +9,9 @@
 <div align="center" style="display: none;">
 [
   <a href="#-müşteriler">Müşteriler</a> •
-  <a href="#%EF%B8%8F-araçlar">Araçlar</a> •
+  <a href="#-araçlar">Araçlar</a> •
   <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
-  <a href="#-Ön-uçlar">Ön Uçlar</a> •
+  <a href="#-ön-uçlar">Ön Uçlar</a> •
   <a href="#-sanal-ekranlar">Sanal Ekranlar</a> •
   <a href="#-komut-dosyaları">Komut Dosyaları</a> •
   <a href="#-test">Test</a> •
@@ -38,7 +38,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS istemcisi.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV istemcisi.
 
-## 🛠️ Araçlar
+## 🔧 Araçlar
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine'ı Bulutta Dağıtın: Paperspace, AWS, Azure, Google Cloud ve daha fazlası.
 - [GSMS](https://github.com/LizardByte/GSMS) - Oyunları ve uygulamaları GeForce Experience'tan Sunshine'a geçirin.
