@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) – Клиент за телевизори LG с webOS.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Клиент на Moonlight за телевизори Samsung с операционна система Tizen.
 
-## 🛠️ Инструменти
+## 🔧 Инструменти
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) – Инсталиране на Sunshine в облака: Paperspace, AWS, Azure, Google Cloud и др.
 - [GSMS](https://github.com/LizardByte/GSMS) – Прехвърляне на игри и приложения от GeForce Experience към Sunshine.
