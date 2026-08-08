@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-klienti">Klienti</a> •
-  <a href="#-nástroje">Nástroje</a> •
+  <a href="#%EF%B8%8F-nástroje">Nástroje</a> •
   <a href="#-herní-obchody">Herní obchody</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Klient LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Klient Moonlight pro Samsung Tizen TV.
 
-## 🔧 Nástroje
+## 🛠️ Nástroje
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Nasadit Sunshine v Cloudu: Paperspace, AWS, Azure, Google Cloud a další.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migrace her a aplikací z GeForce Experience do Sunshine.
