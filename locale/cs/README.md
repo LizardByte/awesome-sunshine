@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-klienti">Klienti</a> •
-  <a href="#%EF%B8%8F-nástroje">Nástroje</a> •
+  <a href="#-nástroje">Nástroje</a> •
   <a href="#-herní-obchody">Herní obchody</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
