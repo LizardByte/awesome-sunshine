@@ -12,7 +12,7 @@
   <a href="#-инструменти">Инструменти</a> •
   <a href="#-магазини-за-игри">Магазини за игри</a> •
   <a href="#-frontends">Frontends</a> •
-  <a href="#-виртуални-дисплеи">Виртуални дисплеи</a> •
+  <a href="#-виртуални-екрани">Виртуални екрани</a> •
   <a href="#-скриптове">Скриптове</a> •
   <a href="#-тестване">Тестване</a> •
   <a href="#-ръководства">Ръководства</a>
@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) – Клиент за Nintendo Wii U.
 - [Новото Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) – Клиент за новото Nintendo 3DS.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) – Клиент за телевизори LG с webOS.
+- [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Клиент на Moonlight за телевизори Samsung с операционна система Tizen.
 
 ## 🔧 Инструменти
 
@@ -46,6 +47,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) – Добавяне и сортиране на игри с обложки, сваляни от SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) – Добавяне на игри от обичайните пътища за инсталиране на игри в Sunshine.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) – Помощни програми за използване със Sunshine / Moonlight / Playnite за поточно предаване на игри.
+- [vuinputd](https://github.com/joleuger/vuinputd) – Подходяща за контейнери обработка на входни устройства за Sunshine под Линукс.
 
 ## 🎮 Магазини за игри
 
@@ -59,11 +61,12 @@
 - [Playnite](https://github.com/JosefNemec/Playnite) - Мениджър на библиотеки за видеоигри с поддръжка на широк набор от библиотеки на трети страни и поддръжка на емулация на игри, осигуряващ един унифициран интерфейс за вашите игри.
 - [Steam](https://store.steampowered.com) - Steam е най-добрата дестинация за игра, обсъждане и създаване на игри.
 
-## 💻 Виртуални дисплеи
+## 💻 Виртуални екрани
 
 - [evdi](https://github.com/DisplayLink/evdi) – Модул за ядрото на Линукс, който позволява управлението на множество екрани. Практически това е виртуален екран, който можете да добавяте и премахвате, както и за който да получавате информация.
-- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Самостоятелен виртуален дисплей Parsec.
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Добавете виртуални монитори към вашето устройство с Windows 10/11! Работи с VR, OBS, Sunshine и/или друг софтуер за споделяне на настолни компютри.
+- [krfb](https://invent.kde.org/network/krfb) – Инструмент за команден ред за KDE Plasma (Wayland), чрез който може да се създаде виртуален екран без монитор, който да е достъпен по мрежата чрез VNC.
+- [parsec-vdd](https://github.com/nomi-san/parsec-vdd) – Модулът на Parsec за виртуални екрани, който може да се ползва самостоятелно.
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) – Добавете виртуални монитори към вашето устройство с Windows 10/11! Работи с VR, OBS, Sunshine и/или друг софтуер за споделяне на настолни компютри.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Инструмент с графичен потребителски интерфейс, който може да се интегрира с друг софтуер, например Sunshine, за ефективно манипулиране на реализациите на Indirect Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Драйвер за виртуален дисплей на Windows за добавяне на множество виртуални монитори към вашия компютър! За Win10+. Работи с VR, obs, софтуер за стрийминг и др.
 
@@ -82,11 +85,9 @@
 
 ## 📓 Ръководства
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Официална документация за Sunshine.
+- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) – Официална документация на Sunshine.
 - [Блогът на LizardByte](https://app.lizardbyte.dev/blog) – Официален блог на LizardByte, където може да намерите официални и обществени ръководства за Sunshine.
 
-## Дайте своя принос
+## Помогнете ни
 
-Приносът е добре дошъл! Но, моля, спазвайте LizardByte
-[Насоки за принос](https://docs.lizardbyte.dev/latest/developers/contributing.html)
-, когато допринасяте за този проект.
+Всяка помощ е добре дошла! Но, моля, спазвайте [Насоките за принос](https://docs.lizardbyte.dev/latest/developers/contributing.html) на LizardByte, когато участвате в този проект.

@@ -2,13 +2,13 @@
 
 <div align="center" style="display: none;">
   <img src="/assets/banner.png" />
-  <h1 align="center">Müthiş Güneş Işığı</h1>
+  <h1 align="center">Awesome Sunshine</h1>
   <h4 align="center">Sunshine İçin Harika Komut Dosyaları, Araçlar, Kılavuzlar ve Yardımcı Yazılımlardan Oluşan Bir Koleksiyon</h4>
 </div>
 
 <div align="center" style="display: none;">
 [
-  <a href="#-müşteriler">Müşteriler</a> •
+  <a href="#-i̇stemciler">İstemciler</a> •
   <a href="#-araçlar">Araçlar</a> •
   <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
   <a href="#-ön-uçlar">Ön Uçlar</a> •
@@ -19,9 +19,9 @@
 ]
 </div>
 
-## 📺 Müşteriler
+## 📺 İstemciler
 
-### ✳️ Resmi Moonlight Müşterileri
+### ✳️ Resmi Moonlight İstemcileri
 
 - [Android](https://github.com/moonlight-stream/moonlight-android) - Resmi Android istemcisi.
 - [ChromeOS](https://github.com/moonlight-stream/moonlight-chrome) - Resmi ChromeOS istemcisi.
@@ -29,7 +29,7 @@
 - [QT](https://github.com/moonlight-stream/moonlight-qt) - Resmi QT istemcisi.
 - [Embedded](https://github.com/moonlight-stream/moonlight-embedded) - Resmi Embedded istemcisi.
 
-### ✴️ Üçüncü Taraf Moonlight Müşterileri
+### ✴️ Üçüncü Taraf Moonlight İstemcileri
 
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) istemcisi.
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita istemcisi.
@@ -37,6 +37,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U istemcisi.
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS istemcisi.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV istemcisi.
+- [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Samsung Tizen TV için Moonlight istemcisi.
 
 ## 🔧 Araçlar
 
@@ -46,6 +47,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - SteamGridDB'den indirilen kapak resmine sahip oyunları ekleyin ve sıralayın.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Ortak oyun yükleme yollarındaki oyunları Sunshine'a ekler.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Linux üzerinde Sunshine için konteyner dostu girdi işlemeyi etkinleştirme.
 
 ## 🎮 Oyun Mağazaları
 
@@ -62,6 +64,7 @@
 ## 💻 Sanal Ekranlar
 
 - [evdi](https://github.com/DisplayLink/evdi) - Birden fazla ekranın yönetilmesini sağlayan Linux çekirdek modülü. Esasen ekleyebileceğiniz, kaldırabileceğiniz ve ekran güncellemeleri alabileceğiniz sanal bir ekrandır.
+- [krfb](https://invent.kde.org/network/krfb) - VNC aracılığıyla ağ üzerinden erişilebilen, başlıksız bir sanal ekran oluşturan KDE Plasma (Wayland) komut satırı yardımcı programı.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Bağımsız Parsec Sanal Ekranı.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 cihazınıza sanal monitörler ekleyin! VR, OBS, Sunshine ve/veya herhangi bir masaüstü paylaşım yazılımı ile çalışır.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Dolaylı Ekran Sürücüsü Örneği (IddSample) uygulamalarının verimli bir şekilde işlenmesi için Sunshine gibi diğer yazılımlarla entegre olabilen bir GUI aracı.

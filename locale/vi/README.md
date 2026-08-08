@@ -36,6 +36,7 @@
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - New Nintendo 3DS client.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV client.
+- [Tivi Samsung Tizen](https://github.com/brightcraft/moonlight-tizen) - Ứng dụng Moonlight dành cho tivi Samsung Tizen.
 
 ## 🔧 Công cụ
 
@@ -45,6 +46,7 @@
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - Thêm và sắp xếp trò chơi kèm hình ảnh bìa từ SteamGridDB.
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - Hỗ trợ thêm trò chơi từ các thư mục cài đặt phổ biến vào Sunshine một cách dễ dàng.
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
+- [vuinputd](https://github.com/joleuger/vuinputd) - Kích hoạt xử lý đầu vào thân thiện với container cho Sunshine trên Linux.
 
 ## 🎮 Game Stores
 
@@ -61,6 +63,7 @@
 ## 💻 Màn hình ảo
 
 - [evdi](https://github.com/DisplayLink/evdi) - Module nhân Linux cho phép quản lý nhiều màn hình. Đây là một màn hình ảo mà bạn có thể thêm, xóa và nhận cập nhật màn hình.
+- [krfb](https://invent.kde.org/network/krfb) - Tiện ích dòng lệnh của KDE Plasma (Wayland) dùng để tạo màn hình ảo không có giao diện đồ họa, có thể truy cập qua mạng bằng VNC.
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Phần mềm hiển thị màn hình Parsec độc lập.
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Thêm màn hình ảo vào máy Windows 10/11 của bạn! Hỗ trợ VR, OBS, Sunshine và/hoặc bất kỳ phần mềm chia sẻ màn hình desktop nào.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Một công cụ giao diện người dùng (GUI) có thể tích hợp với các phần mềm khác như Sunshine để thao tác hiệu quả với các bản mẫu trình điều khiển hiển thị gián tiếp (IddSample).
