@@ -5,9 +5,11 @@
   "private": true,
   "scripts": {
     "lint": "awesome-lint",
+    "sync:readme-navigation-crowdin": "node scripts/sync-readme-navigation-crowdin.mjs",
     "validate:readme-navigation": "node scripts/validate-readme-navigation.mjs"
   },
   "devDependencies": {
+    "@crowdin/crowdin-api-client": "1.56.3",
     "awesome-lint": "2.3.0",
     "github-slugger": "2.0.0"
   },
