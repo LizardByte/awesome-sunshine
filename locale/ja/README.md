@@ -55,7 +55,7 @@
 - [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
 - [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
-## フロントエンド
+## 💠 フロントエンド
 
 - [LaunchBox](https://www.launchbox-app.com/) - ゲームのコレクションをエミュレート、整理、美化します。
 - [Playnite](https://github.com/JosefNemec/Playnite) - ビデオゲームライブラリマネージャ。幅広いサードパーティライブラリとゲームエミュレーションをサポートします。
