@@ -6,7 +6,8 @@
   <h4 align="center">Bộ sưu tập các scripts, tools, hướng dẫn và phần mềm hỗ trợ tuyệt vời cho Sunshine</h4>
 </div>
 
-<div align="center" style="display: none;">[
+<div align="center" style="display: none;">
+[
   <a href="#-clients">Clients</a> •
   <a href="#-công-cụ">Công cụ</a> •
   <a href="#-game-stores">Game Stores</a> •
