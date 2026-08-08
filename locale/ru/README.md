@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-клиенты">Клиенты</a> •
-  <a href="#-инструменты">Инструменты</a> •
-  <a href="#-игровые-магазины">Игровые магазины</a> •
-  <a href="#-frontends">Frontends</a> •
-  <a href="#-виртуальные-дисплеи">Виртуальные дисплеи</a> •
-  <a href="#-скрипты">Скрипты</a> •
-  <a href="#-тестирование">Тестирование</a> •
-  <a href="#-руководства">Руководства</a>
+  <a href="#-Клиенты">Клиенты</a> •
+  <a href="#%EF%B8%8F-Инструменты">Инструменты</a> •
+  <a href="#-Игровые-магазины">Игровые магазины</a> •
+  <a href="#-фронты">фронты</a> •
+  <a href="#-Виртуальные-дисплеи">Виртуальные дисплеи</a> •
+  <a href="#-скрипты">скрипты</a> •
+  <a href="#-Тестирование">Тестирование</a> •
+  <a href="#-Руководства">Руководства</a>
 ]
 </div>
 
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - клиент для LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - клиент для Samsung Tizen TV.
 
-## 🔧 Инструменты
+## 🛠️ Инструменты
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - деплой Sunshine в Облаке: Paperspace, AWS, Azure, Google Cloud и других.
 - [GSMS](https://github.com/LizardByte/GSMS) - Миграция игр и приложений с GeForce Experience на Sunshine.
