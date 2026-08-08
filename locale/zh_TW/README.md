@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS TV 用戶端。
 - [三星 Tizen 電視](https://github.com/brightcraft/moonlight-tizen) —— 適用於三星 Tizen 電視的 Moonlight 客戶端。
 
-## 🔧 工具
+## 🛠️ 工具
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - 在雲端部署陽光：Paperspace、AWS、Azure、Google Cloud 等。
 - [GSMS](https://github.com/LizardByte/GSMS) - 將遊戲和應用程式從 GeForce Experience 遷移到 Sunshine。
