@@ -9,7 +9,7 @@
 <div align="center" style="display: none;">
 [
   <a href="#-clienti">Clienti</a> •
-  <a href="#%EF%B8%8F-strumenti">Strumenti</a> •
+  <a href="#-strumenti">Strumenti</a> •
   <a href="#-negozi-di-gioco">Negozi Di Gioco</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-visualizzazione-virtuale">Visualizzazione Virtuale</a> •
