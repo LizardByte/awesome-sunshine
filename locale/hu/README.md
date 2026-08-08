@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight kliens LG webOS TV-hez.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Moonlight kliens a Samsung Tizen TV-hez.
 
-## 🛠️ Eszközök
+## 🔧 Eszközök
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Sunshine telepítése a felhőben: Paperspace, AWS, Azure, Google Cloud és más szolgáltatók.
 - [GSMS](https://github.com/LizardByte/GSMS) - Játékok és alkalmazások áttelepítése a GeForce Experience-ről a Sunshine-ra.
