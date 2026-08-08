@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-klienci">Klienci</a> •
-  <a href="#-narzędzia">Narzędzia</a> •
-  <a href="#-sklepy-z-grami">Sklepy z grami</a> •
-  <a href="#-frontendy">Frontendy</a> •
-  <a href="#-wirtualne-wyświetlacze">Wirtualne wyświetlacze</a> •
-  <a href="#-skrypty">Skrypty</a> •
-  <a href="#-testowanie">Testowanie</a> •
-  <a href="#-poradniki">Poradniki</a>
+  <a href="#-Klienci">Klienci</a> •
+  <a href="#%EF%B8%8F-Narzędzia">Narzędzia</a> •
+  <a href="#-Sklepy-z-grami">Sklepy z grami</a> •
+  <a href="#-Frontendy">Frontendy</a> •
+  <a href="#-Wirtualne-wyświetlacze">Wirtualne wyświetlacze</a> •
+  <a href="#-Skrypty">Skrypty</a> •
+  <a href="#-Testowanie">Testowanie</a> •
+  <a href="#-Poradniki">Poradniki</a>
 ]
 </div>
 
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Klient LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Klient księżyca dla Samsung Tizen TV.
 
-## 🔧 Narzędzia
+## 🛠️ Narzędzia
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Zastosuj Sunshine w chmurze: Paperspace, AWS, Azure, Google Cloud i wiele więcej.
 - [GSMS](https://github.com/LizardByte/GSMS) - Migracja gier i aplikacji z GeForce Experience do Sunshine.
