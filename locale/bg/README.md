@@ -8,14 +8,14 @@
 
 <div align="center" style="display: none;">
 [
-  <a href="#-клиенти">Клиенти</a> •
-  <a href="#-инструменти">Инструменти</a> •
-  <a href="#-магазини-за-игри">Магазини за игри</a> •
+  <a href="#-Клиенти">Клиенти</a> •
+  <a href="#%EF%B8%8F-Инструменти">Инструменти</a> •
+  <a href="#-Магазини-за-игри">Магазини за игри</a> •
   <a href="#-frontends">Frontends</a> •
-  <a href="#-виртуални-екрани">Виртуални екрани</a> •
-  <a href="#-скриптове">Скриптове</a> •
-  <a href="#-тестване">Тестване</a> •
-  <a href="#-ръководства">Ръководства</a>
+  <a href="#-Виртуални-дисплеи">Виртуални дисплеи</a> •
+  <a href="#-Скриптове">Скриптове</a> •
+  <a href="#-Тестване">Тестване</a> •
+  <a href="#-Ръководства">Ръководства</a>
 ]
 </div>
 
@@ -39,7 +39,7 @@
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) – Клиент за телевизори LG с webOS.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) – Клиент на Moonlight за телевизори Samsung с операционна система Tizen.
 
-## 🔧 Инструменти
+## 🛠️ Инструменти
 
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) – Инсталиране на Sunshine в облака: Paperspace, AWS, Azure, Google Cloud и др.
 - [GSMS](https://github.com/LizardByte/GSMS) – Прехвърляне на игри и приложения от GeForce Experience към Sunshine.
