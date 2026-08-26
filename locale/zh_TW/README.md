@@ -13,6 +13,7 @@
   <a href="#-遊戲商店">遊戲商店</a> •
   <a href="#-前端">前端</a> •
   <a href="#-虛擬顯示器">虛擬顯示器</a> •
+  <a href="#-虛擬遊戲手把">虛擬遊戲手把</a> •
   <a href="#-腳本">腳本</a> •
   <a href="#-測試">測試</a> •
   <a href="#-指南">指南</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用於 Sunshine / Moonlight / Playnite 遊戲串流的公用程式。
 - [vuinputd](https://github.com/joleuger/vuinputd) - 為 Linux 上的 Sunshine 啟用容器友善的輸入處理。
 
-## 🎮 遊戲商店
+## 🛒 遊戲商店
 
 - [Epic Games](https://www.epicgames.com) - 下載和玩各種類型的 PC 遊戲。 他們也有 Mods、DLC 和免費遊戲！ 適合所有人的遊戲。
 - [GOG](https://www.gog.com) - 在 Windows、Mac 和 Linux 上下載最好的經典和新遊戲。 大量精選書籍，不含 DRM，還有免費好康。
