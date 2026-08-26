@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Uma ferramenta de GUI que pode se integrar com outros softwares, como Sunshine para uma manipulação eficiente de implementações do Indirect Display Driver (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Um driver de exibição virtual do Windows para adicionar vários monitores virtuais ao seu PC! Para Win10+. Funciona com VR, obs, software de streaming, etc.
 
+## 🎮 Jogos Virtuais
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - Controles virtuais de modo usuário para Windows. Adiciona mais tipos de controle ao Windows, como Xbox Oneways, Series, DualSense, Nintendo Switch Pro e mais para vir no futuro.
+
 ## 📜 Scripts
 
 - [Automação Dummy Plug ](https://github.com/XenHat/dummy-plug-automation) - Automação para streaming remoto usando um plug fictício no Linux.
