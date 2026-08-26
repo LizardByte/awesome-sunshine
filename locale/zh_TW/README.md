@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一個 GUI 工具，可與 Sunshine 等其他軟體整合，以有效率地操作 Indirect Display Driver Sample (IddSample) 實作。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虛擬顯示器驅動程式，可為電腦新增多個虛擬顯示器！ 適用於 Win10+。 可與 VR、obs、串流軟體等搭配使用。
 
+## 🎮 虛擬遊戲手把
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - 適用於 Windows 的使用者模式虛擬遊戲控制器。 為 Windows 新增更多手把類型，例如 Xbox One|Series、DualSense、Nintendo Switch Pro 等，未來還將陸續新增更多款式。
+
 ## 📜 腳本
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - 在 Linux 上使用虛擬畫面進行遠端串流的自動化。
