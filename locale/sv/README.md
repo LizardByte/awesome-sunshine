@@ -13,6 +13,7 @@
   <a href="#-spelbutiker">Spelbutiker</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuella-skärmar">Virtuella skärmar</a> •
+  <a href="#-virtuella-spelfiler">Virtuella spelfiler</a> •
   <a href="#-skript">Skript</a> •
   <a href="#-testar">Testar</a> •
   <a href="#-guider">Guider</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Verktyg för att använda med Sunshine / Moonlight / Playnite spel streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Aktivering av containervänlig inmatningshantering för Sunshine på Linux.
 
-## 🎮 Spelbutiker
+## 🛒 Spelbutiker
 
 - [Epic Games](https://www.epicgames.com) - Ladda ner och spela PC-spel av alla genrer. De har mods, DLC och gratis spel också! Spel för alla.
 - [GOG](https://www.gog.com) - Ladda ner de bästa klassiska och nya spelen på Windows, Mac & Linux. Ett stort urval av titlar, DRM-fria, med gratis godsaker.
