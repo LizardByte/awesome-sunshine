@@ -13,6 +13,7 @@
   <a href="#-lojas-de-jogos">Lojas de Jogos</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
+  <a href="#-jogos-virtuais">Jogos Virtuais</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-teste">Teste</a> •
   <a href="#-guias">Guias</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitários para usar com o streaming de jogos Sunshine / Moonlight / Playnite.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Habilitando a manipulação de entrada amigável ao contêiner para o Sunshine no Linux.
 
-## 🎮 Lojas de Jogos
+## 🛒 Lojas de Jogos
 
 - [Epic Games](https://www.epicgames.com) - Baixar e jogar Jogos de PC de cada gênero. Eles também têm mods, DLC e Jogos Grátis! Jogos para todos.
 - [GOG](https://www.gog.com) - Baixe os melhores jogos no Windows, Mac & Linux. Uma vasta seleção de títulos, sem DRM, com brindes gratuitos.
