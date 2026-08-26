@@ -13,6 +13,7 @@
   <a href="#-herní-obchody">Herní obchody</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
+  <a href="#-virtuální-hry">Virtuální hry</a> •
   <a href="#-skripty">Skripty</a> •
   <a href="#-testování">Testování</a> •
   <a href="#-průvodci">Průvodci</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Povolení kontejnerového zpracování vstupu pro Sunshine v Linuxu.
 
-## 🎮 Herní obchody
+## 🛒 Herní obchody
 
 - [Epic Games](https://www.epicgames.com) - Stahujte a hrajte počítačové hry všech žánrů. Mají mody, DLC a hry zdarma! Hry pro každého.
 - [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické i nové hry pro Windows, Mac a Linux. Rozsáhlý výběr titulů bez DRM s bezplatnými doplňky.
