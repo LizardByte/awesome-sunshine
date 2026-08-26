@@ -70,6 +70,10 @@
 - [가상 디스플레이 드라이버 마법사](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 간접 디스플레이 드라이버 샘플(IddSample) 구현을 효율적으로 조작하기 위해 Sunshine과 같은 다른 소프트웨어와 통합할 수 있는 GUI 툴입니다.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PC에 여러 대의 가상 모니터를 추가할 수 있는 Windows 가상 디스플레이 드라이버! Win10 이상용. VR, 옵스, 스트리밍 소프트웨어 등과 함께 작동합니다.
 
+## 🎮 가상 게임패드
+
+- [가상 HID 드라이버](https://github.com/LizardByte/libvirtualhid) - Windows용 사용자 모드 가상 게임패드. Windows에 Xbox One|Series, DualSense, Nintendo Switch Pro 등 더 많은 게임패드 유형을 추가하며, 향후 더 많은 유형이 추가될 예정입니다.
+
 ## 📜 스크립트
 
 - [더미 플러그 자동화](https://github.com/XenHat/dummy-plug-automation) - Linux에서 더미 플러그를 사용하여 원격 스트리밍을 자동화합니다.
