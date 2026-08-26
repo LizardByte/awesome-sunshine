@@ -13,6 +13,7 @@
   <a href="#-negozi-di-gioco">Negozi Di Gioco</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-visualizzazione-virtuale">Visualizzazione Virtuale</a> •
+  <a href="#-gamepads-virtuali">Gamepads Virtuali</a> •
   <a href="#-script">Script</a> •
   <a href="#-test">Test</a> •
   <a href="#-guide">Guide</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Abilitando la gestione degli input dei container per Sunshine su Linux.
 
-## 🎮 Negozi Di Gioco
+## 🛒 Negozi Di Gioco
 
 - [Epic Games](https://www.epicgames.com) - Scarica e gioca a PC Giochi di ogni genere. Hanno mods, DLC, e Giochi Gratis! Giochi per tutti.
 - [GOG](https://www.gog.com) - Scarica i migliori giochi classici e nuovi su Windows, Mac & Linux. Una vasta selezione di titoli, senza DRM, con buoni gratuiti.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Aggiungi monitor virtuali al tuo dispositivo Windows 10/11! Funziona con VR, OBS, Sunshine e/o qualsiasi software di condivisione desktop.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Uno strumento GUI che può integrarsi con altri software come Sunshine per una efficace manipolazione delle implementazioni del Driver Display Indiretto (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Un driver per display virtuale Windows per aggiungere più monitor virtuali al tuo PC! Per Win10+. Funziona con VR, obs, software di streaming, ecc.
+
+## 🎮 Gamepads Virtuali
+
+- [Driver HID Virtuale](https://github.com/LizardByte/libvirtualhid) - Gamepad virtuali in modalità utente per Windows. Aggiunge più tipi di gamepad a Windows, come Xbox One<unk> Series, DualSense, Nintendo Switch Pro e molto altro per venire in futuro.
 
 ## 📜 Script
 

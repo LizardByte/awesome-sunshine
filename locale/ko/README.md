@@ -13,6 +13,7 @@
   <a href="#-게임-스토어">게임 스토어</a> •
   <a href="#-프론트엔드">프론트엔드</a> •
   <a href="#-가상-디스플레이">가상 디스플레이</a> •
+  <a href="#-가상-게임패드">가상 게임패드</a> •
   <a href="#-스크립트">스크립트</a> •
   <a href="#-테스트">테스트</a> •
   <a href="#-가이드">가이드</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 게임 스트리밍에 사용하기 위한 유틸리티입니다.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Linux에서 Sunshine에 컨테이너 친화적인 입력 처리를 활성화합니다.
 
-## 🎮 게임 스토어
+## 🛒 게임 스토어
 
 - [에픽게임즈](https://www.epicgames.com) - 모든 장르의 PC 게임을 다운로드하고 플레이하세요. 모드, DLC, 무료 게임도 있습니다! 모두를 위한 게임.
 - [GOG](https://www.gog.com) - Windows, Mac 및 Linux에서 최고의 클래식 게임과 새로운 게임을 다운로드하세요. DRM이 없는 방대한 타이틀과 무료 혜택이 제공됩니다.
@@ -69,6 +70,10 @@
 - [가상 디스플레이 드라이버](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 장치에 가상 모니터를 추가하세요! VR, OBS, Sunshine 및/또는 모든 데스크톱 공유 소프트웨어와 함께 작동합니다.
 - [가상 디스플레이 드라이버 마법사](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 간접 디스플레이 드라이버 샘플(IddSample) 구현을 효율적으로 조작하기 위해 Sunshine과 같은 다른 소프트웨어와 통합할 수 있는 GUI 툴입니다.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PC에 여러 대의 가상 모니터를 추가할 수 있는 Windows 가상 디스플레이 드라이버! Win10 이상용. VR, 옵스, 스트리밍 소프트웨어 등과 함께 작동합니다.
+
+## 🎮 가상 게임패드
+
+- [가상 HID 드라이버](https://github.com/LizardByte/libvirtualhid) - Windows용 사용자 모드 가상 게임패드. Windows에 Xbox One|Series, DualSense, Nintendo Switch Pro 등 더 많은 게임패드 유형을 추가하며, 향후 더 많은 유형이 추가될 예정입니다.
 
 ## 📜 스크립트
 

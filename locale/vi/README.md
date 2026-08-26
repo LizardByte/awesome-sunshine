@@ -13,6 +13,7 @@
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-giao-diện-người-dùng">Giao diện người dùng</a> •
   <a href="#-màn-hình-ảo">Màn hình ảo</a> •
+  <a href="#-tay-cầm-chơi-game-ảo">Tay cầm chơi game ảo</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-testing">Testing</a> •
   <a href="#-hướng-dẫn">Hướng dẫn</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Kích hoạt xử lý đầu vào thân thiện với container cho Sunshine trên Linux.
 
-## 🎮 Game Stores
+## 🛒 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Tải xuống và chơi các trò chơi PC thuộc mọi thể loại. Họ cũng có mods, DLC và các trò chơi miễn phí! Trò chơi cho mọi người.
 - [GOG](https://www.gog.com) - Tải xuống những trò chơi kinh điển và mới nhất trên Windows, Mac & Linux. Một bộ sưu tập đa dạng các tựa game, không có DRM, kèm theo các phần quà miễn phí.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Thêm màn hình ảo vào máy Windows 10/11 của bạn! Hỗ trợ VR, OBS, Sunshine và/hoặc bất kỳ phần mềm chia sẻ màn hình desktop nào.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Một công cụ giao diện người dùng (GUI) có thể tích hợp với các phần mềm khác như Sunshine để thao tác hiệu quả với các bản mẫu trình điều khiển hiển thị gián tiếp (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Driver màn hình ảo cho Windows giúp thêm nhiều màn hình ảo vào máy tính của bạn! Dành cho Windows 10 trở lên. Hỗ trợ VR, OBS, phần mềm phát trực tiếp, v.v.
+
+## 🎮 Tay cầm chơi game ảo
+
+- [Trình điều khiển HID ảo](https://github.com/LizardByte/libvirtualhid) - Bộ điều khiển trò chơi ảo ở chế độ người dùng dành cho Windows. Bổ sung thêm nhiều loại tay cầm chơi game cho Windows, chẳng hạn như Xbox One|Series, DualSense, Nintendo Switch Pro, và nhiều loại khác sẽ được bổ sung trong tương lai.
 
 ## 📜 Scripts
 

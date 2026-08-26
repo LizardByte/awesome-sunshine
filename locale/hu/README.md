@@ -13,6 +13,7 @@
   <a href="#-játékboltok">Játékboltok</a> •
   <a href="#-frontendek">Frontendek</a> •
   <a href="#-virtuális-kijelzők">Virtuális kijelzők</a> •
+  <a href="#-virtuális-játékvezérlők">Virtuális játékvezérlők</a> •
   <a href="#-szkriptek">Szkriptek</a> •
   <a href="#-tesztelés">Tesztelés</a> •
   <a href="#-útmutatók">Útmutatók</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Konténerbarát bemenetkezelés Sunshine-on Linux alatt.
 
-## 🎮 Játékboltok
+## 🛒 Játékboltok
 
 - [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Adj hozzá virtuális monitorokat a Windows 10/11 gépedhez! Működik VR-rel, OBS-sel, Sunshine-nal és/vagy bármilyen asztalmegosztó programmal.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy grafikus felületű eszköz, ami össze tud dolgozni más programokkal (például a Sunshine-nal), hogy könnyen lehessen kezelni az Indirect Display Driver Sample (IddSample) megvalósításokat.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows virtuális kijelző illesztőprogram, amivel több virtuális monitort adhatsz a gépedhez! Win10+ esetén. Működik VR-rel, OBS-sel, streamelős programokkal stb.
+
+## 🎮 Virtuális játékvezérlők
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) – Felhasználói módú virtuális játékvezérlők Windowshoz. További gamepad-típusokat támogat a Windows, például az Xbox One|Series, a DualSense, a Nintendo Switch Pro, és a jövőben továbbiak is várhatók.
 
 ## 📜 Szkriptek
 

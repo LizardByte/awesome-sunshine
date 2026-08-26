@@ -13,6 +13,7 @@
   <a href="#-spelbutiker">Spelbutiker</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuella-skärmar">Virtuella skärmar</a> •
+  <a href="#-virtuella-spelfiler">Virtuella spelfiler</a> •
   <a href="#-skript">Skript</a> •
   <a href="#-testar">Testar</a> •
   <a href="#-guider">Guider</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Verktyg för att använda med Sunshine / Moonlight / Playnite spel streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Aktivering av containervänlig inmatningshantering för Sunshine på Linux.
 
-## 🎮 Spelbutiker
+## 🛒 Spelbutiker
 
 - [Epic Games](https://www.epicgames.com) - Ladda ner och spela PC-spel av alla genrer. De har mods, DLC och gratis spel också! Spel för alla.
 - [GOG](https://www.gog.com) - Ladda ner de bästa klassiska och nya spelen på Windows, Mac & Linux. Ett stort urval av titlar, DRM-fria, med gratis godsaker.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Lägg till virtuella skärmar till din Windows 10/11-enhet! Fungerar med VR, OBS, Sunshine och / eller någon programvara för delning av skrivbord.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Ett GUI-verktyg som kan integreras med andra program som Sunshine för effektiv manipulering av Indirect Display Driver Sample (IddSample) implementationer.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - En virtuell drivrutin för Windows för att lägga till flera virtuella bildskärmar till din dator! För Win10+. Fungerar med VR, obs, strömmande programvara, etc.
+
+## 🎮 Virtuella spelfiler
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - Virtuella spelläge för Windows. Lägger till fler speltyper i Windows, såsom Xbox One<unk> Series, DualSense, Nintendo Switch Pro och mer att komma i framtiden.
 
 ## 📜 Skript
 

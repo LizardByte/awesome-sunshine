@@ -13,6 +13,7 @@
   <a href="#-magasins-de-jeux">Magasins de jeux</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-affichages-virtuels">Affichages virtuels</a> •
+  <a href="#-gamepads-virtuels">Gamepads virtuels</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-tests">Tests</a> •
   <a href="#-guides">Guides</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitaires à utiliser avec Sunshine / Moonlight / Playnite game streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Activer la gestion d'entrée conviviale pour Sunshine sous Linux.
 
-## 🎮 Magasins de jeux
+## 🛒 Magasins de jeux
 
 - [Epic Games](https://www.epicgames.com) - Téléchargez et jouez à des jeux PC de tous genres. Ils ont aussi des mods, des DLC et des jeux gratuits! Jeux pour tout le monde.
 - [GOG](https://www.gog.com) - Téléchargez les meilleurs jeux classiques et nouveaux sur Windows, Mac et Linux. Une vaste sélection de titres, sans DRM, avec des goodies gratuits.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Ajoutez des moniteurs virtuels à votre appareil Windows 10/11 ! Fonctionne avec VR, OBS, Sunshine, et/ou tout logiciel de partage de bureau.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Un outil GUI qui peut s'intégrer à d'autres logiciels tels que Sunshine pour une manipulation efficace des implémentations Indirect Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Un pilote d'affichage virtuel Windows pour ajouter plusieurs moniteurs virtuels à votre PC! Pour Win10+. Fonctionne avec VR, obs, logiciel de streaming, etc.
+
+## 🎮 Gamepads virtuels
+
+- [Pilote HID Virtuel](https://github.com/LizardByte/libvirtualhid) - Manchettes virtuelles en mode utilisateur pour Windows. Ajoute plus de types de manette à Windows, tels que Xbox One|Series, DualSense, Nintendo Switch Pro, et plus encore à venir.
 
 ## 📜 Scripts
 

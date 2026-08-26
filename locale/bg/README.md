@@ -13,6 +13,7 @@
   <a href="#-магазини-за-игри">Магазини за игри</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-виртуални-екрани">Виртуални екрани</a> •
+  <a href="#-виртуални-геймпад-и">Виртуални геймпад-и</a> •
   <a href="#-скриптове">Скриптове</a> •
   <a href="#-тестване">Тестване</a> •
   <a href="#-ръководства">Ръководства</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) – Помощни програми за използване със Sunshine / Moonlight / Playnite за поточно предаване на игри.
 - [vuinputd](https://github.com/joleuger/vuinputd) – Подходяща за контейнери обработка на входни устройства за Sunshine под Линукс.
 
-## 🎮 Магазини за игри
+## 🛒 Магазини за игри
 
 - [Epic Games](https://www.epicgames.com) – Сваляйте и играйте игри за компютър от всякакви жанрове. Тук ще имате достъп до модификации, сваляемо съдържание и безплатни игри! Игри за всеки.
 - [GOG](https://www.gog.com) – Свалете най-добрите класически и нови игри за Уиндоус, Мак и Линукс. Огромен избор от заглавия, без DRM, с безплатни екстри.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) – Добавете виртуални монитори към вашето устройство с Windows 10/11! Работи с VR, OBS, Sunshine и/или друг софтуер за споделяне на настолни компютри.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Инструмент с графичен потребителски интерфейс, който може да се интегрира с друг софтуер, например Sunshine, за ефективно манипулиране на реализациите на Indirect Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Драйвер за виртуален дисплей на Windows за добавяне на множество виртуални монитори към вашия компютър! За Win10+. Работи с VR, obs, софтуер за стрийминг и др.
+
+## 🎮 Виртуални геймпад-и
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) – Виртуални контролери в потребителски режим за Уиндоус. Добавя повече видове контролери в Уиндоус, като например Xbox One|Series, DualSense, Nintendo Switch Pro, а в бъдеще ще бъдат добавени и други.
 
 ## 📜 Скриптове
 

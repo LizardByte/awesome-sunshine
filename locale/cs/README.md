@@ -13,6 +13,7 @@
   <a href="#-herní-obchody">Herní obchody</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-virtuální-displeje">Virtuální displeje</a> •
+  <a href="#-virtuální-hry">Virtuální hry</a> •
   <a href="#-skripty">Skripty</a> •
   <a href="#-testování">Testování</a> •
   <a href="#-průvodci">Průvodci</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Nástroje pro použití se streamováním her Sunshine / Moonlight / Playnite.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Povolení kontejnerového zpracování vstupu pro Sunshine v Linuxu.
 
-## 🎮 Herní obchody
+## 🛒 Herní obchody
 
 - [Epic Games](https://www.epicgames.com) - Stahujte a hrajte počítačové hry všech žánrů. Mají mody, DLC a hry zdarma! Hry pro každého.
 - [GOG](https://www.gog.com) - Stáhněte si nejlepší klasické i nové hry pro Windows, Mac a Linux. Rozsáhlý výběr titulů bez DRM s bezplatnými doplňky.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Přidejte virtuální monitory do zařízení se systémem Windows 10/11! Funguje s VR, OBS, Sunshine a/nebo jakýmkoli softwarem pro sdílení plochy.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Nástroj s grafickým uživatelským rozhraním, který lze integrovat s jiným softwarem, například Sunshine, pro efektivní manipulaci s implementacemi ukázkového ovladače nepřímého zobrazení (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Ovladač virtuálního displeje systému Windows pro přidání více virtuálních monitorů do vašeho počítače! Pro Win10+. Funguje s VR, obs, streamovacím softwarem atd.
+
+## 🎮 Virtuální hry
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - User-mode virtual gamepads pro Windows. Přidá další typy gamepadů do Windows, například Xbox One|Série, DualSense, Nintendo Switch Pro, a další budou k dispozici v budoucnu.
 
 ## 📜 Skripty
 

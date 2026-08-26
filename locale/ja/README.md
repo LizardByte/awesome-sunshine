@@ -13,6 +13,7 @@
   <a href="#-ゲームストア">ゲームストア</a> •
   <a href="#-フロントエンド">フロントエンド</a> •
   <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
+  <a href="#-バーチャルゲームパッド">バーチャルゲームパッド</a> •
   <a href="#-スクリプト">スクリプト</a> •
   <a href="#-テスト">テスト</a> •
   <a href="#-ガイド">ガイド</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
 - [vuinputd](https://github.com/joleuger/vuinputd) - LinuxのコンテナにフレンドリーなでSunshine用入力処理を有効にします。
 
-## 🎮 ゲームストア
+## 🛒 ゲームストア
 
 - [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイできます。 Mod、DLC、そして無料ゲームもあります! すべての人々のためのゲーム。
 - [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、および/または任意のデスクトップ共有ソフトウェアで動作します。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10以上に対応。 VR、obs、ストリーミングソフトウェアなどで動作します
+
+## 🎮 バーチャルゲームパッド
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - Windows 用のユーザーモード仮想ゲームパッド。 Xbox One|シリーズ、DualSense、Nintendo Switch Proなど、Windowsにゲームパッドの種類を追加しました。
 
 ## 📜 スクリプト
 

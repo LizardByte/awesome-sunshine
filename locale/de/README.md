@@ -13,6 +13,7 @@
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtuelle-anzeige">Virtuelle Anzeige</a> •
+  <a href="#-virtuelle-gamepads">Virtuelle Gamepads</a> •
   <a href="#-skripte">Skripte</a> •
   <a href="#-test">Test</a> •
   <a href="#-anleitungen">Anleitungen</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities für die Verwendung mit Sunshine / Moonlight / Playnite Game Streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Aktiviere container-freundliche Eingabebehandlung für Sunshine unter Linux.
 
-## 🎮 Game Stores
+## 🛒 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Laden Sie PC-Spiele jedes Genres herunter und spielen Sie diese. Sie haben auch Mods, DLC und kostenlose Spiele! Spiele für alle.
 - [GOG](https://www.gog.com) - Laden Sie die besten klassischen und neuen Spiele auf Windows, Mac & Linux herunter. Eine große Auswahl an Titeln, DRM-frei, mit kostenlosen Goodies.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Füge virtuelle Monitore zu deinem Windows 10/11 Gerät hinzu! Funktioniert mit VR, OBS, Sunshine und/oder einer beliebigen Desktop-Sharing-Software.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Ein GUI Tool, das sich mit anderen Software wie Sunshine integrieren lässt, um Indirect Display Driver Sample (IddSample) Implementierungen effizient zu manipulieren.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Ein virtueller Windows-Displaytreiber, der mehrere virtuelle Monitore zu Ihrem PC hinzufügt! Für Win10+. Funktioniert mit VR, obs, Streaming-Software, etc.
+
+## 🎮 Virtuelle Gamepads
+
+- [Virtueller HID Treiber](https://github.com/LizardByte/libvirtualhid) - Virtuelle Gamepads für Windows. Fügt Windows weitere Gamepad-Typen wie Xbox One|Series, DualSense, Nintendo Switch Pro und mehr hinzu, um in Zukunft zu kommen.
 
 ## 📜 Skripte
 

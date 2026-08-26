@@ -13,6 +13,7 @@
   <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
   <a href="#-ön-uçlar">Ön Uçlar</a> •
   <a href="#-sanal-ekranlar">Sanal Ekranlar</a> •
+  <a href="#-sanal-oyun-kumandaları">Sanal Oyun Kumandaları</a> •
   <a href="#-komut-dosyaları">Komut Dosyaları</a> •
   <a href="#-test">Test</a> •
   <a href="#-kılavuzlar">Kılavuzlar</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Linux üzerinde Sunshine için konteyner dostu girdi işlemeyi etkinleştirme.
 
-## 🎮 Oyun Mağazaları
+## 🛒 Oyun Mağazaları
 
 - [Epic Games](https://www.epicgames.com) - Her türden PC Oyunlarını indirin ve oynayın. Modları, DLC'leri ve Ücretsiz Oyunları da var! Herkes için oyunlar.
 - [GOG](https://www.gog.com) - Windows, Mac ve Linux'ta en iyi klasik ve yeni oyunları indirin. DRM içermeyen, ücretsiz güzellikler içeren geniş bir oyun yelpazesi.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 cihazınıza sanal monitörler ekleyin! VR, OBS, Sunshine ve/veya herhangi bir masaüstü paylaşım yazılımı ile çalışır.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Dolaylı Ekran Sürücüsü Örneği (IddSample) uygulamalarının verimli bir şekilde işlenmesi için Sunshine gibi diğer yazılımlarla entegre olabilen bir GUI aracı.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Bilgisayarınıza birden fazla sanal monitör eklemek için bir Windows sanal ekran sürücüsü! Win10+ için. VR, obs, akış yazılımı vb. ile çalışır.
+
+## 🎮 Sanal Oyun Kumandaları
+
+- [Sanal HID Sürücüsü](https://github.com/LizardByte/libvirtualhid) - Windows için kullanıcı modu sanal oyun kumandaları. Windows’a Xbox One|Series, DualSense, Nintendo Switch Pro gibi daha fazla oyun kumandası türü ekler; ileride daha fazlası da eklenecektir.
 
 ## 📜 Komut Dosyaları
 

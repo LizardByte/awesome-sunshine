@@ -13,6 +13,7 @@
   <a href="#-遊戲商店">遊戲商店</a> •
   <a href="#-前端">前端</a> •
   <a href="#-虛擬顯示器">虛擬顯示器</a> •
+  <a href="#-虛擬遊戲手把">虛擬遊戲手把</a> •
   <a href="#-腳本">腳本</a> •
   <a href="#-測試">測試</a> •
   <a href="#-指南">指南</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用於 Sunshine / Moonlight / Playnite 遊戲串流的公用程式。
 - [vuinputd](https://github.com/joleuger/vuinputd) - 為 Linux 上的 Sunshine 啟用容器友善的輸入處理。
 
-## 🎮 遊戲商店
+## 🛒 遊戲商店
 
 - [Epic Games](https://www.epicgames.com) - 下載和玩各種類型的 PC 遊戲。 他們也有 Mods、DLC 和免費遊戲！ 適合所有人的遊戲。
 - [GOG](https://www.gog.com) - 在 Windows、Mac 和 Linux 上下載最好的經典和新遊戲。 大量精選書籍，不含 DRM，還有免費好康。
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 在您的 Windows 10/11 裝置上新增虛擬顯示器！ 可與 VR、OBS、Sunshine 和/或任何桌面分享軟體搭配使用。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一個 GUI 工具，可與 Sunshine 等其他軟體整合，以有效率地操作 Indirect Display Driver Sample (IddSample) 實作。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虛擬顯示器驅動程式，可為電腦新增多個虛擬顯示器！ 適用於 Win10+。 可與 VR、obs、串流軟體等搭配使用。
+
+## 🎮 虛擬遊戲手把
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - 適用於 Windows 的使用者模式虛擬遊戲控制器。 為 Windows 新增更多手把類型，例如 Xbox One|Series、DualSense、Nintendo Switch Pro 等，未來還將陸續新增更多款式。
 
 ## 📜 腳本
 

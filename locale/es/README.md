@@ -13,6 +13,7 @@
   <a href="#-tienda-de-juegos">Tienda de juegos</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-pantallas-virtuales">Pantallas virtuales</a> •
+  <a href="#-gamepads-virtuales">Gamepads virtuales</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-prueba">Prueba</a> •
   <a href="#-guías">Guías</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designner-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Habilita el manejo de entrada amigable con contenedores para Sunshine en Linux.
 
-## 🎮 Tienda de juegos
+## 🛒 Tienda de juegos
 
 - [Partidas Épicas](https://www.epicgames.com) - Descargar y jugar juegos de PC de cada género. También tienen mods, DLC y Juegos Gratis! Juegos para todos.
 - [GOG](https://www.gog.com) - Descarga los mejores juegos clásicos y nuevos en Windows, Mac & Linux. Una vasta selección de títulos, libres de DRM, con bienes gratuitos.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - ¡Añade monitoreos virtuales a tu dispositivo Windows 10/11! Funciona con VR, OBS, Sunshine, y/o cualquier software para compartir escritorio.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Una herramienta GUI que se puede integrar con otro software como Sunshine para una manipulación eficiente de las implementaciones Indirecta Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - ¡Un controlador de visualización virtual de Windows para añadir múltiples monitoreos virtuales a tu PC! Para Win10+. Funciona con realidad virtual, OBS, software de transmisión, etc.
+
+## 🎮 Gamepads virtuales
+
+- [Controlador HID Virtual](https://github.com/LizardByte/libvirtualhid) - Mando virtual en modo usuario para Windows. Añade más tipos de gamepad a Windows, como Xbox One|Series, DualSense, Nintendo Switch Pro y más para venir en el futuro.
 
 ## 📜 Scripts
 

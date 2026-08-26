@@ -13,6 +13,7 @@
   <a href="#-игровые-магазины">Игровые магазины</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-виртуальные-дисплеи">Виртуальные дисплеи</a> •
+  <a href="#-виртуальные-игровые-площадки">виртуальные игровые площадки</a> •
   <a href="#-скрипты">Скрипты</a> •
   <a href="#-тестирование">Тестирование</a> •
   <a href="#-руководства">Руководства</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - утилиты для работы с игровыми стримингами Sunshine / Moonlight / Playnite.
 - [vuinputd](https://github.com/joleuger/vuinputd) - включение удобной для использования в контейнерах обработки входных данных для Sunshine в Linux.
 
-## 🎮 Игровые магазины
+## 🛒 Игровые магазины
 
 - [Epic Games](https://www.epicgames.com) - скачивайте и играйте на ПК в игры любого жанра. У них есть моды, DLC и бесплатные игры! Игры для всех.
 - [GOG](https://www.gog.com) - скачивайте лучшие классические и новые игры на Windows, Mac & Linux. Огромный выбор игр без DRM, а также бесплатных дополнений.
@@ -69,6 +70,10 @@
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - добавьте виртуальные мониторы к вашему устройству на Windows 10/11! Работает с VR, OBS, Sunshine и любым другим ПО для общего доступа к рабочему столу.
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - GUI инструмент, который может интегрироваться с другими программами вроде Sunshine для эффективной работы с реализациями Indirect Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - драйвер виртуального дисплея Windows для добавления нескольких виртуальных мониторов в ваш ПК! Для Win10+. Работает с VR, OBS, стриминговым ПО и т.д.
+
+## 🎮 виртуальные игровые площадки
+
+- [Виртуальный HID драйвер](https://github.com/LizardByte/libvirtualhid) - виртуальные игровые страницы для Windows. Добавляет больше типов геймпадов для Windows, таких как Xbox One|Series, DualSense, Nintendo Switch Pro, и многое другое.
 
 ## 📜 Скрипты
 
@@ -90,6 +95,5 @@
 
 ## Внести вклад
 
-Помощь приветствуется! Но, пожалуйста, следуйте инструкциям LizardByte
-[Вклад в руководство](https://docs.lizardbyte.dev/latest/developers/contributing.html)
+Помощь приветствуется! Но, пожалуйста, следуйте [инструкциям LizardByte](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 при участии в этом проекте.
