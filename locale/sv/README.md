@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Ett GUI-verktyg som kan integreras med andra program som Sunshine för effektiv manipulering av Indirect Display Driver Sample (IddSample) implementationer.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - En virtuell drivrutin för Windows för att lägga till flera virtuella bildskärmar till din dator! För Win10+. Fungerar med VR, obs, strömmande programvara, etc.
 
+## 🎮 Virtuella spelfiler
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - Virtuella spelläge för Windows. Lägger till fler speltyper i Windows, såsom Xbox One<unk> Series, DualSense, Nintendo Switch Pro och mer att komma i framtiden.
+
 ## 📜 Skript
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatisering för fjärrströmning med hjälp av en dummy-plugg på Linux.
