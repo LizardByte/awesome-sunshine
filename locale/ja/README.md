@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 間接表示ドライバサンプル(IddSample)の実装を効率的に操作するためにSunshineなどの他のソフトウェアと統合できるGUIツール。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - PCに複数の仮想モニタを追加するWindows仮想ディスプレイドライバ! Win10以上に対応。 VR、obs、ストリーミングソフトウェアなどで動作します
 
+## 🎮 バーチャルゲームパッド
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - Windows 用のユーザーモード仮想ゲームパッド。 Xbox One|シリーズ、DualSense、Nintendo Switch Proなど、Windowsにゲームパッドの種類を追加しました。
+
 ## 📜 スクリプト
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linuxでダミープラグを使ったリモートストリーミングの自動化。
