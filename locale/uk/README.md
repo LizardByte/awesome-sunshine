@@ -70,7 +70,11 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Інструмент з графічним інтерфейсом, який може інтегруватися з іншим програмним забезпеченням, таким як Sunshine, для правильної обробки Indirect Display Driver Sample (IddSample) імплементацій.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Драйвер віртуального дисплея Windows для додавання декількох віртуальних моніторів до вашого ПК! Для Win10+. Працює з VR, OBS, стрімінговим програмним забезпеченням, тощо.
 
-## 📜 Сценарії
+## 🎮 Віртуальна ігрова сторінка
+
+- [Віртуальний HID драйвер](https://github.com/LizardByte/libvirtualhid) - Віртуальні ігрові майданчики для Windows. Додає більше типів геймпадів до Windows, таких як Xbox One|Series, DualSense, Nintendo Switch Pro, і багато що потрібно буде в майбутньому.
+
+## 📜 Скрипти
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Автоматизація віддаленого стримінгу використовуючи віртуальний штекер (dummy plug) у Linux.
 - [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Обмежувач Частоти Кадрів від Nvidia.
