@@ -13,6 +13,7 @@
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-virtual-displays">Virtual Displays</a> •
+  <a href="#-virtual-gamepads">Virtual Gamepads</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-testing">Testing</a> •
   <a href="#-guides">Guides</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilities for using with Sunshine / Moonlight / Playnite game streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Enabling container-friendly input handling for Sunshine on Linux.
 
-## 🎮 Game Stores
+## 🛒 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Download and play PC Games of every genre. They have mods, DLC, and Free Games too! Games for everyone.
 - [GOG](https://www.gog.com) - Download the best classic and new games on Windows, Mac & Linux. A vast selection of titles, DRM-free, with free goodies.
