@@ -13,6 +13,7 @@
   <a href="#-oyun-mağazaları">Oyun Mağazaları</a> •
   <a href="#-ön-uçlar">Ön Uçlar</a> •
   <a href="#-sanal-ekranlar">Sanal Ekranlar</a> •
+  <a href="#-sanal-oyun-kumandaları">Sanal Oyun Kumandaları</a> •
   <a href="#-komut-dosyaları">Komut Dosyaları</a> •
   <a href="#-test">Test</a> •
   <a href="#-kılavuzlar">Kılavuzlar</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite oyun akışı ile kullanmak için yardımcı programlar.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Linux üzerinde Sunshine için konteyner dostu girdi işlemeyi etkinleştirme.
 
-## 🎮 Oyun Mağazaları
+## 🛒 Oyun Mağazaları
 
 - [Epic Games](https://www.epicgames.com) - Her türden PC Oyunlarını indirin ve oynayın. Modları, DLC'leri ve Ücretsiz Oyunları da var! Herkes için oyunlar.
 - [GOG](https://www.gog.com) - Windows, Mac ve Linux'ta en iyi klasik ve yeni oyunları indirin. DRM içermeyen, ücretsiz güzellikler içeren geniş bir oyun yelpazesi.
