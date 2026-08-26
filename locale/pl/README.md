@@ -13,6 +13,7 @@
   <a href="#-sklepy-z-grami">Sklepy z grami</a> •
   <a href="#-frontendy">Frontendy</a> •
   <a href="#-wirtualne-wyświetlacze">Wirtualne wyświetlacze</a> •
+  <a href="#-wirtualne-gamepady">Wirtualne Gamepady</a> •
   <a href="#-skrypty">Skrypty</a> •
   <a href="#-testowanie">Testowanie</a> •
   <a href="#-poradniki">Poradniki</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Narzędzia do użytku podczas strumieniowania gier Sunshine / Moonlight / Playnite.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Włączanie obsługi przyjaznych dla kontenerów danych wejściowych dla Sunshine na Linux.
 
-## 🎮 Sklepy z grami
+## 🛒 Sklepy z grami
 
 - [Epic Games](https://www.epicgames.com) - Pobierz i graj w gry PC każdego gatunku. Mają również mody, DLC i darmowe gry! Gry dla wszystkich.
 - [GOG](https://www.gog.com) - Pobierz najlepsze klasyczne i nowe gry na Windows, Mac i Linux. Ogromny wybór tytułów, bez DRM, z darmowymi towarami.
