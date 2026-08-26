@@ -13,6 +13,7 @@
   <a href="#-ゲームストア">ゲームストア</a> •
   <a href="#-フロントエンド">フロントエンド</a> •
   <a href="#-バーチャルディスプレイ">バーチャルディスプレイ</a> •
+  <a href="#-バーチャルゲームパッド">バーチャルゲームパッド</a> •
   <a href="#-スクリプト">スクリプト</a> •
   <a href="#-テスト">テスト</a> •
   <a href="#-ガイド">ガイド</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite ゲームストリーミングで使用するユーティリティ。
 - [vuinputd](https://github.com/joleuger/vuinputd) - LinuxのコンテナにフレンドリーなでSunshine用入力処理を有効にします。
 
-## 🎮 ゲームストア
+## 🛒 ゲームストア
 
 - [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイできます。 Mod、DLC、そして無料ゲームもあります! すべての人々のためのゲーム。
 - [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
