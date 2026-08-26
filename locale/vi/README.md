@@ -13,6 +13,7 @@
   <a href="#-game-stores">Game Stores</a> •
   <a href="#-giao-diện-người-dùng">Giao diện người dùng</a> •
   <a href="#-màn-hình-ảo">Màn hình ảo</a> •
+  <a href="#-tay-cầm-chơi-game-ảo">Tay cầm chơi game ảo</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-testing">Testing</a> •
   <a href="#-hướng-dẫn">Hướng dẫn</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Bộ tiện ích hỗ trợ sử dụng Sunshine, Moonlight và Playnite để stream game.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Kích hoạt xử lý đầu vào thân thiện với container cho Sunshine trên Linux.
 
-## 🎮 Game Stores
+## 🛒 Game Stores
 
 - [Epic Games](https://www.epicgames.com) - Tải xuống và chơi các trò chơi PC thuộc mọi thể loại. Họ cũng có mods, DLC và các trò chơi miễn phí! Trò chơi cho mọi người.
 - [GOG](https://www.gog.com) - Tải xuống những trò chơi kinh điển và mới nhất trên Windows, Mac & Linux. Một bộ sưu tập đa dạng các tựa game, không có DRM, kèm theo các phần quà miễn phí.
