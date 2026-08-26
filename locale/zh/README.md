@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虚拟显示器驱动程序，可为电脑添加多个虚拟显示器！ 适用于 Win10+。 可与 VR、obs、串流软件等配合使用。
 
+## 🎮 Virtual Gamepads
+
+- [虚拟HID 驱动器](https://github.com/LizardByte/libvirtualhid) - Windows的用户模式虚拟游戏。 在Windows添加更多的游戏手表类型，如Xbox One|Series, DualSense, Nintendo Switch Pro, 以及更多将来会出现。
+
 ## 📜 脚本
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - 使用 Linux 上虚拟插件的远程流媒体自动化。
@@ -91,5 +95,5 @@
 ## 贡献
 
 欢迎为本项目添砖加瓦！ 欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
-[Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
+[Contributing Guidelines](https://docs.lizardbyte.dev/en/latest/developers/contributing.html)
 。
