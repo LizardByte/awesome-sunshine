@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Egy grafikus felületű eszköz, ami össze tud dolgozni más programokkal (például a Sunshine-nal), hogy könnyen lehessen kezelni az Indirect Display Driver Sample (IddSample) megvalósításokat.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows virtuális kijelző illesztőprogram, amivel több virtuális monitort adhatsz a gépedhez! Win10+ esetén. Működik VR-rel, OBS-sel, streamelős programokkal stb.
 
+## 🎮 Virtuális játékvezérlők
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) – Felhasználói módú virtuális játékvezérlők Windowshoz. További gamepad-típusokat támogat a Windows, például az Xbox One|Series, a DualSense, a Nintendo Switch Pro, és a jövőben továbbiak is várhatók.
+
 ## 📜 Szkriptek
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizálás távoli streameléshez dummy plug használatával Linuxon.
