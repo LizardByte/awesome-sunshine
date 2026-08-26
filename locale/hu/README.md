@@ -13,6 +13,7 @@
   <a href="#-játékboltok">Játékboltok</a> •
   <a href="#-frontendek">Frontendek</a> •
   <a href="#-virtuális-kijelzők">Virtuális kijelzők</a> •
+  <a href="#-virtuális-játékvezérlők">Virtuális játékvezérlők</a> •
   <a href="#-szkriptek">Szkriptek</a> •
   <a href="#-tesztelés">Tesztelés</a> •
   <a href="#-útmutatók">Útmutatók</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine / Moonlight / Playnite játék streameléssel használható segédprogramok.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Konténerbarát bemenetkezelés Sunshine-on Linux alatt.
 
-## 🎮 Játékboltok
+## 🛒 Játékboltok
 
 - [Epic Games](https://www.epicgames.com) - Tölts le és játssz PC-s játékokat minden műfajban. Vannak modok, DLC-k és ingyenes játékok is. Játékok mindenkinek!
 - [GOG](https://www.gog.com) - A legjobb klasszikus és új játékok letöltése Windowsra, Macre és Linuxra. Címek hatalmas választéka, DRM-mentesen, ingyenes finomságokkal.
