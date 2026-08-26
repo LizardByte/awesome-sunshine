@@ -13,6 +13,7 @@
   <a href="#-magasins-de-jeux">Magasins de jeux</a> •
   <a href="#-frontends">Frontends</a> •
   <a href="#-affichages-virtuels">Affichages virtuels</a> •
+  <a href="#-gamepads-virtuels">Gamepads virtuels</a> •
   <a href="#-scripts">Scripts</a> •
   <a href="#-tests">Tests</a> •
   <a href="#-guides">Guides</a>
@@ -49,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Utilitaires à utiliser avec Sunshine / Moonlight / Playnite game streaming.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Activer la gestion d'entrée conviviale pour Sunshine sous Linux.
 
-## 🎮 Magasins de jeux
+## 🛒 Magasins de jeux
 
 - [Epic Games](https://www.epicgames.com) - Téléchargez et jouez à des jeux PC de tous genres. Ils ont aussi des mods, des DLC et des jeux gratuits! Jeux pour tout le monde.
 - [GOG](https://www.gog.com) - Téléchargez les meilleurs jeux classiques et nouveaux sur Windows, Mac et Linux. Une vaste sélection de titres, sans DRM, avec des goodies gratuits.
