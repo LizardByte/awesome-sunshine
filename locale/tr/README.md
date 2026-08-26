@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Dolaylı Ekran Sürücüsü Örneği (IddSample) uygulamalarının verimli bir şekilde işlenmesi için Sunshine gibi diğer yazılımlarla entegre olabilen bir GUI aracı.
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Bilgisayarınıza birden fazla sanal monitör eklemek için bir Windows sanal ekran sürücüsü! Win10+ için. VR, obs, akış yazılımı vb. ile çalışır.
 
+## 🎮 Sanal Oyun Kumandaları
+
+- [Sanal HID Sürücüsü](https://github.com/LizardByte/libvirtualhid) - Windows için kullanıcı modu sanal oyun kumandaları. Windows’a Xbox One|Series, DualSense, Nintendo Switch Pro gibi daha fazla oyun kumandası türü ekler; ileride daha fazlası da eklenecektir.
+
 ## 📜 Komut Dosyaları
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Linux üzerinde sahte bir fiş kullanarak uzaktan akış için otomasyon.
