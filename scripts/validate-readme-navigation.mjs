@@ -44,6 +44,42 @@ function headingText (markdown) {
     .trim()
 }
 
+function splitHeading (text) {
+  const firstSpace = text.indexOf(' ')
+  const prefix = firstSpace > 0 ? text.slice(0, firstSpace) : ''
+
+  if (/\p{Extended_Pictographic}/u.test(prefix)) {
+    return {
+      emoji: prefix,
+      text: text.slice(firstSpace + 1).trim()
+    }
+  }
+
+  return { emoji: '', text }
+}
+
+function parseCanonicalHeadings (lines) {
+  const headings = []
+
+  for (const line of lines) {
+    const match = /^(#{1,6})[ \t](.+)$/.exec(line)
+    if (!match) continue
+
+    const level = match[1].length
+    const sourceText = headingText(match[2].replace(/[ \t]#+[ \t]*$/, ''))
+    const heading = splitHeading(sourceText)
+
+    if (level === 2 && heading.emoji) {
+      headings.push({
+        emoji: heading.emoji,
+        text: heading.text
+      })
+    }
+  }
+
+  return headings
+}
+
 function parseHeadings (lines) {
   const slugger = new GithubSlugger()
   const navigationHeadings = []
@@ -73,6 +109,53 @@ function parseHeadings (lines) {
   return navigationHeadings
 }
 
+function readLocalizedHeadings (file, canonicalHeadings) {
+  const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/)
+  const h2Count = lines.filter(line => /^##[ \t]+/.test(line)).length
+
+  if (h2Count <= canonicalHeadings.length) {
+    throw new Error(
+      `${file} has fewer than ${canonicalHeadings.length} navigation headings plus its final section`
+    )
+  }
+
+  const slugger = new GithubSlugger()
+  const headings = []
+  let navigationIndex = 0
+
+  for (const line of lines) {
+    const match = /^(#{1,6})[ \t](.+)$/.exec(line)
+    if (!match) continue
+
+    const level = match[1].length
+    const currentText = headingText(match[2].replace(/[ \t]#+[ \t]*$/, ''))
+    let expectedText = currentText
+
+    if (level === 2 && navigationIndex < canonicalHeadings.length) {
+      const canonical = canonicalHeadings[navigationIndex]
+      const localized = splitHeading(currentText)
+      expectedText = `${canonical.emoji} ${localized.text}`
+      headings.push({
+        expected: expectedText,
+        slug: slugger.slug(expectedText),
+        text: localized.text
+      })
+      navigationIndex++
+      continue
+    }
+
+    slugger.slug(expectedText)
+  }
+
+  if (headings.length !== canonicalHeadings.length) {
+    throw new Error(
+      `${file} has ${headings.length} navigation headings; expected ${canonicalHeadings.length}`
+    )
+  }
+
+  return headings
+}
+
 function parseNavigationLinks (lines) {
   const firstHeading = lines.findIndex(line => /^#{1,6}[ \t]+/.test(line))
   const preambleLines = lines.slice(0, firstHeading === -1 ? lines.length : firstHeading)
@@ -92,15 +175,13 @@ function parseNavigationLinks (lines) {
   return links
 }
 
-function createNavigationTranslation (file, expectedHeadingCount) {
-  const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/)
-  const headings = parseHeadings(lines)
+function createHeadingTranslations (file, canonicalHeadings) {
+  return readLocalizedHeadings(file, canonicalHeadings)
+    .map(heading => heading.expected)
+}
 
-  if (headings.length !== expectedHeadingCount) {
-    throw new Error(
-      `${file} has ${headings.length} navigation headings; expected ${expectedHeadingCount}`
-    )
-  }
+function createNavigationTranslation (file, canonicalHeadings) {
+  const headings = readLocalizedHeadings(file, canonicalHeadings)
 
   const links = headings.map((heading, index) => {
     const separator = index === headings.length - 1 ? '' : ' •'
@@ -184,8 +265,10 @@ function relativePath (file) {
   return path.relative(root, file).split(path.sep).join('/')
 }
 
-function main () {
-  const requestedFiles = process.argv.slice(2)
+function main ({
+  requestedFiles = process.argv.slice(2),
+  summaryFile = process.env.GITHUB_STEP_SUMMARY
+} = {}) {
   const files = (requestedFiles.length > 0
     ? requestedFiles.map(file => path.resolve(root, file))
     : [path.join(root, 'README.md'), ...findLocalizedReadmes(path.join(root, 'locale'))]
@@ -219,18 +302,28 @@ function main () {
     }
   }
 
-  if (process.env.GITHUB_STEP_SUMMARY) {
-    fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary)
+  if (summaryFile) {
+    fs.appendFileSync(summaryFile, summary)
   }
 
   if (results.length > 0) process.exitCode = 1
+
+  return { results, summary }
 }
 
-if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) main()
+function runIfMain (moduleUrl, entryPoint = process.argv[1], mainFunction = main) {
+  if (entryPoint && path.resolve(entryPoint) === fileURLToPath(moduleUrl)) mainFunction()
+}
+
+runIfMain(import.meta.url)
 
 export {
+  createHeadingTranslations,
   createNavigationTranslation,
   findLocalizedReadmes,
+  main,
+  parseCanonicalHeadings,
   parseNavigationLinks,
+  runIfMain,
   validateReadme
 }

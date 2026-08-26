@@ -2,20 +2,57 @@
   "name": "awesome-sunshine",
   "version": "0.0.0",
   "description": "A Collection of Awesome Sunshine Scripts, Tools, Guides, and Companion Software",
+  "type": "module",
   "private": true,
+  "jest": {
+    "collectCoverageFrom": [
+      "scripts/**/*.mjs"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    },
+    "testEnvironment": "node",
+    "transform": {
+      "^.+\\.(js|mjs)$": "babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/(?!(github-slugger|@crowdin)/)"
+    ]
+  },
   "scripts": {
+    "build": "echo \"No build step required\"",
     "lint": "awesome-lint",
     "sync:readme-navigation-crowdin": "node scripts/sync-readme-navigation-crowdin.mjs",
+    "test": "npm-run-all test:unit test:report test:lint",
+    "test:lint": "eslint .",
+    "test:report": "jest --reporters=jest-junit",
+    "test:unit": "jest --coverage",
     "validate:readme-navigation": "node scripts/validate-readme-navigation.mjs"
   },
   "devDependencies": {
+    "@babel/core": "8.0.1",
+    "@babel/preset-env": "8.0.2",
     "@crowdin/crowdin-api-client": "1.56.3",
+    "@eslint/js": "10.0.1",
+    "@jest/globals": "30.4.1",
     "awesome-lint": "2.3.0",
-    "github-slugger": "2.0.0"
+    "babel-plugin-transform-import-meta": "3.0.0",
+    "eslint": "10.9.1",
+    "eslint-plugin-jest": "29.16.2",
+    "github-slugger": "2.0.0",
+    "globals": "17.11.0",
+    "jest": "30.4.2",
+    "jest-junit": "17.0.0",
+    "npm-run-all2": "9.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LizardByte/awesome-sunshine.git"
+    "url": "git+https://github.com/LizardByte/awesome-sunshine.git"
   },
   "keywords": [
     "awesome",

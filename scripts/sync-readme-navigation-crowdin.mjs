@@ -1,11 +1,14 @@
 import path from 'node:path'
 import process from 'node:process'
+import { fileURLToPath } from 'node:url'
 
 import { Client as CrowdinClient } from '@crowdin/crowdin-api-client'
 
 import {
+  createHeadingTranslations,
   createNavigationTranslation,
   findLocalizedReadmes,
+  parseCanonicalHeadings,
   parseNavigationLinks
 } from './validate-readme-navigation.mjs'
 
@@ -58,7 +61,25 @@ function createLanguageIds (locales, targetLanguages) {
   return languageIds
 }
 
-async function findNavigationString (crowdin) {
+function findHeadingSources (sourceStrings, navigation) {
+  const navigationLinks = parseNavigationLinks(navigation.text.split(/\r?\n/))
+
+  if (navigationLinks.length === 0) {
+    throw new Error('The Crowdin README navigation source string has no links')
+  }
+
+  return navigationLinks.map(link => {
+    const source = findOne(
+      sourceStrings,
+      `README heading source string for ${link.text}`,
+      item => !item.isHidden && parseCanonicalHeadings([`## ${item.text}`])[0]?.text === link.text
+    )
+    const canonical = parseCanonicalHeadings([`## ${source.text}`])[0]
+    return { canonical, source }
+  })
+}
+
+async function findReadmeStrings (crowdin) {
   const branches = await crowdin.sourceFilesApi.withFetchAll()
     .listProjectBranches(PROJECT_ID)
   const branch = findOne(data(branches), `Crowdin branch named ${BRANCH_NAME}`, item => {
@@ -73,13 +94,22 @@ async function findNavigationString (crowdin) {
 
   const strings = await crowdin.sourceStringsApi.withFetchAll()
     .listProjectStrings(PROJECT_ID, { fileId: readme.id })
+  const sourceStrings = data(strings)
+  const navigation = findOne(
+    sourceStrings,
+    `README navigation string with context ${NAVIGATION_CONTEXT}`,
+    item => item.context === NAVIGATION_CONTEXT
+  )
+  const headings = findHeadingSources(sourceStrings, navigation)
 
-  return findOne(data(strings), `README navigation string with context ${NAVIGATION_CONTEXT}`, item => {
-    return item.context === NAVIGATION_CONTEXT
-  })
+  return {
+    canonicalHeadings: headings.map(heading => heading.canonical),
+    headings: headings.map(heading => heading.source),
+    navigation
+  }
 }
 
-function localizedReadme (localeRoot, file, expectedHeadingCount, languageIds) {
+function localizedReadme (localeRoot, file, canonicalHeadings, languageIds) {
   const relativeFile = path.relative(localeRoot, file)
   const parts = relativeFile.split(path.sep)
 
@@ -91,9 +121,10 @@ function localizedReadme (localeRoot, file, expectedHeadingCount, languageIds) {
   if (!languageId) throw new Error(`No Crowdin language mapping for locale/${parts[0]}`)
 
   return {
-    expected: createNavigationTranslation(file, expectedHeadingCount),
     file: `locale/${parts.join('/')}`,
-    languageId
+    headings: createHeadingTranslations(file, canonicalHeadings),
+    languageId,
+    navigation: createNavigationTranslation(file, canonicalHeadings)
   }
 }
 
@@ -146,53 +177,102 @@ async function synchronizeTranslation (crowdin, stringId, target, dryRun) {
   return actions
 }
 
-async function main () {
-  const token = process.env.CROWDIN_TOKEN
+function actionVerb (actions, dryRun) {
+  if (actions.length === 0) return 'Checked'
+  if (dryRun) return 'Would update'
+  return 'Updated'
+}
+
+function logActions (target, label, actions, dryRun) {
+  const status = actions.length === 0 ? 'already correct and approved' : actions.join(', ')
+  console.log(`${actionVerb(actions, dryRun)} ${target.file} ${label}: ${status}`)
+}
+
+function createCrowdinClient (token) {
+  return new CrowdinClient({ token })
+}
+
+async function main ({
+  clientFactory = createCrowdinClient,
+  crowdin: providedCrowdin,
+  dryRun = process.argv.includes('--dry-run'),
+  findStrings = findReadmeStrings,
+  root = process.cwd(),
+  token = process.env.CROWDIN_TOKEN
+} = {}) {
   if (!token) throw new Error('CROWDIN_TOKEN is required')
 
-  const dryRun = process.argv.includes('--dry-run')
-  const root = process.cwd()
   const localeRoot = path.join(root, 'locale')
-  const crowdin = new CrowdinClient({ token })
-  const [projectResponse, navigationString] = await Promise.all([
+  const crowdin = providedCrowdin ?? clientFactory(token)
+  const [projectResponse, readmeStrings] = await Promise.all([
     crowdin.projectsGroupsApi.getProject(PROJECT_ID),
-    findNavigationString(crowdin)
+    findStrings(crowdin)
   ])
-  const expectedHeadingCount = parseNavigationLinks(navigationString.text.split(/\r?\n/)).length
+  const canonicalHeadings = readmeStrings.canonicalHeadings
+  const sourceLinkCount = parseNavigationLinks(readmeStrings.navigation.text.split(/\r?\n/)).length
 
-  if (expectedHeadingCount === 0) {
-    throw new Error('The Crowdin README navigation source string has no links')
+  if (sourceLinkCount !== canonicalHeadings.length) {
+    throw new Error(
+      `The Crowdin README navigation source has ${sourceLinkCount} links; expected ${canonicalHeadings.length}`
+    )
   }
 
   const readmes = findLocalizedReadmes(localeRoot)
   const locales = readmes.map(file => path.relative(localeRoot, path.dirname(file)))
   const languageIds = createLanguageIds(locales, projectResponse.data.targetLanguages)
   const targets = readmes
-    .map(file => localizedReadme(localeRoot, file, expectedHeadingCount, languageIds))
+    .map(file => localizedReadme(localeRoot, file, canonicalHeadings, languageIds))
     .sort((left, right) => left.file.localeCompare(right.file, 'en'))
 
   if (targets.length === 0) throw new Error('No localized README files were found')
 
   for (const target of targets) {
-    const actions = await synchronizeTranslation(
+    for (const [index, heading] of target.headings.entries()) {
+      const actions = await synchronizeTranslation(
+        crowdin,
+        readmeStrings.headings[index].id,
+        { expected: heading, languageId: target.languageId },
+        dryRun
+      )
+      logActions(target, `heading ${index + 1}`, actions, dryRun)
+    }
+
+    const navigationActions = await synchronizeTranslation(
       crowdin,
-      navigationString.id,
-      target,
+      readmeStrings.navigation.id,
+      { expected: target.navigation, languageId: target.languageId },
       dryRun
     )
-    const status = actions.length === 0 ? 'already correct and approved' : actions.join(', ')
-    let verb = 'Updated'
-    if (actions.length === 0) verb = 'Checked'
-    else if (dryRun) verb = 'Would update'
-    console.log(`${verb} ${target.file}: ${status}`)
+    logActions(target, 'navigation', navigationActions, dryRun)
   }
 
-  console.log(`${dryRun ? 'Checked' : 'Synchronized'} ${targets.length} localized README navigation translations.`)
+  console.log(`${dryRun ? 'Checked' : 'Synchronized'} ${targets.length} localized README heading and navigation translations.`)
 }
 
-try {
-  await main()
-} catch (error) {
-  console.error(error)
-  process.exitCode = 1
+async function run (mainFunction = main) {
+  try {
+    await mainFunction()
+  } catch (error) {
+    console.error(error)
+    process.exitCode = 1
+  }
+}
+
+function runIfMain (moduleUrl, entryPoint = process.argv[1], runFunction = run) {
+  if (entryPoint && path.resolve(entryPoint) === fileURLToPath(moduleUrl)) runFunction()
+}
+
+runIfMain(import.meta.url)
+
+export {
+  actionVerb,
+  createCrowdinClient,
+  createLanguageIds,
+  findHeadingSources,
+  findReadmeStrings,
+  localizedReadme,
+  main,
+  run,
+  runIfMain,
+  synchronizeTranslation
 }
