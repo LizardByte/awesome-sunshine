@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Nástroj s grafickým uživatelským rozhraním, který lze integrovat s jiným softwarem, například Sunshine, pro efektivní manipulaci s implementacemi ukázkového ovladače nepřímého zobrazení (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Ovladač virtuálního displeje systému Windows pro přidání více virtuálních monitorů do vašeho počítače! Pro Win10+. Funguje s VR, obs, streamovacím softwarem atd.
 
+## :video_hra: Virtuální hry
+
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - User-mode virtual gamepads pro Windows. Přidá další typy gamepadů do Windows, například Xbox One|Série, DualSense, Nintendo Switch Pro, a další budou k dispozici v budoucnu.
+
 ## 📜 Skripty
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizace pro vzdálené streamování pomocí fiktivního konektoru v systému Linux.
