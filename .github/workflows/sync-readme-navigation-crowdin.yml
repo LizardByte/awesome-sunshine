@@ -5,19 +5,28 @@ permissions:
 
 on:
   workflow_dispatch:
-  push:
+  pull_request:
     branches:
-      - l10n_master
+      - master
     paths:
       - 'locale/**/README.md'
 
 concurrency:
-  group: crowdin-readme-navigation-sync
-  cancel-in-progress: false
+  group: crowdin-readme-navigation-sync-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   sync:
-    if: github.repository_owner == 'LizardByte'
+    if: >-
+      github.repository_owner == 'LizardByte' &&
+      (
+        github.event_name == 'workflow_dispatch' ||
+        (
+          github.event.pull_request.user.login == 'LizardByte-bot' &&
+          github.event.pull_request.head.repo.full_name == github.repository &&
+          github.head_ref == 'l10n_master'
+        )
+      )
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
