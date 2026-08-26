@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - Một công cụ giao diện người dùng (GUI) có thể tích hợp với các phần mềm khác như Sunshine để thao tác hiệu quả với các bản mẫu trình điều khiển hiển thị gián tiếp (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Driver màn hình ảo cho Windows giúp thêm nhiều màn hình ảo vào máy tính của bạn! Dành cho Windows 10 trở lên. Hỗ trợ VR, OBS, phần mềm phát trực tiếp, v.v.
 
+## 🎮 Tay cầm chơi game ảo
+
+- [Trình điều khiển HID ảo](https://github.com/LizardByte/libvirtualhid) - Bộ điều khiển trò chơi ảo ở chế độ người dùng dành cho Windows. Bổ sung thêm nhiều loại tay cầm chơi game cho Windows, chẳng hạn như Xbox One|Series, DualSense, Nintendo Switch Pro, và nhiều loại khác sẽ được bổ sung trong tương lai.
+
 ## 📜 Scripts
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Tự động hóa streaming từ xa bằng cách sử dụng Dummy Plug trên Linux.
