@@ -70,6 +70,10 @@
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - GUI инструмент, который может интегрироваться с другими программами вроде Sunshine для эффективной работы с реализациями Indirect Display Driver Sample (IddSample).
 - [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - драйвер виртуального дисплея Windows для добавления нескольких виртуальных мониторов в ваш ПК! Для Win10+. Работает с VR, OBS, стриминговым ПО и т.д.
 
+## 🎮 виртуальные игровые площадки
+
+- [Виртуальный HID драйвер](https://github.com/LizardByte/libvirtualhid) - виртуальные игровые страницы для Windows. Добавляет больше типов геймпадов для Windows, таких как Xbox One|Series, DualSense, Nintendo Switch Pro, и многое другое.
+
 ## 📜 Скрипты
 
 - [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - автоматизация стриминга с использованием dummy-заглушки в Linux.
@@ -90,6 +94,5 @@
 
 ## Внести вклад
 
-Помощь приветствуется! Но, пожалуйста, следуйте инструкциям LizardByte
-[Вклад в руководство](https://docs.lizardbyte.dev/latest/developers/contributing.html)
+Помощь приветствуется! Но, пожалуйста, следуйте [инструкциям LizardByte](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 при участии в этом проекте.
