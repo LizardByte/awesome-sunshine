@@ -1,0 +1,32 @@
+---
+# This workflow is centrally managed in https://github.com/LizardByte/.github/
+# Don't make changes to this file in this repo as they will be overwritten with changes made to the same file in
+# the above-mentioned repo.
+
+# To use, add the `npm-pkg` repository label to identify repositories that should trigger this workflow.
+
+# This will run standard CI for Node.js/npm/TypeScript projects.
+
+name: CI-Node
+permissions: {}
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+concurrency:
+  group: "${{ github.workflow }}-${{ github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  call-ci-node:
+    name: CI-Node
+    uses: LizardByte/.github/.github/workflows/__call-ci-node.yml@master
+    if: ${{ github.repository != 'LizardByte/.github' }}
+    permissions:
+      contents: write  # required for release_setup action
+    secrets:
+      CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+      GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
