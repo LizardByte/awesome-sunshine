@@ -73,27 +73,27 @@
 
 ## 🎮 Virtuální hry
 
-- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - User-mode virtual gamepads pro Windows. Přidá další typy gamepadů do Windows, například Xbox One|Série, DualSense, Nintendo Switch Pro, a další budou k dispozici v budoucnu.
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) – Virtuální gamepady v uživatelském režimu pro Windows. Rozšiřuje nabídku typů herních ovladačů ve Windows o modely jako Xbox One|Series, DualSense, Nintendo Switch Pro a další, které budou přidány v budoucnu.
 
 ## 📜 Skripty
 
-- [Dummy Plug Automation](https://github.com/XenHat/dummy-plug-automation) - Automatizace pro vzdálené streamování pomocí fiktivního konektoru v systému Linux.
-- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) - Nvidia's Frame Rate Limiter.
-- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) - Přepínač Nvidia G-Sync.
-- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) - Přepínač Nvidia V-Sync.
-- [Windows Display Automation](https://github.com/fehbari/sunshine-scripts) - Automatizuje změny zobrazení systému, například zapnutí virtuálního displeje, nastavení rozlišení, obnovovací frekvence, HDR, G-Sync a limitů FPS pro optimální streamování.
+- [Automatizace pomocí fiktivní zástrčky](https://github.com/XenHat/dummy-plug-automation) – Automatizace vzdáleného streamování pomocí fiktivní zástrčky v systému Linux.
+- [FrlToggle](https://github.com/FrogTheFrog/frl-toggle) – Omezovač snímkové frekvence od Nvidie.
+- [GsyncToggle](https://github.com/FrogTheFrog/gsync-toggle) – přepínač technologie G-Sync od Nvidie.
+- [VsyncToggle](https://github.com/xanderfrangos/vsync-toggle) – Přepínač funkce V-Sync od Nvidie.
+- [Automatizace nastavení displeje ve Windows](https://github.com/fehbari/sunshine-scripts) – Automatizuje změny nastavení displeje, jako je zapnutí virtuálního displeje, úprava rozlišení, obnovovací frekvence, HDR, G-Sync a omezení FPS pro optimální streamování.
 
 ## 🧪 Testování
 
-- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - Oficiální tester gamepadů LizardByte.
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - Tento nástroj zobrazuje aktuální stav vašich gamepadů, vstupů, joysticků a všeho ostatního, co lze nahlásit pomocí HTML5 Gamepad Api.
+- [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) – Oficiální tester gamepadů od LizardByte.
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) – Tento nástroj zobrazuje aktuální stav vašich gamepadů, vstupních zařízení, joysticků a všeho ostatního, co lze nahlásit prostřednictvím rozhraní HTML5 Gamepad API.
 
 ## 📓 Průvodci
 
-- [LizardByte docs](https://docs.lizardbyte.dev/projects/sunshine) - Oficiální dokumentace pro Sunshine.
-- [LizardByte blog](https://app.lizardbyte.dev/blog) - Oficiální blog LizardByte s oficiálními a komunitními průvodci pro Sunshine.
+- [Dokumentace LizardByte](https://docs.lizardbyte.dev/projects/sunshine) – Oficiální dokumentace k programu Sunshine.
+- [Blog LizardByte](https://app.lizardbyte.dev/blog) – Oficiální blog LizardByte, kde najdete oficiální návody i návody od komunity k Sunshine.
 
 ## Přispějte
 
-Příspěvky jsou vítány! Při přispívání do tohoto projektu však prosím dodržujte pokyny LizardByte
+Příspěvky vítáme! Při přispívání do tohoto projektu se však prosím řiďte pokyny pro přispěvatele LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html).
