@@ -35,16 +35,16 @@
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - UWP/Xbox (One/Series) 客户端。
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - PS Vita客户端。
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - 任天堂切换客户端。
-- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Nintendo Wii U client.
-- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 新任天堂 3DS 客户端。
+- [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - 任天堂 Wii U 客户端。
+- [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - 新任天堂 3 DS 客户端。
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - LG webOS 电视客户端。
-- [三星Tizen TV](https://github.com/brightcraft/moonlight-tizen) - 三星Tizen TV的月亮客户端。
+- [三星 Tizen TV](https://github.com/brightcraft/moonlight-tizen) - 三星 Tizen TV 的 Moonlight 客户端。
 
 ## 🔧 工具
 
-- [云端启动器](https://github.com/PierreBeucher/cloudypad) - 在云端部署Sunshine：Paperspace、AWS、Azure、Google 云等等。
+- [云端启动器](https://github.com/PierreBeucher/cloudypad) - 在云端部署 Sunshine：Paperspace、AWS、Azure、Google 云等等。
 - [GSMS](https://github.com/LizardByte/GSMS) - 将游戏和应用程序从 GeForce Experience 迁移到 Sunshine 。
-- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - 这个脚本列出了来自Lutris、英雄和/或瓶子的游戏，将它们添加到Sunshine，并可选择从 SteamGridDB 下载游戏覆盖面。
+- [LutrisToSunshine](https://github.com/Arbitrate3280/LutrisToSunshine) - 这个脚本列出了来自 Lutris、英雄和/或瓶子的游戏，将它们添加到 Sunshine，并可选择从 SteamGridDB 下载游戏覆盖面。
 - [NeonSunshine](https://github.com/NeonLightning/NeonSunshine) - 从 SteamGridDB 添加和排序带有封面下载的游戏
 - [SunshineGameFinder](https://github.com/JMTK/SunshineGameFinder) - 从通用游戏安装路径添加游戏到Sunshine。
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - 用于 Sunshine / Moonlight / Playnite 游戏流的实用工具。
@@ -69,7 +69,7 @@
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 可与 VR、OBS、Sunshine 和/或任何桌面共享软件配合使用。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虚拟显示器驱动程序，可为电脑添加多个虚拟显示器！ 适用于 Win10+。 可与 VR、obs、串流软件等配合使用。
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虚拟显示器驱动程序，可为电脑添加多个虚拟显示器！ 适用于 Win 10+。 可与 VR、obs、串流软件等配合使用。
 
 ## 🎮 Virtual Gamepads
 
@@ -86,7 +86,7 @@
 ## 🧪 测试
 
 - [LizardByte/Gamepad-Tester](https://app.lizardbyte.dev/gamepad-tester) - 来自官方 (LizardByte) 的游戏手柄测试器。
-- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - 该工具可显示游戏手柄、输入、操纵杆以及通过 HTML5 Gamepad API 可报告的其他设备的当前状态。
+- [HardwareTester/GamepadTester](https://hardwaretester.com/gamepad) - 该工具可显示游戏手柄、输入、操纵杆以及通过 HTML 5 Gamepad API 可报告的其他设备的当前状态。
 
 ## 📓 参考文档
 
