@@ -35,8 +35,8 @@
     "validate:readme-navigation": "node scripts/validate-readme-navigation.mjs"
   },
   "devDependencies": {
-    "@babel/core": "8.0.1",
-    "@babel/preset-env": "8.0.2",
+    "@babel/core": "8.0.5",
+    "@babel/preset-env": "8.0.5",
     "@crowdin/crowdin-api-client": "1.57.0",
     "@eslint/js": "10.0.1",
     "@jest/globals": "30.5.1",
