@@ -3,7 +3,7 @@
 # Don't make changes to this file in this repo as they will be overwritten with changes made to the same file in
 # the above-mentioned repo.
 
-# To use, add the `npm-pkg` repository label to identify repositories that should trigger this workflow.
+# To use, add the `nodejs` repository topic to identify repositories that should trigger this workflow.
 
 # This will run standard CI for Node.js/npm/TypeScript projects.
 
