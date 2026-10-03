@@ -52,8 +52,8 @@
 
 ## 🛒 遊戲商店
 
-- [Epic Games](https://www.epicgames.com) - 下載和玩各種類型的 PC 遊戲。 他們也有 Mods、DLC 和免費遊戲！ 適合所有人的遊戲。
-- [GOG](https://www.gog.com) - 在 Windows、Mac 和 Linux 上下載最好的經典和新遊戲。 大量精選書籍，不含 DRM，還有免費好康。
+- [Epic Games](https://www.epicgames.com) - 下載和玩各種類型的 PC 遊戲。他們也有 Mods、DLC 和免費遊戲！適合所有人的遊戲。
+- [GOG](https://www.gog.com) - 在 Windows、Mac 和 Linux 上下載最好的經典和新遊戲。大量精選書籍，不含 DRM，還有免費好康。
 - [Steam](https://store.steampowered.com) - Steam 是玩遊戲、討論遊戲和創作遊戲的終極目的地。
 
 ## 💠 前端
@@ -64,16 +64,16 @@
 
 ## 💻 虛擬顯示器
 
-- [evdi](https://github.com/DisplayLink/evdi) - 可管理多螢幕的 Linux 核心模組。 它基本上是一個虛擬顯示器，您可以新增、移除和接收螢幕更新。
+- [evdi](https://github.com/DisplayLink/evdi) - 可管理多螢幕的 Linux 核心模組。它基本上是一個虛擬顯示器，您可以新增、移除和接收螢幕更新。
 - [krfb](https://invent.kde.org/network/krfb) —— 一款 KDE Plasma (Wayland) 命令列工具，用於建立無顯示器的虛擬顯示器，可透過 VNC 經由網路存取。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 獨立 Parsec 虛擬顯示器。
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 在您的 Windows 10/11 裝置上新增虛擬顯示器！ 可與 VR、OBS、Sunshine 和/或任何桌面分享軟體搭配使用。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 在您的 Windows 10/11 裝置上新增虛擬顯示器！可與 VR、OBS、Sunshine 和/或任何桌面分享軟體搭配使用。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一個 GUI 工具，可與 Sunshine 等其他軟體整合，以有效率地操作 Indirect Display Driver Sample (IddSample) 實作。
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虛擬顯示器驅動程式，可為電腦新增多個虛擬顯示器！ 適用於 Win10+。 可與 VR、obs、串流軟體等搭配使用。
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虛擬顯示器驅動程式，可為電腦新增多個虛擬顯示器！適用於 Win10+。可與 VR、obs、串流軟體等搭配使用。
 
 ## 🎮 虛擬遊戲手把
 
-- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - 適用於 Windows 的使用者模式虛擬遊戲控制器。 為 Windows 新增更多手把類型，例如 Xbox One|Series、DualSense、Nintendo Switch Pro 等，未來還將陸續新增更多款式。
+- [Virtual HID Driver](https://github.com/LizardByte/libvirtualhid) - 適用於 Windows 的使用者模式虛擬遊戲控制器。為 Windows 新增更多手把類型，例如 Xbox One|Series、DualSense、Nintendo Switch Pro 等，未來還將陸續新增更多款式。
 
 ## 📜 腳本
 
@@ -95,6 +95,6 @@
 
 ## 貢獻
 
-歡迎投稿！ 但是，在為本專案貢獻時，請遵循 LizardByte
+歡迎投稿！但是，在為本專案貢獻時，請遵循 LizardByte
 [貢獻指南](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 。
