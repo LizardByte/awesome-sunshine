@@ -53,7 +53,7 @@
 ## 🛒 ゲームストア
 
 - [Epic Games](https://www.epicgames.com) - すべてのジャンルのPCゲームをダウンロードしてプレイできます。 Mod、DLC、そして無料ゲームもあります! すべての人々のためのゲーム。
-- [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。 無料あり、DRMフリーの大量タイトルのセレクション。
+- [GOG](https://www.gog.com) - 最高のクラシックゲームと新しいゲームをダウンロードします。Windows、Mac、Linux対応。無料あり、DRMフリーの大量タイトルのセレクション。
 - [Steam](https://store.steampowered.com) - Steamはゲームをプレイし、語り、創造する人々のための究極のコミュニティです。
 
 ## 💠 フロントエンド
@@ -64,7 +64,7 @@
 
 ## 💻 バーチャルディスプレイ
 
-- [evdi](https://github.com/DisplayLink/evdi) - 複数の画面の管理を可能にするLinuxカーネルモジュール。 これは、基本的には、追加、削除、および画面の更新を受信することができる仮想ディスプレイです。
+- [evdi](https://github.com/DisplayLink/evdi) - 複数の画面の管理を可能にするLinuxカーネルモジュール。これは、基本的には、追加、削除、および画面の更新を受信することができる仮想ディスプレイです。
 - [krfb](https://invent.kde.org/network/krfb) - VNC 経由でネットワーク上でアクセス可能な、ヘッドレス仮想ディスプレイを作成する KDE プラズマ(Wayland)コマンドラインユーティリティ。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - Standalone Parsecバーチャルディスプレイ。
 - [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Windows 10/11 デバイスに仮想モニターを追加します！ VR、OBS、Sunshine、および/または任意のデスクトップ共有ソフトウェアで動作します。
@@ -95,6 +95,6 @@
 
 ## 貢献
 
-コントリビューション(貢献)をお待ちしています！ コントリビューション歓迎！ ただし、このプロジェクトに貢献するときは、LizardByte
+コントリビューション(貢献)をお待ちしています！コントリビューション歓迎！ ただし、このプロジェクトに貢献するときは、LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 に沿って行ってください。

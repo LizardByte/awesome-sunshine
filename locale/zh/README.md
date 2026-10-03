@@ -52,8 +52,8 @@
 
 ## 🛒 游戏商店
 
-- [Epic Games](https://www.epicgames.com) - 下载各种 PC 游戏。 他们也有模组，DLC和免费游戏！ 每个人的游戏。
-- [GOG](https://www.gog.com) - 下载Windows、 Mac 和 Linux 上的最佳经典和新游戏。 大量的头衔，免除DRM，配备免费的天花。
+- [Epic Games](https://www.epicgames.com) - 下载各种 PC 游戏。他们也有模组，DLC和免费游戏！每个人的游戏。
+- [GOG](https://www.gog.com) - 下载Windows、 Mac 和 Linux 上的最佳经典和新游戏。大量的头衔，免除DRM，配备免费的天花。
 - [Steam](https://store.steampowered.com) - Steam 是玩游戏、讨论游戏和创建游戏的终极目的地。
 
 ## 💠 前端
@@ -64,16 +64,16 @@
 
 ## 💻 虚拟显示
 
-- [evdi](https://github.com/DisplayLink/evdi) - 允许管理多个屏幕的Linux内核模块。 它基本上是一个您可以添加、删除和接收屏幕更新的虚拟显示。
+- [evdi](https://github.com/DisplayLink/evdi) - 允许管理多个屏幕的Linux内核模块。它基本上是一个您可以添加、删除和接收屏幕更新的虚拟显示。
 - [krfb](https://invent.kde.org/network/krfb) - KDE Plasma (Wayland) 命令行工具，创建一个无头的虚拟显示器，可通过 VNC 通过网络访问。
 - [parsec-vdd](https://github.com/nomi-san/parsec-vdd) - 独立parsec 虚拟显示。
-- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！ 可与 VR、OBS、Sunshine 和/或任何桌面共享软件配合使用。
+- [Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - 为 Windows 10/11 设备添加虚拟显示器！可与 VR、OBS、Sunshine 和/或任何桌面共享软件配合使用。
 - [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 一个GUI 工具，它可以与其他软件集成，例如Sunshine ，高效地处理间接显示示例(IddSampl) 实现的操作。
-- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虚拟显示器驱动程序，可为电脑添加多个虚拟显示器！ 适用于 Win 10+。 可与 VR、obs、串流软件等配合使用。
+- [virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - Windows 虚拟显示器驱动程序，可为电脑添加多个虚拟显示器！适用于 Win 10+。可与 VR、obs、串流软件等配合使用。
 
 ## 🎮 Virtual Gamepads
 
-- [虚拟HID 驱动器](https://github.com/LizardByte/libvirtualhid) - Windows的用户模式虚拟游戏。 在Windows添加更多的游戏手表类型，如Xbox One|Series, DualSense, Nintendo Switch Pro, 以及更多将来会出现。
+- [虚拟HID 驱动器](https://github.com/LizardByte/libvirtualhid) - Windows的用户模式虚拟游戏。在Windows添加更多的游戏手表类型，如Xbox One|Series, DualSense, Nintendo Switch Pro, 以及更多将来会出现。
 
 ## 📜 脚本
 
@@ -95,6 +95,6 @@
 
 ## 贡献
 
-欢迎为本项目添砖加瓦！ 欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
+欢迎为本项目添砖加瓦！欢迎贡献！ 但是，在向本项目投稿时，请遵循 LizardByte
 [Contributing Guidelines](https://docs.lizardbyte.dev/latest/developers/contributing.html)
 。
