@@ -166,9 +166,9 @@ async function synchronizeTranslation (crowdin, stringId, target, dryRun) {
     translation = response.data
   }
 
-  for (const approval of staleApprovals) {
-    await translationsApi.removeApproval(PROJECT_ID, approval.id)
-  }
+  await Promise.all(staleApprovals.map(approval => {
+    return translationsApi.removeApproval(PROJECT_ID, approval.id)
+  }))
 
   if (needsApproval) {
     await translationsApi.addApproval(PROJECT_ID, { translationId: translation.id })
@@ -226,8 +226,9 @@ async function main ({
 
   if (targets.length === 0) throw new Error('No localized README files were found')
 
-  for (const target of targets) {
-    for (const [index, heading] of target.headings.entries()) {
+  // The Crowdin client limits concurrent HTTP requests across these independent updates.
+  await Promise.all(targets.map(async target => {
+    await Promise.all(target.headings.map(async (heading, index) => {
       const actions = await synchronizeTranslation(
         crowdin,
         readmeStrings.headings[index].id,
@@ -235,7 +236,7 @@ async function main ({
         dryRun
       )
       logActions(target, `heading ${index + 1}`, actions, dryRun)
-    }
+    }))
 
     const navigationActions = await synchronizeTranslation(
       crowdin,
@@ -244,7 +245,7 @@ async function main ({
       dryRun
     )
     logActions(target, 'navigation', navigationActions, dryRun)
-  }
+  }))
 
   console.log(`${dryRun ? 'Checked' : 'Synchronized'} ${targets.length} localized README heading and navigation translations.`)
 }
@@ -259,10 +260,11 @@ async function run (mainFunction = main) {
 }
 
 function runIfMain (moduleUrl, entryPoint = process.argv[1], runFunction = run) {
-  if (entryPoint && path.resolve(entryPoint) === fileURLToPath(moduleUrl)) runFunction()
+  if (entryPoint && path.resolve(entryPoint) === fileURLToPath(moduleUrl)) return runFunction()
 }
 
-runIfMain(import.meta.url)
+// run handles failures by reporting them and setting the exit code.
+void runIfMain(import.meta.url)
 
 export {
   actionVerb,

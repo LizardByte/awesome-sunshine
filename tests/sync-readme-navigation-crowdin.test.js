@@ -182,6 +182,45 @@ describe('Crowdin README synchronization', () => {
     expect(api.addApproval).toHaveBeenCalledWith(606145, { translationId: 99 })
   })
 
+  it('removes stale approvals concurrently before approving the replacement', async () => {
+    const { api, crowdin } = createCrowdin({
+      approvals: { 10: [{ id: 2, translationId: 1 }, { id: 3, translationId: 2 }] }
+    })
+    const removals = new Map([[2, Promise.withResolvers()], [3, Promise.withResolvers()]])
+    api.removeApproval.mockImplementation((_project, id) => removals.get(id).promise)
+    const synchronization = synchronizeTranslation(
+      crowdin, 10, { expected: 'expected', languageId: 'fr' }, false
+    )
+
+    try {
+      await new Promise(resolve => setImmediate(resolve))
+      expect(api.removeApproval).toHaveBeenCalledWith(606145, 2)
+      expect(api.removeApproval).toHaveBeenCalledWith(606145, 3)
+      expect(api.addApproval).not.toHaveBeenCalled()
+
+      removals.get(2).resolve()
+      await new Promise(resolve => setImmediate(resolve))
+      expect(api.addApproval).not.toHaveBeenCalled()
+    } finally {
+      for (const removal of removals.values()) removal.resolve()
+      await synchronization
+    }
+    expect(api.addApproval).toHaveBeenCalledWith(606145, { translationId: 99 })
+  })
+
+  it('does not approve a replacement if stale-approval removal fails', async () => {
+    const { api, crowdin } = createCrowdin({
+      approvals: { 10: [{ id: 2, translationId: 1 }, { id: 3, translationId: 2 }] }
+    })
+    api.removeApproval.mockRejectedValueOnce(new Error('removal failed'))
+
+    await expect(synchronizeTranslation(
+      crowdin, 10, { expected: 'expected', languageId: 'fr' }, false
+    )).rejects.toThrow('removal failed')
+    expect(api.removeApproval).toHaveBeenCalledTimes(2)
+    expect(api.addApproval).not.toHaveBeenCalled()
+  })
+
   it('approves an exact translation and removes only stale approvals', async () => {
     const unapproved = createCrowdin({ translations: { 10: [{ id: 4, text: 'expected' }] } })
     await expect(synchronizeTranslation(
@@ -250,6 +289,55 @@ describe('Crowdin README synchronization', () => {
     )
   })
 
+  it('synchronizes locales and headings concurrently before each navigation block', async () => {
+    const root = temporaryDirectory()
+    const languages = ['de', 'fr'].map(id => ({ id, twoLettersCode: id }))
+    for (const language of languages) {
+      const directory = path.join(root, 'locale', language.id)
+      fs.mkdirSync(directory, { recursive: true })
+      fs.writeFileSync(path.join(directory, 'README.md'), '## 📺 Clients\n## 📜 Scripts\n## Contribute\n')
+    }
+    const { api, crowdin } = createCrowdin({ languages })
+    crowdin.sourceStringsApi.listProjectStrings.mockResolvedValue(response(
+      { id: 10, isHidden: false, text: '📺 Clients' },
+      { id: 11, isHidden: false, text: '📜 Scripts' },
+      {
+        context: navigationContext,
+        id: 20,
+        text: '<a href="#-clients">Clients</a>\n<a href="#-scripts">Scripts</a>'
+      }
+    ))
+    const headings = Promise.withResolvers()
+    api.listStringTranslations.mockImplementation((_project, stringId) => {
+      return stringId === 20 ? Promise.resolve(response()) : headings.promise
+    })
+    jest.spyOn(console, 'log').mockImplementation(() => {})
+    const synchronization = main({ crowdin, dryRun: true, root, token: 'test-token' })
+
+    try {
+      await new Promise(resolve => setImmediate(resolve))
+      expect(api.listStringTranslations.mock.calls).toEqual(expect.arrayContaining([
+        [606145, 10, 'de'],
+        [606145, 11, 'de'],
+        [606145, 10, 'fr'],
+        [606145, 11, 'fr']
+      ]))
+      expect(api.listStringTranslations).toHaveBeenCalledTimes(4)
+      expect(console.log).not.toHaveBeenCalled()
+    } finally {
+      headings.resolve(response())
+      await synchronization
+    }
+    expect(api.listStringTranslations).toHaveBeenCalledWith(606145, 20, 'de')
+    expect(api.listStringTranslations).toHaveBeenCalledWith(606145, 20, 'fr')
+    expect(console.log).toHaveBeenLastCalledWith(
+      'Checked 2 localized README heading and navigation translations.'
+    )
+    expect(api.addTranslation).not.toHaveBeenCalled()
+    expect(api.removeApproval).not.toHaveBeenCalled()
+    expect(api.addApproval).not.toHaveBeenCalled()
+  })
+
   it('rejects missing credentials and an empty locale directory', async () => {
     await expect(main({ token: '' })).rejects.toThrow('CROWDIN_TOKEN is required')
     const root = temporaryDirectory()
@@ -288,11 +376,22 @@ describe('Crowdin README synchronization', () => {
     }
   })
 
-  it('runs synchronization only for its command-line entry point', () => {
+  it('returns synchronization completion only for its command-line entry point', async () => {
     const entryPoint = path.join(temporaryDirectory(), 'sync.mjs')
-    const runFunction = jest.fn()
-    runIfMain(pathToFileURL(entryPoint), entryPoint, runFunction)
-    runIfMain(pathToFileURL(entryPoint), '', runFunction)
+    const completion = Promise.resolve('complete')
+    const runFunction = jest.fn(() => completion)
+    expect(runIfMain(pathToFileURL(entryPoint), entryPoint, runFunction)).toBe(completion)
+    await expect(completion).resolves.toBe('complete')
+    expect(runIfMain(pathToFileURL(entryPoint), '', runFunction)).toBeUndefined()
     expect(runFunction).toHaveBeenCalledTimes(1)
+  })
+
+  it('returns synchronization failures to the entry-point caller', async () => {
+    const entryPoint = path.join(temporaryDirectory(), 'sync.mjs')
+    const runFunction = jest.fn(async () => { throw new Error('entry-point failure') })
+
+    await expect(runIfMain(pathToFileURL(entryPoint), entryPoint, runFunction)).rejects.toThrow(
+      'entry-point failure'
+    )
   })
 })
