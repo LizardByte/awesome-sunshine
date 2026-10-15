@@ -50,7 +50,7 @@
 - [sunshine_utils](https://github.com/designer-living/sunshine_utils) - Sunshine/Moonlight/Playnite 에서 게임 스트리밍에 사용하기 위한 유틸리티입니다.
 - [vuinputd](https://github.com/joleuger/vuinputd) - Linux에서 Sunshine에 컨테이너 친화적인 입력 처리를 활성화합니다.
 
-## 🎮 게임 스토어
+## 🛒 게임 스토어
 
 - [Epic Games](https://www.epicgames.com) - 모든 장르의 PC 게임을 다운로드하고 플레이하세요. 모드, DLC, 무료 게임도 있습니다! Games For Everyone.
 - [GOG](https://www.gog.com) - Windows, Mac 및 Linux에서 최고의 클래식 게임과 새로운 게임을 다운로드하세요. DRM이 없는 방대한 타이틀과 무료 혜택이 제공됩니다.
