@@ -93,7 +93,7 @@
 - [LizardByte 문서](https://docs.lizardbyte.dev/projects/sunshine) - Sunshine 공식 문서입니다.
 - [LizardByte 블로그](https://app.lizardbyte.dev/blog) - Sunshine 공식 및 커뮤니티 가이드를 제공하는 LizardByte 공식 블로그입니다.
 
-## ✏️ 기여
+## 기여
 
 기여는 언제나 환영이에요! 단, 이 프로젝트에 기여하실 때는 LizardByte
 [기여 가이드라인](https://docs.lizardbyte.dev/latest/developers/contributing.html)을 준수해 주세요.
