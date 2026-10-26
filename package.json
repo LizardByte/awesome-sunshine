@@ -35,9 +35,9 @@
     "validate:readme-navigation": "node scripts/validate-readme-navigation.mjs"
   },
   "devDependencies": {
-    "@babel/core": "8.0.7",
+    "@babel/core": "8.0.9",
     "@babel/preset-env": "8.0.7",
-    "@crowdin/crowdin-api-client": "1.59.1",
+    "@crowdin/crowdin-api-client": "1.59.2",
     "@eslint/js": "10.0.1",
     "@jest/globals": "30.5.2",
     "awesome-lint": "2.3.0",
@@ -48,7 +48,7 @@
     "globals": "17.13.0",
     "jest": "30.5.2",
     "jest-junit": "17.0.0",
-    "npm-run-all2": "9.0.3"
+    "npm-run-all2": "9.0.4"
   },
   "repository": {
     "type": "git",
