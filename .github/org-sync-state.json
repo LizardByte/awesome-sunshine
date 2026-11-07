@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "org-sync",
+  "files": {
+    ".github/dependabot.yml": {
+      "mode": "sync",
+      "sha": "0b364513353fb5e5ebc5ba4e7e76c987229b28c0",
+      "permissions": "100644"
+    },
+    ".github/semantic.yml": {
+      "mode": "sync",
+      "sha": "92d97a741e8c6f2de6258df8bd25a4e32e274b51",
+      "permissions": "100644"
+    },
+    ".github/workflows/_ci-node.yml": {
+      "mode": "sync",
+      "sha": "c3c24933e7c7f4ad5daaa26769b1fb1a36019989",
+      "permissions": "100644"
+    },
+    ".github/workflows/_codeql.yml": {
+      "mode": "sync",
+      "sha": "5569a2ed7c0b3129613878e3e0550e1ef377d115",
+      "permissions": "100644"
+    },
+    ".github/workflows/_common-lint.yml": {
+      "mode": "sync",
+      "sha": "276fca5110ca2748a5a6391769e93e647d0dbef7",
+      "permissions": "100644"
+    },
+    ".github/workflows/_top-issues.yml": {
+      "mode": "sync",
+      "sha": "3072822c6a6832079de60fe8940953e008da165f",
+      "permissions": "100644"
+    },
+    "renovate.json": {
+      "mode": "sync",
+      "sha": "11ebb7e879d8a91d648d1b1b8c19395896331669",
+      "permissions": "100644"
+    }
+  }
+}
