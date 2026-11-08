@@ -16,9 +16,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  organization:
+    uses: LizardByte/.github/.github/workflows/__call-organization.yml@390ac9c7c1950249fe8197fe06b7ae49233ce405
+
   sync:
+    needs: organization
     if: >-
-      github.repository_owner == 'LizardByte' &&
+      needs.organization.outputs.allowed == 'true' &&
       (
         github.event_name == 'workflow_dispatch' ||
         (
