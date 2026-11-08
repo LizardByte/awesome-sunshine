@@ -29,7 +29,7 @@
     },
     ".github/workflows/_top-issues.yml": {
       "mode": "sync",
-      "sha": "3072822c6a6832079de60fe8940953e008da165f",
+      "sha": "83a8bf0617b59cdb96245bac71232aabbb620d14",
       "permissions": "100644"
     },
     "renovate.json": {
