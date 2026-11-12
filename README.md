@@ -33,6 +33,7 @@
 - [UWP/Xbox (One/Series)](https://github.com/TheElixZammuto/moonlight-xbox) - Moonlight client for UWP/Xbox (One/Series).
 - [PS Vita](https://github.com/xyzz/vita-moonlight) - Moonlight client for PS Vita.
 - [Nintendo Switch](https://github.com/XITRIX/Moonlight-Switch) - Moonlight client for Nintendo Switch.
+- [Nintendo Switch 2](https://github.com/XITRIX/Moonlight-CivSwitch) - Moonlight client for Nintendo Switch 2.
 - [Nintendo Wii U](https://github.com/GaryOderNichts/moonlight-wiiu) - Moonlight client for Nintendo Wii U.
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Moonlight client for New Nintendo 3DS.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight client for LG webOS TV.
